@@ -1,0 +1,1001 @@
+sentence_id,tokens,pos_tags,ner_tags
+8,"Despite winning the Asian Games title two years ago , Uzbekistan are in the finals as outsiders .","IN VBG DT JJ NNPS NN CD NNS RB , NNP VBP IN DT NNS IN NNS .",O O O B-MISC I-MISC O O O O O B-LOC O O O O O O O
+20,Hosts UAE play Kuwait and South Korea take on Indonesia on Saturday in Group A matches .,NNPS NNP NN NNP CC NNP NNP VBP IN NNP IN NNP IN NNP NNP VBZ .,O B-LOC O B-LOC O B-LOC I-LOC O O B-LOC O O O O O O O
+29,Coste said he had approached the player two months ago about a comeback .,NNP VBD PRP VBD VBN DT NN CD NNS RB RB DT NN .,B-PER O O O O O O O O O O O O O
+33,"Squad : Javier Pertile , Paolo Vaccari , Marcello Cuttitta , Ivan Francescato , Leandro Manteri , Diego Dominguez , Francesco Mazzariol , Alessandro Troncon , Orazio Arancio , Andrea Sgorlon , Massimo Giovanelli , Carlo Checchinato , Walter Cristofoletto , Franco Properzi Curti , Carlo Orlandi , Massimo Cuttitta , Giambatista Croci , Gianluca Guidi , Nicola Mazzucato , Alessandro Moscardi , Andrea Castellani .","VB : NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP .",O O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O
+34,SOCCER - LATE GOALS GIVE JAPAN WIN OVER SYRIA .,NN : JJ NNS VBP NNP NNP IN NNP .,O O O O O B-LOC O O B-LOC O
+36,Two goals in the last six minutes gave holders Japan an uninspiring 2-1 Asian Cup victory over Syria on Friday .,CD NNS IN DT JJ CD NNS VBD NNS NNP DT JJ CD NNP NNP NN IN NNP IN NNP .,O O O O O O O O O B-LOC O O O B-MISC I-MISC O O B-LOC O O O
+47,"Syria : 24 - Salem Bitar , 3 - Bachar Srour ; 4 - Hassan Abbas , 5 - Tarek Jabban , 6 - Ammar Awad ( 9 - Louay Taleb 69 ) , 8 - Nihad al-Boushi , 10 - Mohammed Afash , 12 - Ali Dib , 13 - Abdul Latif Helou ( 17 - Ammar Rihawiy 46 ) , 14 - Khaled Zaher ; 16 - Nader Jokhadar .","NNP : CD : NNP NNP , CD : NNP NNP : CD : NNP NNP , CD : NNP NNP , CD : NNP NNP ( CD : JJ NNP CD ) , CD : NNP NNS , CD : NNP NNP , CD : NNP NNP , CD : NNP NNP NNP ( CD : NNP NNP CD ) , CD : VBD NNP : CD : NNP NNP .",B-LOC O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER I-PER O O O B-PER I-PER O O O O O B-PER I-PER O O O B-PER I-PER O
+48,FREESTYLE SKIING-WORLD CUP MOGUL RESULTS .,NNP NNP NNP NNP NNS .,O B-MISC I-MISC O O O
+50,Results of the World Cup,NNS IN DT NNP NNP,O O O B-MISC I-MISC
+54,2. Andrei Ivanov ( Russia ) 24.88,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+55,3. Ryan Johnson ( Canada ) 24.57,NNP NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+57,5. Korneilus Hole ( Norway ) 23.92,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+58,6. Jeremie Collomb-Patton ( France ) 23.87,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+62,10. Troy Benson ( U.S. ) 22.56,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+64,1. Tatjana Mittermayer ( Germany ) 24.32,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+66,3. Minna Karhu ( Finland ) 24.05,NNP NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+70,7. Liz McIntyre ( U.S. ) 22.00,NNP NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+72,9. Ljudmila Dymchenko ( Russia ) 21.59,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+74,SOCCER - ASIAN CUP GROUP C RESULTS .,NN : NNP NNP NNP NNP NNS .,O O B-MISC I-MISC O O O O
+76,Results of Asian Cup group C matches played on Friday :,NNS IN NNP NNP NN NNP NNS VBN IN NNP :,O O B-MISC I-MISC O O O O O O O
+77,Japan 2 Syria 1 ( halftime 0-1 ),NNP CD NNP CD ( NN JJ ),B-LOC O B-LOC O O O O O
+82,China 0 Uzbekistan 2 ( halftime 0-0 ),NNP CD NNP CD ( NN CD ),B-LOC O B-LOC O O O O O
+86,"for , goals against , points ) :","IN , NNS IN , VBZ ) :",O O O O O O O O
+90,China 1 0 0 1 0 2 0,NNP CD CD CD CD CD CD CD,B-LOC O O O O O O O
+98,Saeed Anwar run out 91 ( corrects from 90 ),NNP NNP VBP RP CD ( VBZ IN CD ),B-PER I-PER O O O O O O O O
+101,Inzamamul Haq st Germon b Astle 2,JJ NNP NN NNP SYM NNP CD,B-PER I-PER O B-PER O B-PER O
+107,Mushtaq Ahmad not out 5,NNP NNP RB IN CD,B-PER I-PER O O O
+110,Total ( for 9 wickets in 47 overs ) 277,JJ ( IN CD NNS IN CD NNS ) CD,O O O O O O O O O O
+113,"Cairns 8-1-35-1 ( w-2 ) , Vaughan 9-1-55-1 , Harris 10-0-42-5 ( w-1 ) ,","NNS JJ ( CD ) , NNP CD , NNP CD ( CD ) ,",B-PER O O O O O B-PER O O B-PER O O O O O
+114,Astle 9-0-53-1 ( w-1 nb-1 ),NNP CD ( CD JJ ),B-PER O O O O O
+117,C. Spearman c Moin Khan b Wasim 0,NNP NNP SYM NNP NNP SYM NNP CD,B-PER I-PER O B-PER I-PER O B-PER O
+119,S. Fleming c and b Afridi 88,NNP NNP SYM CC SYM NNP CD,B-PER I-PER O O O B-PER O
+124,J. Vaughan c Moin Khan b Wasim 13,NNP NNP SYM NNP NNP SYM NN CD,B-PER I-PER O B-PER I-PER O B-PER O
+126,R. Kennedy not out 7,NNP NNP RB IN CD,B-PER I-PER O O O
+135,Result : Pakistan won by 46 runs .,NN : NNP VBD IN CD NNS .,O O B-LOC O O O O O
+137,SOCCER - ENGLISH F.A. CUP SECOND ROUND RESULT .,NN : NNP NNP NNP NNP NNP NNP .,O O B-MISC I-MISC I-MISC O O O O
+142,SOCCER - BLINKER BAN LIFTED .,NN : NNP NNP NNP .,O O B-PER O O O
+144,Dutch forward Reggie Blinker had his indefinite suspension lifted by FIFA on Friday and was set to make his Sheffield Wednesday comeback against Liverpool on Saturday .,JJ JJ NNP NNP VBD PRP$ JJ NN VBN IN NNP IN NNP CC VBD VBN TO VB PRP$ NNP NNP NN IN NNP IN NNP .,B-MISC O B-PER I-PER O O O O O O B-ORG O O O O O O O O B-ORG I-ORG O O B-ORG O O O
+148,"Blinker was fined 75,000 Swiss francs ( $ 57,600 ) for failing to inform the Engllsh club of his previous commitment to Udinese .",NN VBD VBN CD JJ NNS ( $ CD ) IN VBG TO VB DT NNP NN IN PRP$ JJ NN TO NNP .,B-PER O O O B-MISC O O O O O O O O O O B-MISC O O O O O O B-ORG O
+155,"Bowyer , who moved to the Yorkshire club in August for 3.5 million pounds ( $ 5.8 million ) , was expected to play against Middlesbrough on Saturday .","RB , WP VBD TO DT NNP NN IN NNP IN CD CD NNS ( $ CD CD ) , VBD VBN TO VB IN NNP IN NNP .",B-PER O O O O O B-LOC O O O O O O O O O O O O O O O O O O B-ORG O O O
+156,BASKETBALL - EUROLEAGUE STANDINGS .,NNP : NNP NNP .,O O B-MISC O O
+164,Maccabi Tel Aviv ( Israel ) 9 5 4 14,NNP NNP NNP ( NNP ) CD CD CD CD,B-ORG I-ORG I-ORG O B-LOC O O O O O
+173,Estudiantes Madrid ( Spain ) 9 5 4 14,NNP NNP ( NNP ) CD CD CD CD,B-ORG I-ORG O B-LOC O O O O O
+177,Ljubljana ( Slovenia ) 9 6 3 15,NNP ( NNP ) CD CD CD CD,B-ORG O B-LOC O O O O O
+183,Efes Pilsen ( Turkey ) 9 7 2 16,NNP NNP ( NNP ) CD CD CD CD,B-ORG I-ORG O B-LOC O O O O O
+188,Dynamo Moscow ( Russia ) 9 2 7 11,NNP NNP ( NNP ) CD CD CD CD,B-ORG I-ORG O B-LOC O O O O O
+189,RUGBY UNION - LITTLE TO MISS CAMPESE FAREWELL .,NNP NN : NNP TO NNP NNP NNP .,B-ORG I-ORG O B-PER O O B-PER O O
+194,Owen Finegan has recovered from the knocks he took in last weekend 's test against Wales and retains his place in the back-row ahead of Daniel Manu .,NNP NNP VBZ VBN IN DT VBZ PRP VBD IN JJ NN POS NN IN NNP CC VBZ PRP$ NN IN DT NN RB IN NNP NNP .,B-PER I-PER O O O O O O O O O O O O O B-LOC O O O O O O O O O B-PER I-PER O
+196,"The Wallabies currently have no plans to make any special presentation to the 34-year-old winger but a full house of 75,000 spectators will still gather in the hope of witnessing one last moment of magic .",DT NNP RB VBP DT NNS TO VB DT JJ NN TO DT JJ NN CC DT JJ NN IN CD NNS MD RB VB IN DT NN IN VBG CD JJ NN IN NN .,O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+198,""" Campo has a massive following in this country and has had the public with him ever since he first played here in 1984 , "" said Andrew , also likely to be making his final Twickenham appearance .",""" NNP VBZ DT JJ NN IN DT NN CC VBZ VBD DT JJ IN PRP RB IN PRP RB VBD RB IN CD , "" VBD NNP , RB JJ TO VB VBG PRP$ JJ NNP NN .",O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O B-LOC O O
+202,"Barbarians - 15 - Tim Stimpson ( England ) ; 14 - Nigel Walker ( Wales ) , 13 - Allan Bateman ( Wales ) , 12 - Gregor Townsend ( Scotland ) , 11 - Tony Underwood ( England ) ; 10 - Rob Andrew ( England ) , 9 - Rob Howley ( Wales ) ; 8 - Scott Quinnell ( Wales ) , 7 - Neil Back ( England ) , 6 - Dale McIntosh ( Pontypridd ) , 5 - Ian Jones ( New Zealand ) , 4 - Craig Quinnell ( Wales ) , 3 - Darren Garforth ( Leicester ) , 2 - Norm Hewitt ( New Zealand ) , 1 - Nick Popplewell ( Ireland ) .","NNP : CD : NNP NNP ( NNP ) : CD : NNP NNP ( NNP ) , CD : NNP NNP ( NNP ) , CD : NNP NNP ( NNP ) , CD : NNP NNP ( NNP ) : CD : NNP NNP ( NNP ) , CD : NNP NNP ( NNP ) : CD : NNP NNP ( NNP ) , CD : NNP RB ( NNP ) , CD : NNP NNP ( NNP ) , CD : NNP NNP ( NNP NNP ) , CD : NNP NNP ( NNP ) , CD : NNP NNP ( NNP ) , CD : NNP NNP ( NNP NNP ) , CD : NNP NNP ( NNP ) .",B-ORG O O O B-PER I-PER O B-LOC O O O O B-PER I-PER O B-LOC O O O O B-PER I-PER O B-LOC O O O O B-PER I-PER O B-LOC O O O O B-PER I-PER O B-LOC O O O O B-PER I-PER O B-LOC O O O O B-PER I-PER O B-LOC O O O O B-PER I-PER O B-LOC O O O O B-PER I-PER O B-LOC O O O O B-PER I-PER O B-LOC O O O O B-PER I-PER O B-LOC I-LOC O O O O B-PER I-PER O B-LOC O O O O B-PER I-PER O B-LOC O O O O B-PER I-PER O B-LOC I-LOC O O O O B-PER I-PER O B-LOC O O
+203,"Australia - 15 - Matthew Burke ; 14 - Joe Roff , 13 - Daniel Herbert , 12 - Tim Horan ( captain ) , 11 - David Campese ; 10 - Pat Howard , 9 - Sam Payne ; 8 - Michael Brial , 7 - David Wilson , 6 - Owen Finegan , 5 - David Giffin , 4 - Tim Gavin , 3 - Andrew Blades , 2 - Marco Caputo , 1 - Dan Crowley .","NNP : CD : NNP NNP : CD : NNP NNP , CD : NNP NNP , CD : NNP NNP ( NN ) , CD : NNP NNP : CD : NNP NNP , CD : NNP NNP : CD : NNP NNP , CD : NNP NNP , CD : NNP NNP , CD : NNP NNP , CD : NNP NNP , CD : NNP NNP , CD : NNP NNP , CD : NNP NNP .",B-LOC O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O
+204,GOLF - ZIMBABWE OPEN SECOND ROUND SCORES .,NN : NNP NNP NNP NNP NNP .,O O B-MISC I-MISC O O O O
+207,"Andrew Pitts ( U.S. ) 69 67 138 Mark Cayeux ( Zimbabwe ) 69 69 , Mark Murless 71 67 139 Hennie Swart 75 64 , Andrew Park 72 67 140 Schalk van der Merwe ( Namibia ) 67 73 , Desvonde","NNP NNP ( NNP ) CD CD CD NNP NNP ( NNP ) CD CD , NNP NNP CD CD CD NNP NNP CD CD , NNP NNP CD CD CD NNP NNP FW NNP ( NNP ) CD CD , NNP",B-PER I-PER O B-LOC O O O O B-PER I-PER O B-LOC O O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER I-PER I-PER O B-LOC O O O O B-PER
+208,"Botes 72 68 , Greg Reid 72 68 , Clinton Whitelaw 70","NNS CD CD , NNP NNP CD CD , NNP NNP CD",B-PER O O O B-PER I-PER O O O B-PER I-PER O
+209,"70 , Brett Liddle 75 65 , Hugh Baiocchi 73 67 141 Adilson da Silva ( Brazil ) 72 69 , Sammy Daniels 73","CD , NNP NNP CD CD , NNP NNP CD CD CD NNP NN NN ( NNP ) CD CD , NNP NNP CD",O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER I-PER O B-LOC O O O O B-PER I-PER O
+214,Romania trainer Anghel Iordanescu called up three uncapped players on Friday in his squad to face Macedonia next week in a World Cup qualifier .,NNP NN NNP NNP VBD RP CD JJ NNS IN NNP IN PRP$ NN TO VB NNP JJ NN IN DT NNP NNP NN .,B-LOC O B-PER I-PER O O O O O O O O O O O O B-LOC O O O O B-MISC I-MISC O O
+215,Midfielder Valentin Stefan and striker Viorel Ion of Otelul Galati and defender Liviu Ciobotariu of National Bucharest are the newcomers for the European group eight clash in Macedonia on December 14 .,NNP NNP NNP CC JJR NNP NNP IN NNP NNP CC NN NNP NNP IN NNP NNP VBP DT NNS IN DT JJ NN CD NN IN NNP IN NNP CD .,O B-PER I-PER O O B-PER I-PER O B-ORG I-ORG O O B-PER I-PER O B-ORG I-ORG O O O O O B-MISC O O O O B-LOC O O O O
+216,"Iordanescu said he had picked them because of their good performances in the domestic championship in which National Bucharest are top and Otelul Galati third . ""","NN VBD PRP VBD VBN PRP IN IN PRP$ JJ NNS IN DT JJ NN IN WDT NNP NNP VBP JJ CC NNP NNP NN . """,B-PER O O O O O O O O O O O O O O O O B-ORG I-ORG O O O B-ORG I-ORG O O O
+219,"Attacking midfielder Adrian Ilie , who recently moved from Steaua to Turkish club Galatasaray , is ruled out after two yellow-card offences .","VBG NN NNP NNP , WP RB VBD IN NNP TO JJ NN NN , VBZ VBN RP IN CD NN NNS .",O O B-PER I-PER O O O O O B-ORG O B-MISC O B-ORG O O O O O O O O O
+224,"Forwards - Ioan Vladoiu , Gheorghe Craioveanu , Ionel Danciulescu , Viorel Ion .","NNS : NNP NNP , NNP NNP , NNP NNP , NNP NNP .",O O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O
+229,"soccer championship semifinal , first leg matches on Thursday .","NN NN RB , JJ NN NNS IN NNP .",O O O O O O O O O O
+232,CRICKET - LARA ENDURES ANOTHER MISERABLE DAY .,NNP : NNP NNP NNP NNP NNP .,O O B-PER O O O O O
+237,"Australia , who hold a 2-0 lead in the five-match test series , overhauled West Indies ' total of 172 all out with eight balls to spare to end a run of six successive one-day defeats .","NNP , WP VBP DT CD JJ IN DT JJ NN NN , VBN NNP NNP POS NN IN CD DT IN IN CD NNS TO VB TO VB DT NN IN CD JJ JJ NNS .",B-LOC O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O
+241,Lara looked out of touch during his brief stay at the crease before chipping a simple catch to Shane Warne at mid-wicket .,NN VBD IN IN NN IN PRP$ JJ NN IN DT NN IN VBG DT JJ NN TO NNP NNP IN NNP .,B-PER O O O O O O O O O O O O O O O O O B-PER I-PER O O O
+246,Chanderpaul was forced to rely on a runner for most of his innings after hurting himself as he scurried back to his crease to avoid being run out .,NN VBD VBN TO VB IN DT NN IN JJS IN PRP$ NN IN VBG PRP IN PRP VBD RB TO PRP$ NN TO VB VBG VB RP .,B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+248,CRICKET - AUSTRALIA V WEST INDIES WORLD SERIES SCOREBOARD .,NNP : NNP NNP NNP NNP NN NNS VBN .,O O B-LOC O B-LOC I-LOC B-MISC I-MISC O O
+250,Scoreboard in the World Series,RB IN DT NNP NNP,O O O B-MISC I-MISC
+251,limited overs match between Australia and West Indies on Friday :,JJ NNS VBP IN NNP CC NNP NNP IN NNP :,O O O O B-LOC O B-LOC I-LOC O O O
+258,J. Adams lbw b Moody 5,NNP NNP NN SYM NNP CD,B-PER I-PER O O B-PER O
+259,J. Murray c Blewett b Warne 24,NNP NNP SYM NNP SYM NNP CD,B-PER I-PER O B-PER O B-PER O
+260,N. McLean c and b M. Waugh 7,NNP NNP SYM CC SYM NNP NNP CD,B-PER I-PER O O O B-PER I-PER O
+261,K. Benjamin b Warne 8,NNP NNP SYM NNP CD,B-PER I-PER O B-PER O
+266,Fall of wickets : 1-11 2-38 3-64 4-73 5-81 6-120 7-135 8-150,NN IN NN : CD CD JJ CD CD CD CD CD,O O O O O O O O O O O O
+272,M. Taylor b McLean 29,NNP NNP SYM NNP CD,B-PER I-PER O B-PER O
+273,M. Waugh c Murray b Benjamin 27,NNP NNP SYM NNP SYM NNP CD,B-PER I-PER O B-PER O B-PER O
+274,R. Ponting lbw McLean 5,NNP NNP VBD NNP CD,B-PER I-PER O B-PER O
+276,M. Bevan st Murray b Hooper 3,NNP NNP NN NNP SYM NNP CD,B-PER I-PER O B-PER O B-PER O
+280,"Total ( for five wickets , 48.4 overs ) 173","JJ ( IN CD NNS , CD NNS ) CD",O O O O O O O O O O
+281,Fall of wickets : 1-59 2-70 3-78 4-90 5-160 .,NN IN NN : CD CD JJ CD CD .,O O O O O O O O O O
+282,"Did not bat : I. Healy , P. Reiffel , S. Warne , J. Gillespie .","VBD RB VB : NNP NNP , NNP NNP , NNP NNP , NNP NNP .",O O O O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O
+283,"Bowling : Ambrose 10-3-19-0 ( 2nb 1w ) , Walsh 9-0-34-0 ( 4nb ) ,","NNP : NN CD ( CD CD ) , NNP NNP ( CD ) ,",O O B-PER O O O O O O B-PER O O O O O
+290,Scores : West Indies 172 all out in 49.2 overs ( Shivnarine Chanderpaul 54 ) ; Australia 173-5 in 48.4 overs ( Greg Blewett 57 not out ) .,NNS : NNP NNPS CD DT IN IN CD NNS ( NNP NNP CD ) : NNP CD IN CD NNS ( NNP NNP CD RB RP ) .,O O B-LOC I-LOC O O O O O O O B-PER I-PER O O O B-LOC O O O O O B-PER I-PER O O O O O
+291,CRICKET - WEST INDIES 172 ALL OUT IN 49.2 OVERS V AUSTRALIA .,NNP : NNP NNP CD NNP NNP IN CD NNS NNP NNP .,O O B-LOC I-LOC O O O O O O O B-LOC O
+297,"Tasmania 352 for three ( David Boon 106 not out , Shaun Young 86 not out , Michael DiVenuto 119 ) v Victoria .","NNP CD IN CD ( NNP NNP CD RB RP , NNP NNP CD RB RP , NNP NNP CD ) FW NNP .",B-LOC O O O O B-PER I-PER O O O O B-PER I-PER O O O O B-PER I-PER O O O B-ORG O
+298,CRICKET - LARA SUFFERS MORE AUSTRALIAN TOUR MISERY .,NNP : NNP NNP JJR IN JJ NN .,O O B-PER O O O O O O
+301,"Lara , who earned a stern rebuke from his own tour management after an angry outburst against Australia wicketkeeper Ian Healy , scored five to prolong a run of poor form with the bat .","NNP , WP VBD DT JJ NN IN PRP$ JJ NN NN IN DT JJ NN IN NNP NN NNP NNP , VBD CD TO VB DT NN IN JJ NN IN DT NN .",B-PER O O O O O O O O O O O O O O O O B-LOC O B-PER I-PER O O O O O O O O O O O O O O
+303,West Indies were 53 for two in 15 overs when rain stopped play at the Melbourne Cricket Ground after captain Courtney Walsh won the toss and elected to bat .,NNP NNP VBD CD IN CD IN CD NNS WRB NN VBD VB IN DT NNP NNP NNP IN NN NNP NNP VBD DT VB CC VBN TO VB .,B-LOC I-LOC O O O O O O O O O O O O O B-LOC I-LOC I-LOC O O B-PER I-PER O O O O O O O O
+304,Lara 's outburst three days ago has clearly turned some of the Australian public against him .,NNP POS JJS CD NNS RB VBZ RB VBD DT IN DT JJ NN IN PRP .,B-PER O O O O O O O O O O O B-MISC O O O O
+306,"On several occasions during his innings , the crowd joined together in a series of obscene chants against him .","IN JJ NNS IN PRP$ NNS , DT NN VBD RB IN DT NN IN JJ NNS IN PRP .",O O O O O O O O O O O O O O O O O O O O
+308,Lloyd did not say what form the discipline would take .,NNP VBD RB VB WP VBP DT NN MD VB .,B-PER O O O O O O O O O O
+310,Australia went on to win the match at the Sydney Cricket Ground by 124 runs to take a two-nil lead in the five-test series after Lara failed in both innings .,NNP VBD RP TO VB DT NN IN DT NNP NNP NNP IN CD VBZ TO VB DT JJ NN IN DT JJ NN IN NNP VBD IN DT NN .,B-LOC O O O O O O O O B-LOC I-LOC I-LOC O O O O O O O O O O O O O B-PER O O O O O
+313,"Pakistan , who arrive next week , are the third team in the triangular World Series tournament .","NNP , WP VBP JJ NN , VBP DT JJ NN IN DT JJ NNP NNP NN .",B-LOC O O O O O O O O O O O O O B-MISC I-MISC O O
+319,"West Indies - Sherwin Campbell , Robert Samuels , Brian Lara , Shivnarine Chanderpaul , Carl Hooper , Jimmy Adams , Junior Murray , Nixon McLean , Kenneth Benjamin , Curtly Ambrose , Courtney Walsh ( captain ) , Roland Holder 12th man .","NNP NNP : NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP , NNP NNP ( NN ) , NNP NNP JJ NN .",B-LOC I-LOC O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O O O O B-PER I-PER O O O
+322,Results in last of the group matches at the World Grand Prix badminton finals on Friday :,NNS IN JJ IN DT NN VBZ IN DT NNP NNP NNP NN NNS IN NNP :,O O O O O O O O O B-MISC I-MISC I-MISC O O O O O
+327,Indra Wijaya ( Indonesia ) beat Ong Ewe Hock ( Malaysia ) 5-15 15-11 15-11,NNP NNP ( NNP ) VB NNP NNP NNP ( NNP ) JJ CD CD,B-PER I-PER O B-LOC O O B-PER I-PER I-PER O B-LOC O O O O
+332,Allan Budi Kuksuma ( Indonesia ) beat Poul-Erik Hoyer-Larsen ( Denmark ) 15-7 15-4,NNP NNP NNP ( NNP ) VB NNP NNP ( NNP ) CD JJ,B-PER I-PER I-PER O B-LOC O O B-PER I-PER O B-LOC O O O
+333,Budi Santoso ( Indonesia ) beat Hu Zhilan ( China ) 15-4 15-5,NNP NNP ( NNP ) VB NNP NNP ( NNP ) JJ CD,B-PER I-PER O B-LOC O O B-PER I-PER O B-LOC O O O
+335,Wijaya ( Indonesia ) ; Sun Jun ( China ) v Allan Budi Kusuma,NNP ( NNP ) : NNP NNP ( NNP ) JJ NNP NNP NNP,B-PER O B-LOC O O B-PER I-PER O B-LOC O O B-PER I-PER I-PER
+339,Gong Zhichao ( China ) beat Mia Audina ( Indonesia ) 11-2 12-10,NNP NNP ( NNP ) VB NNP NNP ( NNP ) CD JJ,B-PER I-PER O B-LOC O O B-PER I-PER O B-LOC O O O
+341,Ye Zhaoying ( China ) beat Meiluawati ( Indonesia ) 11-6 12-10,NNP NNP ( NNP ) VB NNP ( NNP ) CD JJ,B-PER I-PER O B-LOC O O B-PER O B-LOC O O O
+346,Semifinals ( on Saturday ) : Susi Susanti ( Indonesia ) v Camilla Martin ( Denmark ) ; Ye Zhaoying ( China ) v Gong Zichao ( China ) .,NNS ( IN NNP ) : NNP NNP ( NNP ) IN NNP NNP ( NNP ) : NNP NNP ( NNP ) JJ NNP NNP ( NNP ) .,O O O O O O B-PER I-PER O B-LOC O O B-PER I-PER O B-LOC O O B-PER I-PER O B-LOC O O B-PER I-PER O B-LOC O O
+351,"Aly Ashour 7 , 56 penalty , Mohamed Ouda 24 , 73","RB NNP CD , CD NN , NNP NNP CD , CD",B-PER I-PER O O O O O B-PER I-PER O O O
+352,Contractors won 4-0 on aggregate .,NNS VBD JJ IN NN .,O O O O O O
+353,NHL ICE HOCKEY - STANDINGS AFTER THURSDAY 'S GAMES .,NNP NNP NNP : NNP NNP NNP POS NNS .,B-ORG O O O O O O O O O
+362,BUFFALO 13 12 1 77 76 27,NNP CD CD CD CD CD CD,B-ORG O O O O O O
+363,BOSTON 10 11 4 74 84 24,NNP CD CD CD CD CD CD,B-ORG O O O O O O
+364,MONTREAL 10 14 4 96 103 24,NNP CD CD CD CD CD CD,B-ORG O O O O O O
+365,PITTSBURGH 9 13 3 81 91 21,NNS CD CD CD CD CD CD,B-ORG O O O O O O
+366,OTTAWA 7 11 6 62 72 20,NNP CD CD CD CD CD CD,B-ORG O O O O O O
+370,PHILADELPHIA 14 12 2 75 75 30,NNP CD CD CD CD CD CD,B-ORG O O O O O O
+371,NEW JERSEY 14 10 1 61 61 29,NNP NNP CD CD CD CD CD CD,B-ORG I-ORG O O O O O O
+374,NY ISLANDERS 7 11 8 65 72 22,DT NNS CD CD CD CD CD CD,B-ORG I-ORG O O O O O O
+378,W L T GF GA PTS,NNP NNP NNP NNP NNP NNP,O O O O O O
+382,ST LOUIS 13 14 0 78 81 26,PRP VBZ CD CD CD CD CD CD,B-ORG I-ORG O O O O O O
+384,PHOENIX 9 13 4 61 74 22,NNS CD CD CD CD CD CD,B-ORG O O O O O O
+388,VANCOUVER 14 11 1 84 83 29,NNP CD CD CD CD CD CD,B-ORG O O O O O O
+391,SAN JOSE 10 13 4 69 87 24,NNP NNP CD CD CD CD CD CD,B-ORG I-ORG O O O O O O
+392,CALGARY 10 16 2 65 77 22,NNP CD CD CD CD CD CD,B-ORG O O O O O O
+402,NHL ICE HOCKEY - THURSDAY 'S RESULTS .,NNP NNP NNP : NNS VBZ NNS .,B-ORG O O O O O O O
+414,NFL AMERICAN FOOTBALL-COLTS CLOBBER EAGLES TO STAY IN PLAYOFF HUNT .,NNP NNP NNS NNP NNP TO NNP IN NN NN .,B-ORG O O O B-ORG O O O O O O
+423,"The Colts won despite the absence of injured starting defensive tackle Tony Siragusa , cornerback Ray Buchanan and linebacker Quentin Coryatt .","DT NNP VBD IN DT NN IN JJ VBG JJ NN NNP NNP , NN NNP NNP CC VBD NNP NNP .",O B-ORG O O O O O O O O O B-PER I-PER O O B-PER I-PER O O B-PER I-PER O
+425,"Justin made his second straight start for Harbaugh , who has a knee injury .","NNP VBD PRP$ JJ JJ NN IN NNP , WP VBZ DT NN NN .",B-PER O O O O O O B-PER O O O O O O O
+426,Justin suffered a sprained right shoulder in the third quarter and did not return .,NNP VBD DT JJ NN NN IN DT JJ NN CC VBD RB NN .,B-PER O O O O O O O O O O O O O O
+427,"Third-stringer Kerwin Bell , a 1988 draft choice of the Miami Dolphins , made his NFL debut and was 5-of-5 for 75 yards , including a 20-yard scoring strike to Marvin Harrison in the third period .","JJ NNP NNP , DT CD NN NN IN DT NNP NNPS , VBD PRP$ NNP NN CC VBD CD IN CD NNS , VBG DT JJ NN NN TO NNP NNP IN DT JJ NN .",O B-PER I-PER O O O O O O O B-ORG I-ORG O O O B-ORG O O O O O O O O O O O O O O B-PER I-PER O O O O O
+430,"Ricky Watters , who leads the NFC in rushing , left the game after getting kneed to the helmet after gaining 33 yards on seven carries .","NNP NNP , WP VBZ DT NNP IN VBG , VBD DT NN IN VBG VBN TO DT NN IN VBG CD NNS IN CD VBZ .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O
+435,"( tabulate under won , lost , percentage , games behind ) :","( NN IN JJ , VBD , NN , NNS IN ) :",O O O O O O O O O O O O O
+439,MIAMI 14 4 .778 -,NNP CD CD CD :,B-ORG O O O O
+441,ORLANDO 8 6 .571 4,NNP CD CD CD CD,B-ORG O O O O
+442,WASHINGTON 7 9 .438 6,NNP CD CD CD CD,B-ORG O O O O
+448,CHICAGO 17 1 .944 -,NNP CD CD CD :,B-ORG O O O O
+450,CLEVELAND 11 5 .688 5,NNP CD CD CD CD,B-ORG O O O O
+451,ATLANTA 10 8 .556 7,NNP CD CD CD CD,B-ORG O O O O
+455,TORONTO 6 11 .353 10 1/2,TO CD CD CD CD CD,B-ORG O O O O O
+459,HOUSTON 16 2 .889 -,NNP CD CD CD :,B-ORG O O O O
+460,UTAH 14 2 .875 1,NNP CD CD CD CD,B-ORG O O O O
+461,MINNESOTA 7 10 .412 8 1/2,NNP CD CD CD CD CD,B-ORG O O O O O
+469,LA LAKERS 13 7 .650 2,NNP NNS CD CD CD CD,B-ORG I-ORG O O O O
+492,W L T PF PA,NNP NNP NNP NNP NNP,O O O O O
+496,MIAMI 6 7 0 285 266,NNP CD CD CD CD CD,B-ORG O O O O O
+503,CINCINNATI 5 8 0 299 318,NNP CD CD CD CD CD,B-ORG O O O O O
+515,DALLAS 8 5 0 254 201,NNP CD CD CD CD CD,B-ORG O O O O O
+519,NY GIANTS 5 8 0 200 250,DT NNS CD CD CD CD CD,B-ORG I-ORG O O O O O
+521,W L T PF PA,NNP NNP NNP NNP NNP,O O O O O
+522,Y-GREEN BAY 10 3 0 346 191,NNP NNP CD CD CD CD CD,B-MISC I-MISC O O O O O
+524,CHICAGO 5 8 0 202 248,NNP CD CD CD CD CD,B-ORG O O O O O
+525,DETROIT 5 8 0 263 289,VBG CD CD CD CD CD,B-ORG O O O O O
+529,SAN FRANCISCO 10 3 0 325 198,NNP NNP CD CD CD CD CD,B-ORG I-ORG O O O O O
+530,CAROLINA 9 4 0 292 164,VBG CD CD CD CD CD,B-ORG O O O O O
+531,ST LOUIS 4 9 0 246 334,PRP VBZ CD CD CD CD CD,B-ORG I-ORG O O O O O
+535,Y -- CLINCHED PLAYOFF BERTH,NNP : NNP NNP NNP,O O O O O
+552,NFL AMERICAN FOOTBALL-THURSDAY 'S RESULT .,NNP NNP NNP POS NNP .,B-ORG O O O O O
+555,League game on Thursday ( home team in CAPS ) :,NN NN IN NNP ( NN NN IN NNP ) :,B-LOC O O O O O O O O O O
+560,"Pace , a junior , helped Ohio State to a 10-1 record and a berth in the Rose Bowl against Arizona State .","NNP , DT NN , VBD NNP NNP TO DT JJ NN CC DT NN IN DT NNP NNP IN NNP NNP .",B-PER O O O O O B-ORG I-ORG O O O O O O O O O B-MISC I-MISC O B-ORG I-ORG O
+564,"The Lombardi Award is presented to the college lineman who , in addition to outstanding effort on the field , best exemplifies the characteristics and discipline of Vince Lombardi , legendary coach of the Green Bay Packers .","DT NNP NNP VBZ VBN TO DT NN NN WP , IN NN TO JJ NN IN DT NN , RB VBZ DT NNS CC NN IN NNP NNP , JJ NN IN DT NNP NNP NNPS .",O B-MISC I-MISC O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O B-ORG I-ORG I-ORG O
+567,Result of Dutch first division,NN IN JJ JJ NN,O O B-MISC O O
+568,soccer match played on Friday :,NN NN VBD IN NNP :,O O O O O O
+570,"Standings ( tabulate under played , won , drawn , lost , goals","NNS ( NN IN JJ , VBD , VBN , VBD , NNS",O O O O O O O O O O O O O
+571,"for , goals against , points ) :","IN , NNS IN , VBZ ) :",O O O O O O O O
+573,Feyenoord 17 11 3 3 29 20 36,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+574,Twente Enschede 18 10 4 4 28 15 34,NNP NN CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+575,Graafschap Doetinchem 18 9 3 6 29 22 30,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+578,Heerenveen 18 7 7 4 30 20 28,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+580,Utrecht 18 4 10 4 26 24 22,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+584,Willem II Tilburg 18 5 4 9 19 31 19,NNP NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG I-ORG O O O O O O O
+585,Groningen 18 4 6 8 20 31 18,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+592,Results of German first division,NNS IN JJ JJ NN,O O B-MISC O O
+593,soccer matches played on Friday :,NN NNS VBN IN NNP :,O O O O O O
+597,Schalke 2 Hansa Rostock 0,FW CD NNP NNP CD,B-ORG O B-ORG I-ORG O
+598,"Standings ( tabulated under played , won , drawn , lost , goals","NNS ( VBN IN JJ , VBD , VBN , VBD , NNS",O O O O O O O O O O O O O
+599,for goals against points ) :,IN NNS IN NNS ) :,O O O O O O
+600,Bayer Leverkusen 17 10 4 3 38 22 34,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+601,Bayern Munich 16 9 6 1 26 14 33,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+608,Werder Bremen 17 6 4 7 29 28 22,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+609,MSV Duisburg 16 5 4 7 16 22 19,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+615,FC Hansa Rostock 17 4 3 10 19 26 15,NNP NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG I-ORG O O O O O O O
+616,Borussia Monchengladbach 16 4 3 9 12 22 15,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+617,SC Freiburg 17 4 1 12 20 40 13,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+620,Summaries of French first division,NNS IN JJ JJ NN,O O B-MISC O O
+627,Paris St Germain 1 ( Bruno N'Gotty 2 ) Nancy 2 ( Paul Fischer,NNP NNP NNP CD ( NNP NNP CD ) NNP CD ( NNP NNP,B-ORG I-ORG I-ORG O O B-PER I-PER O O B-ORG O O B-PER I-PER
+628,"70 , Phil Gray 89 ) .","CD , NNP NNP CD ) .",O O B-PER I-PER O O O
+634,soccer match played on Friday :,NN NN VBD IN NNP :,O O O O O O
+642,"division after Friday 's matches ( tabulate under played , won ,","NN IN NNP POS NNS ( NN IN JJ , VBD ,",O O O O O O O O O O O O
+643,"drawn , lost , goals for , against , points ) :","VBN , VBD , NNS IN , RB , VBZ ) :",O O O O O O O O O O O O
+645,Monaco 20 12 5 3 36 16 41,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+646,Bordeaux 20 9 7 4 29 21 34,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+654,Marseille 20 6 8 6 18 17 26,JJ CD CD CD CD CD CD CD,B-ORG O O O O O O O
+655,Lyon 20 6 8 6 24 31 26,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+656,Rennes 20 7 4 9 23 28 25,NNS CD CD CD CD CD CD CD,B-ORG O O O O O O O
+657,Lens 21 7 4 10 25 34 25,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+659,Cannes 20 5 7 8 13 22 22,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+669,Paris St Germain 1 Nancy 2,NNP NNP NNP CD NNP CD,B-ORG I-ORG I-ORG O B-ORG O
+673,"Bochum 2 ( Stickroth 30th pen , Wosz 89th ) Bayer Leverkusen 2 ( Kirsten 18th , Ramelow 56th ) .","NNP CD ( NNP JJ NN , NNP JJ ) NNP NNP CD ( NNP JJ , NNP NNP ) .",B-ORG O O B-PER O O O B-PER O O B-ORG I-ORG O O B-PER O O B-PER O O O
+676,Werder Bremen 1 ( Bode 85th ) 1860 Munich 1 ( Bormirow 8th ) .,NNP NNP CD ( NNP CD ) CD NNP CD ( JJ JJ ) .,B-ORG I-ORG O O B-PER O O B-ORG I-ORG O O B-PER O O O
+688,Yevgeny Kafelnikov ( Russia ) beat Jim Courier ( U.S. ) 2-6 6-4 8-6,NNP NNP ( NNP ) VB NNP NNP ( NNP ) CD CD CD,B-PER I-PER O B-LOC O O B-PER I-PER O B-LOC O O O O
+689,SOCCER - WEAH HEAD-BUTT DEPRIVES PORTUGAL OF COSTA .,NN : NNP NNP NNP JJ IN NNP .,O O B-PER O O B-LOC O B-PER O
+691,"Portugal called up Porto central defender Joao Manuel Pinto on Friday to face Germany in a World Cup qualifier in place of injured club colleague Jorge Costa , who is still nursing a broken nose after being head-butted by Liberian striker Georg Weah .","NNP VBD IN NNP JJ NN NNP NNP NNP IN NNP TO VB NNP IN DT NNP NNP NN IN NN IN JJ NN NN NNP NNP , WP VBZ RB VBG DT VBN NN IN VBG JJ IN JJ NN NNP NNP .",B-LOC O O B-ORG O O B-PER I-PER I-PER O O O O B-LOC O O B-MISC I-MISC O O O O O O O B-PER I-PER O O O O O O O O O O O O B-MISC O B-PER I-PER O
+692,Costa has not played since being struck by the AC Milan forward after a bad-tempered European Champions ' League game on November 27 .,NNP VBZ RB VBN IN VBG VBD IN DT NNP NNP JJ IN DT JJ JJ NNP POS NNP NN IN NNP CD .,B-PER O O O O O O O O B-ORG I-ORG O O O O B-MISC I-MISC I-MISC I-MISC O O O O O
+694,The Portuguese host Germany on December 14 .,DT JJ NN NNP IN NNP CD .,O B-MISC O B-LOC O O O O
+696,"Goalkeepers - Vitor Baia ( Barcelona , Spain ) , Rui Correia ( Braga ) :","NNS : NNP NNP ( NNP , NNP ) , NNP NNP ( NNP ) :",O O B-PER I-PER O B-ORG O B-LOC O O B-PER I-PER O B-ORG O O
+698,"Midfielders - Rui Barros ( Porto ) , Jose Barroso ( Porto ) , Luis Figo ( Barcelona ) , Paulo Bento ( Oviedo , Spain ) , Jose Taira ( Salamanca , Spain ) :","NNS : NNP NNP ( NNP ) , NNP NNP ( NNP ) , NNP NNP ( NNP ) , NNP NNP ( NNP , NNP ) , NNP NNP ( NNP , NNP ) :",O O B-PER I-PER O B-ORG O O B-PER I-PER O B-ORG O O B-PER I-PER O B-ORG O O B-PER I-PER O B-ORG O B-LOC O O B-PER I-PER O B-ORG O B-LOC O O
+702,William Hill betting on Saturday 's,NNP NNP VBG IN NNP POS,B-PER I-PER O O O O
+733,First goalscorer of match :,RB NN IN NN :,O O O O O
+735,9-2 Davor Suker 9-2 Ronaldo,CD NNP NNP NNP NNP,O B-PER I-PER O B-PER
+753,40-1 Rafael Alkorta 33-1 Albert,JJ NNP NNP NNP NNP,O B-PER I-PER O B-PER
+755,40-1 Chendo Porlan 33-1 Miguel Nadal,JJ NNP NNP NNP NNP NNP,O B-PER I-PER O B-PER I-PER
+760,"Spanish police will breathalyse fans at the gates of the Santiago Bernabeu stadium and ban drunk supporters from Saturday 's big Real Madrid-Barcelona game , the Madrid daily El Mundo said on Friday .","JJ NN MD VB NNS IN DT NNS IN DT NNP NNP NN CC NN JJ NNS IN NNP POS JJ NNP NNP NN , DT NNP RB NNP NNP VBD IN NNP .",B-MISC O O O O O O O O O B-LOC I-LOC I-LOC O O O O O O O O B-MISC I-MISC O O O B-LOC O B-ORG I-ORG O O O O
+768,"against , points ) :","IN , VBZ ) :",O O O O O
+769,Real Madrid 15 10 5 0 31 12 35,JJ NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+771,Deportivo Coruna 15 9 6 0 23 7 33,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+772,Real Betis 15 8 5 2 28 13 29,JJ NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+776,Valladolid 15 7 3 5 19 18 24,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+779,Valencia 15 6 2 7 23 22 20,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+785,Logrones 15 4 3 8 11 33 15,NNS CD CD CD CD CD CD CD,B-ORG O O O O O O O
+786,Zaragoza 15 2 8 5 18 23 14,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+802,""" I will be happy to give him the award personally on January 20 in Lisbon and I 'm confident that Costa himself will be there beside me on that day to shake his hand . """,""" PRP MD VB JJ TO VB PRP DT NN RB IN NNP CD IN NNP CC PRP VBP JJ IN JJ PRP MD VB RB IN PRP IN DT NN TO VB PRP$ NN . """,O O O O O O O O O O O O O O O B-LOC O O O O O B-PER O O O O O O O O O O O O O O O
+804,The incident took place in the players ' tunnel after a European Champions ' League match on November 20 .,DT NN VBD NN IN DT NNS POS NN IN DT NNP NNP POS NNP NN IN NNP CD .,O O O O O O O O O O O B-MISC I-MISC I-MISC I-MISC O O O O O
+805,Weah has admitted head butting Costa but said he reacted to racist taunts .,NNP VBZ VBN NN VBG NNP CC VBD PRP VBD TO JJ NNS .,B-PER O O O O B-PER O O O O O O O O
+807,"Costa , who needed surgery on his nose , has not accepted the offer and was reported to be considering suing Weah .","NNP , WP VBD NN IN PRP$ NN , VBZ RB VBN DT NN CC VBD VBN TO VB VBG VBG NNP .",B-PER O O O O O O O O O O O O O O O O O O O O B-PER O
+808,Weah served out his suspension during Milan 's 2-1 home defeat by Rosenborg of Norway on Wednesday .,NNS VBD RP PRP$ NN IN NNP POS CD NN VB IN NNP IN NNP IN NNP .,B-PER O O O O O B-ORG O O O O O B-ORG O B-LOC O O O
+810,GUNMEN WOUND TWO MANCHESTER UNITED FANS IN AUSTRIA .,NNP NNP CD NNP NNP NNP IN NNP .,O O O B-ORG I-ORG O O B-LOC O
+812,"Two Manchester United soccer fans were wounded by unidentified gunmen on Friday and taken to hospital in the Austrian capital , police said .","CD NNP NNP NN NNS VBD VBN IN JJ NNS IN NNP CC VBN TO NN IN DT JJ NN , NN VBD .",O B-ORG I-ORG O O O O O O O O O O O O O O O B-MISC O O O O O
+817,Manchester United won 2-0 .,NNP NNP VBD CD .,B-ORG I-ORG O O O
+818,SOCCER - ITALIAN FIRST DIVISION MATCHES THIS WEEKEND .,NN : NNP NNP NNP NNP NNP NNP .,O O B-MISC O O O O O O
+821,Bologna ( 4 ) v Piacenza ( 13 ) 1330,NNP ( CD ) JJ NNS ( CD ) CD,B-ORG O O O O B-ORG O O O O
+825,Cagliari start favourite in this relegation scrap following draws with Napoli and Inter in last two outings but will be without suspended Swiss defender Ramon Vega .,NNP VB VBP IN DT NN NN VBG VBZ IN NNP CC NNP IN JJ CD NNS CC MD VB IN VBN JJ NN NNP NNP .,B-ORG O O O O O O O O O B-ORG O B-ORG O O O O O O O O O B-MISC O B-PER I-PER O
+826,"Bottom team Reggiana are also without a suspended defender , German Dietmar Beiersdorfer .","NNP NN NNP VBP RB IN DT VBN NN , NNP NNP NNP .",O O B-ORG O O O O O O O B-MISC B-PER I-PER O
+828,"Fiorentina will be without three suspended players -- defenders Daniele Carnasciali and Lorenzo Amoruso and midfielder Emiliano Bigica -- for a difficult home match against unpredictable , attack-oriented Perugia led by in-form Croat striker Milan Rapajic and the experienced Fausto Pizzi .","NNP MD VB IN CD VBD NNS : NNS NNP NNP CC NNP NNP CC JJR NNP NNP : IN DT JJ NN NN IN JJ , JJ NNP VBD IN JJ NNP NN NNP NNP CC DT JJ NNP NNP .",B-ORG O O O O O O O O B-PER I-PER O B-PER I-PER O O B-PER I-PER O O O O O O O O O O B-ORG O O O B-MISC O B-PER I-PER O O O B-PER I-PER O
+829,Lazio ( 12 ) v AS Roma ( 7 ) 1930,NNP ( CD ) JJ NNP NNP ( CD ) CD,B-ORG O O O O B-ORG I-ORG O O O O
+837,Napoli ( 5 ) v Verona ( 17 ) 1330,NNP ( CD ) JJ NNP ( CD ) CD,B-ORG O O O O B-ORG O O O O
+838,In-form Napoli should prove too strong for second from bottom Verona despite the absence of their suspended Argentine defender Roberto Ayala .,NNS NNP MD VB RB JJ IN JJ IN JJ NNP IN DT NN IN PRP$ VBN JJ NN NNP NNP .,O B-ORG O O O O O O O O B-ORG O O O O O O B-MISC O B-PER I-PER O
+840,Parma ( 14 ) v Atlalanta ( 15 ) 1330,NNP ( CD ) JJ NNP ( CD ) CD,B-ORG O O O O B-ORG O O O O
+844,Sampdoria ( 6 ) v Juventus ( 3 ) 1330,NNP ( CD ) JJ NNS ( CD ) CD,B-ORG O O O O B-ORG O O O O
+845,"All-conquering Juventus field their most recent signing , Portuguese defender Dimas , while Alessandro Del Piero and Croat Alen Boksic lead the attack .","VBG NNP NN PRP$ RBS JJ NN , JJ NN NNP , IN NNP NNP NNP CC NNP NNP NNP NN DT NN .",O B-ORG O O O O O O B-MISC O B-PER O O B-PER I-PER I-PER O B-MISC B-PER I-PER O O O O
+850,Inter will be without suspended French defender Joceyln Angloma and injured Chilean striker Ivan Zamorano .,NNP MD VB IN VBN JJ NN NNP NNP CC VBN JJ NN NNP NNP .,B-ORG O O O O B-MISC O B-PER I-PER O O B-MISC O B-PER I-PER O
+851,BASKETBALL - EUROLEAGUE RESULT .,NNP : NNP NNP .,O O B-MISC O O
+853,Result of a EuroLeague basketball match on Thursday :,NN IN DT NNP NN VB IN NNP :,O O O B-MISC O O O O O
+859,"Estudiantes - Harper Williams 20 , Chadler Thompson 17 , Juan Aisa 14","NNS : NNP NNP CD , NNP NNP CD , NNP NNP CD",B-ORG O B-PER I-PER O O B-PER I-PER O O B-PER I-PER O
+864,Partizan - Dejan Koturovic 21,NNP : NNP NNP CD,B-ORG O B-PER I-PER O
+865,Kinder - Zoran Savic 18,NN : NNP NNP CD,O O B-PER I-PER O
+866,SQUASH - EYLES WITHIN SIGHT OF FIFTH TITLE OF YEAR .,NNP : NNP NNP VBP IN IN DT IN NNP .,O O B-PER O O O O O O O O
+870,Top-seeded Eyles now meets titleholder Peter Nicol of Scotland who overcame Simon Parke of England 15-7 15-12 15-12 .,JJ NNPS RB VBZ NN NNP NNP IN NNP WP VBD NNP NNP IN NNP CD CD NN .,O B-PER O O O B-PER I-PER O B-LOC O O B-PER I-PER O B-LOC O O O O
+871,"Nicol was full of praise for his opponent who has battled testicular cancer to return to the circuit . ""","NNP VBD JJ IN NN IN PRP$ NN WP VBZ VBN JJ NN TO VB TO DT NN . """,B-PER O O O O O O O O O O O O O O O O O O O
+873,SQUASH - MAHINDRA INTERNATIONAL SEMIFINAL RESULTS .,NNP : NNP NNP NNP NNS .,O O B-MISC I-MISC O O O
+879,"DURBAN , South Africa 1996-12-06","NNP , NNP NNP CD",B-PER O B-LOC I-LOC O
+885,There had been no arrests .,EX VBD VBN DT NNS .,O O O O O O
+887,"They said the recent lull in political feuding could be upset as thousands of migrant workers , some tense with grudges brewed in the cities and keen to settle old scores , flock back to their home villages .","PRP VBD DT JJ NN IN JJ NN MD VB JJ IN NNS IN JJ NNS , DT NN IN NNS VBN IN DT NNS CC JJ TO VB JJ NNS , RB RB TO PRP$ NN NNS .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+895,with the United States and with the first woman ever to hold the position of Secretary of State .,IN DT NNP NNP CC IN DT JJ NN RB TO VB DT NN IN NNP IN NNP .,O O B-LOC I-LOC O O O O O O O O O O O O O O O
+896,"I wish her well , "" Havel said in a statement to Reuters .","PRP VBP PRP RB , "" NNP VBD IN DT NN TO NNP .",O O O O O O B-PER O O O O O B-ORG O
+897,"Havel , who helped lead the "" velvet revolution "" that ousted the Communist regime in Prague in 1989 , invited Albright , then working for a private foreign policy think tank , to advise his new democratic government in 1990 .","NNP , WP VBD VB DT "" NN NN "" IN JJ DT NNP NN IN NNP IN CD , VBD NNP , RB VBG IN DT JJ JJ NN VB NN , TO VB PRP$ JJ JJ NN IN CD .",B-PER O O O O O O O O O O O O B-MISC O O B-LOC O O O O B-PER O O O O O O O O O O O O O O O O O O O O
+898,Havel had a small malignant tumour removed from his lung on Monday and is recovering in hospital .,NNP VBD DT JJ JJ JJ VBN IN PRP$ NN IN NNP CC VBZ VBG IN NN .,B-PER O O O O O O O O O O O O O O O O O
+899,"Albright , born Marie Korbelova to a Czechoslovak diplomat in 1937 , fled with her family to the United States after the Communists came to power in a coup in 1948 .","NN , VBN NNP NNP TO DT JJ NN IN CD , VBD IN PRP$ NN TO DT NNP NNP IN DT NNPS VBD TO NN IN DT NN IN CD .",B-PER O O B-PER I-PER O O B-MISC O O O O O O O O O O B-LOC I-LOC O O B-MISC O O O O O O O O O
+905,"Czech ambassador to the United Nations , Karel Kovanda , told the daily Mlada Fronta Dnes that Albright "" is a little light in our diplomatic heaven , "" but warned against expecting her to exert any influence in favour of the Czechs .","JJ NN TO DT NNP NNPS , NNP NNP , VBD DT JJ NNP NNP NNP IN NNP "" VBZ DT JJ NN IN PRP$ JJ NN , "" CC VBD IN VBG PRP TO VB DT NN IN NN IN DT NNPS .",B-LOC O O O B-ORG I-ORG O B-PER I-PER O O O O B-ORG I-ORG I-ORG O B-PER O O O O O O O O O O O O O O O O O O O O O O O O B-MISC O
+911,"* The three parties in the government coalition have committed themselves to a real reform of Romania 's economy , Constantinescu said after the ceremony .","SYM DT CD NNS IN DT NN NN VBP JJ PRP TO DT JJ NN IN NNP POS NN , NNP VBD IN DT NN .",O O O O O O O O O O O O O O O O B-LOC O O O B-PER O O O O O
+914,-- Bucharest Newsroom 40-1 3120264,: NNP NNP NNP CD,O B-ORG I-ORG O O
+917,"Saturday 's national congress of the ruling Czech Civic Democratic Party ( ODS ) will discuss making the party more efficient and transparent , Foreign Minister and ODS vice-chairman Josef Zieleniec , said on Friday .","NNP POS JJ NN IN DT VBG JJ NNP NNP NNP ( NNP ) MD VB VBG DT NN JJR JJ CC JJ , NNP NNP CC NNP NN NNP NNP , VBD IN NNP .",O O O O O O O B-ORG I-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O O O B-ORG O B-PER I-PER O O O O O
+922,"The ODS , a party in which Klaus often tries to emulate the style of former British Prime Minister Margaret Thatcher , has been in control of Czech politics since winning general elections in 1992 .","DT NNP , DT NN IN WDT NNP RB VBZ TO VB DT NN IN JJ NNP NNP NNP NNP NNP , VBZ VBN IN NN IN NNP NNS IN VBG JJ NNS IN CD .",O B-ORG O O O O O B-PER O O O O O O O O B-MISC O O B-PER I-PER O O O O O O B-LOC O O O O O O O O
+928,POLAND GOT MONEY FROM POST-WAR SWISS ACCOUNTS .,NNP NNP NNP NNP NNP NNP NNS .,B-LOC O O O O B-MISC O O
+932,"Foreign Minister Dariusz Rosati , unveiling first findings of a special government commission , said that in 1970s the then communist Poland received 460,000 Swiss francs from the accounts .","NNP NNP NNP NNP , VBG JJ NNS IN DT JJ NN NN , VBD IN IN NNS DT RB JJ NNP VBD CD JJ NNS IN DT NNS .",O O B-PER I-PER O O O O O O O O O O O O O O O O O B-LOC O O B-MISC O O O O O
+943,"Under pressure from international Jewish organisations , Swiss government has devised a plan to pay out millions of dollars in unclaimed bank accounts as a conciliatory gesture toward Holocaust victims .","IN NN IN JJ JJ NNS , JJ NN VBZ VBN DT NN TO VB RP NNS IN NNS IN JJ NN NNS IN DT JJ NN IN JJ NNS .",O O O O B-MISC O O B-MISC O O O O O O O O O O O O O O O O O O O O B-MISC O O
+944,The conservative Radical Democrats ( FDP ) have said they would ask parliament next week to order Swiss banks to put some 40 million Swiss francs ( $ 31 million ) in dormant wealth into a fund earmarked for Jewish groups and charitable organisations .,DT JJ NNP NNPS ( NNP ) VBP VBN PRP MD VB NN IN NN TO VB JJ NNS TO VB DT CD CD JJ NNS ( $ CD CD ) IN JJ NN IN DT NN VBN IN JJ NNS CC JJ NNS .,O O B-ORG I-ORG O B-ORG O O O O O O O O O O O B-MISC O O O O O O B-MISC O O O O O O O O O O O O O O B-MISC O O O O O
+954,""" The perspective on growth is such that reasonably we can think that somewhere between 65 and 80 litres per year is certainly reachable , "" van Boxmeer said on Polish per-capita beer consumption , currently around 40 litres .",""" DT NN IN NN VBZ JJ IN RB PRP MD VB DT RB IN CD CC CD NNS IN NN VBZ RB JJ , "" NNP NNP VBD IN JJ JJ NN NN , RB IN CD NNS .",O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O B-MISC O O O O O O O O O
+956,"Van Boxmeer said Poland 's top five brewers , which produce about 55 percent of the country 's beer , could all raise market share as some of the numerous small brewers fall to competition from the large brewers with foreign investors .","NNP NNP VBD NNP POS JJ CD NNS , WDT VBP RB CD NN IN DT NN POS NN , MD DT VBP NN NN IN DT IN DT JJ JJ NNS VBP TO NN IN DT JJ NNS IN JJ NNS .",B-PER I-PER O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+963,""" I think Polish consumers in general are quite proud of their beers -- and I 'm speaking about all the brands -- and as we make good beers ...",""" PRP VBP JJ NNS IN JJ VBP RB JJ IN PRP$ NNS : CC PRP VBP VBG IN PDT DT NNS : CC IN PRP VBP JJ NNS :",O O O B-MISC O O O O O O O O O O O O O O O O O O O O O O O O O O
+968,Van Boxmeer also said Zywiec would be boosted by its recent shedding of soft drinks which only accounted for about three percent of the firm 's overall sales and for which 7.6 million zlotys in provisions had already been made .,NNP NNP RB VBD NNP MD VB VBN IN PRP$ JJ VBG IN JJ NNS WDT RB VBD IN IN CD NN IN DT NN POS JJ NNS CC IN WDT CD CD NNS IN NNS VBD RB VBN VBN .,B-PER I-PER O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+969,-- Warsaw Newsroom +48 22 653 9700,: NNP NNP CD CD CD CD,O B-ORG I-ORG O O O O
+972,"Doctors performed an emergency tracheotomy to help Czech President Vaclav Havel breathe after cancer surgery on his lungs earlier this week , a spokesman said on Friday .","NNS VBD DT NN NNS TO VB NNP NNP NNP NNP VB IN NN NN IN PRP$ NNS RBR DT NN , DT NN VBD IN NNP .",O O O O O O O B-LOC O B-PER I-PER O O O O O O O O O O O O O O O O O
+974,""" A worsening in the president 's lung functions took place yesterday , "" presidential spokesman Ladlislav Spacek said in a statement .",""" DT VBG IN DT NN POS NN NNS VBD NN NN , "" JJ NN NNP NNP VBD IN DT NN .",O O O O O O O O O O O O O O O O B-PER I-PER O O O O O
+976,"After these steps , the president 's condition signigicantly improved . ""","IN DT NNS , DT NN POS NN RB VBN . """,O O O O O O O O O O O O
+979,"His spokesman said on Thursday that Havel , 60 and a heavy smoker , had also developed a slight case of pneumonia in the left lung .","PRP$ NN VBD IN NNP IN NNP , CD CC DT JJ NN , VBD RB VBN DT JJ NN IN NN IN DT JJ NN .",O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O
+984,"useful progress was made on a number of issues , but not all .","JJ NN VBD VBN IN DT NN IN NNS , CC RB DT .",O O O O O O O O O O O O O O
+985,"No date has been set for further talks . ""","DT NN VBZ VBN VBN IN JJ NNS . """,O O O O O O O O O O
+989,It recorded the day 's low of $ 15.475 and the day 's high of $ 15.725 .,PRP VBD DT NN POS NN IN $ CD CC DT NN VBZ JJ IN $ CD .,O O O O O O O O O O O O O O O O O O
+991,One Global Depository Receipt represents 10 common shares .,CD NNP NNP NNP VBZ CD JJ NNS .,O O O O O O O O O
+995,PT Telekomunikasi Indonesia ( Telkom ) closed at $ 35 in London on Friday .,PRP NNP NNP ( NNP ) VBD IN $ CD IN NNP IN NNP .,B-ORG I-ORG I-ORG O B-ORG O O O O O O B-LOC O O O
+996,It recorded the day 's low of $ 34.475 and the day 's high of $ 35.375 .,PRP VBD DT NN POS NN IN $ CD CC DT NN VBZ JJ IN $ CD .,O O O O O O O O O O O O O O O O O O
+998,One ADS represents 20 ordinary shares -- Jakarta newsroom +6221 384-6364 .,CD NNS VBZ CD JJ NNS : NNP NN CD RB .,O O O O O O O B-LOC O O O O
+1004,She will appear in court on Saturday .,PRP MD VB IN NN IN NNP .,O O O O O O O O
+1015,Industry sources said there was no new date for fresh talks and blamed the deadlock on uncertainty over whether the British Airways-American deal would be cleared .,NN NNS VBD EX VBD DT JJ NN IN JJ NNS CC VBD DT NN IN NN IN IN DT NNP JJ NN MD VB VBN .,O O O O O O O O O O O O O O O O O O O O B-MISC I-MISC O O O O O
+1016,"The conditions for clearance of the alliance were that British Airways and American drop 168 slots at London Heathrow airport , the busiest in Europe .","DT NNS IN NN IN DT NN VBD IN NNP NNP CC JJ NN CD NNS IN NNP NNP NN , DT JJS IN NNP .",O O O O O O O O O B-ORG I-ORG O B-ORG O O O O B-LOC I-LOC O O O O O B-LOC O
+1017,"American 's parent , AMR Corp. , said it did not view the terms as a "" deal breaker . ""","NNP POS NN , NNP NNP , VBD PRP VBD RB VB DT NNS IN DT "" NN NN . """,B-ORG O O O B-ORG I-ORG O O O O O O O O O O O O O O O
+1019,"British Airways 's initial response was that "" unconditional divestiture of slots is unprecedented and if done it must be on the basis of fair market value . ""","NNP NNP POS JJ NN VBD IN "" JJ NN IN NNS VBZ JJ CC IN VBN PRP MD VB IN DT NN IN JJ NN NN . """,B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1020,"It added that it would be "" prepared to take reasonable steps to assist the introduction of additional competition . ""","PRP VBD IN PRP MD VB "" VBN TO VB JJ NNS TO VB DT NN IN JJ NN . """,O O O O O O O O O O O O O O O O O O O O O
+1021,"The government also wants British Airways to drop a clause in its agreement with USAir that bars it from competing on trans-Atlantic routes , and said both British Airways and American should be prepared to reduce services on the London to Dallas-Fort Worth route in the event that a new entrant wishes to enter .","DT NN RB VBZ NNP NNP TO VB DT NN IN PRP$ NN IN NNP WDT VBZ PRP IN VBG IN JJ NNS , CC VBD DT NNP NNP CC JJ MD VB VBN TO VB NNS IN DT NNP TO NNP NNP NN IN DT NN IN DT JJ FW VBZ TO VB .",O O O O B-ORG I-ORG O O O O O O O O B-ORG O O O O O O B-MISC O O O O O B-ORG I-ORG O B-ORG O O O O O O O O B-LOC O B-LOC I-LOC O O O O O O O O O O O O
+1022,It also suggested losing some slots on the London-to-Boston route .,PRP RB VBD VBG DT NNS IN DT NNP NN .,O O O O O O O O B-MISC O O
+1023,The Office of Fair Trade called for British Airways / American to allow third-party access to their joint frequent flyer programme where the applicant does not have access to an equivalent programme .,DT NNP IN NNP NNP VBD IN NNP NNPS SYM NNP TO VB JJ NN TO PRP$ JJ JJ NN NN WRB DT NN VBZ RB VB NN TO DT JJ NN .,O B-ORG I-ORG I-ORG I-ORG O O B-ORG I-ORG O B-ORG O O O O O O O O O O O O O O O O O O O O O O
+1024,"Lang said responses should be made to the Office of Fair Trading by Jan. 10 , 1997 .","NNP VBD NNS MD VB VBN TO DT NNP IN NNP NNP IN NNP CD , CD .",B-PER O O O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O
+1029,"Volume was very thin and market remained long , with premiums down $ 1 at about high cif quotes +$0.50 basis Genoa . ""","NN VBD RB JJ CC NN VBD RB , IN NNS IN $ CD IN IN JJ NN VBZ CD NN NNP . """,O O O O O O O O O O O O O O O O O O O O O B-ORG O O
+1033,"Fuel oil lost ground sharply with weaker crude , but also suffered from some pricing pressure .","NN NN VBD NN RB IN JJR NN , CC RB VBD IN DT NN NN .",O O O O O O O O O O O O O O O O O
+1036,"Up to 165,000 tonnes of fuel will have to find a new home and with the arbitrage from the U.S. to Europe open Rotterdam is a prime candidate .",IN TO CD NNS IN NN MD VB TO VB DT JJ NN CC IN DT NN IN DT NNP TO NNP JJ NNP VBZ DT JJ NN .,O O O O O O O O O O O O O O O O O O O B-LOC O B-LOC O B-LOC O O O O O
+1037,Low sulphur prices were lower with cif Med pegged in the mid to low $ 140s .,NNP NN NNS VBD JJR IN NN VBD VBN IN DT JJ TO JJ $ NNS .,O O O O O O O O O O O O O O O O O
+1038,"Gasoline prices fell after striking Elf refinery workers voted to go back to work , traders said .","NN NNS VBD IN VBG NNP NN NNS VBD TO VB RB TO VB , NNS VBD .",O O O O O B-ORG O O O O O O O O O O O O
+1043,The 16-year-old who attended Sale Grammar School in the northern England city of Manchester died less than a day after becoming ill .,DT JJ WP VBD NN NNP NNP IN DT JJ NNP NN IN NNP VBD JJR IN DT NN IN VBG RB .,O O O O B-ORG I-ORG I-ORG O O O B-LOC O O B-LOC O O O O O O O O O
+1045,""" At the moment there is no evidence the two cases are linked .",""" IN DT NN EX VBZ DT NN DT CD NNS VBP VBN .",O O O O O O O O O O O O O O
+1046,"However , we are assuming they are as a precaution for the time being , "" a spokeswoman said .","RB , PRP VBP VBG PRP VBP IN DT NN IN DT NN VBG , "" DT NN VBD .",O O O O O O O O O O O O O O O O O O O O
+1048,Wales grappled with its own cluster of meningitis cases on a university campus in Cardiff .,NNP VBD IN PRP$ JJ NN IN JJ NNS IN DT NN NN IN NNP .,B-LOC O O O O O O O O O O O O O B-LOC O
+1053,"More than 290 people have reported symptoms in Lanarkshire county , the worst-hit area , since the outbreak first came to light after people ate tainted meat pies at a pensioners ' lunch .","JJR IN CD NNS VBP VBN NNS IN NNP NN , DT JJ NN , IN DT NN RB VBD TO JJ IN NNS VBD JJ NN NNS IN DT NNS POS NN .",O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O
+1056,"British Prime Minister John Major 's office said on Friday that rebel Conservative MP Sir John Gorst had not "" resigned the whip "" ( quit the parliamentary party ) and the government still had a majority in the 651-seat parliament .","NNP NNP NNP NNP NNP POS NN VBD IN NNP WDT NN JJ NNP NNP NNP NNP VBD RB "" VBD DT NN "" ( VB DT JJ NN ) CC DT NN RB VBD DT NN IN DT JJ NN .",B-MISC O O B-PER I-PER O O O O O O O B-MISC O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O
+1058,"The government still has a majority , "" a spokesman from Major 's office in Downing Street said .","DT NN RB VBZ DT NN , "" DT NN IN NNP POS NN IN NNP NNP VBD .",O O O O O O O O O O O B-PER O O O B-LOC I-LOC O O
+1067,"In a statement , EDS said the contract would be in the region of 50 million stg .","IN DT NN , NNP VBD DT NN MD VB IN DT NN IN CD CD NNS .",O O O O B-ORG O O O O O O O O O O O O O
+1069,The system is responsible for the control of aircraft flying transatlantic routes from Europe and North America .,DT NN VBZ JJ IN DT NN IN NN VBG NN NNS IN NNP CC NNP NNP .,O O O O O O O O O O O O O B-LOC O B-LOC I-LOC O
+1072,RTRS - Cricket - Play restarts in Australia-West Indies match .,NNS : NNP : NN VBZ IN NNP NNP NN .,B-ORG O O O O O O B-MISC I-MISC O O
+1075,West Indies resumed their innings on 53 for two with opener Sherwin Campbell on 25 and Shivnarine Chanderpaul 10 .,NNP NNP VBD PRP$ NN IN CD IN CD IN NN NNP NNP IN CD CC NNP NNP CD .,B-LOC I-LOC O O O O O O O O O B-PER I-PER O O O B-PER I-PER O O
+1077,-- Sydney Newsroom 61-2 9373-1800,: NNP NNP NN CD,O B-ORG I-ORG O O
+1078,Cricket - Pakistan beat New Zealand by 46 runs .,NNP : NNP VBD NNP NNP IN CD NNS .,O O B-LOC O B-LOC I-LOC O O O O
+1080,Pakistan beat New Zealand by 46 runs on Friday to take an unbeatable 2-0 lead in the three-match one-day series .,NNP VBD NNP NNP IN CD NNS IN NNP TO VB DT JJ CD JJ IN DT NN JJ NN .,B-LOC O B-LOC I-LOC O O O O O O O O O O O O O O O O O
+1081,"Scores : Pakistan 277-9 , New Zealand 231","NNS : NNP CD , NNP NNP CD",O O B-LOC O O B-LOC I-LOC O
+1086,DATE PM CLOSE FIXED MINIMUM AT 1230 CST,NNP NNP NNP NNP NNP NNP CD NNP,O O O O O O O O
+1088,Mar 97 76.37 76.12 72.02 73.47-78.24,NNP CD CD CD CD CD,O O O O O O
+1097,Note : Manitoba Government Price Index ( C$ per cwt ) -,NN : NNP NNP NNP NNP ( $ IN NN ) :,O O B-ORG O O O O B-MISC O O O O
+1099,Manitoba 's Hog Price Range : 84.00-86.00 per cwt,NNP POS NNP NNP NNP : CD IN NN,B-ORG O O O O O O O O
+1100,CAN / U.S. DOLLAR EXCHANGE RATE : 1.3570,NNP SYM NNP NN NN NN : CD,B-LOC O B-LOC O O O O O
+1101,Source : Manitoba Pork .,NN : NNP NNP .,O O B-ORG I-ORG O
+1105,"The Canadian Wheat Board reported six ships loading , 10 waiting and four due at the Canadian West Coast , as of Friday .","DT NNP NNP NNP VBD CD NNS NN , CD VBG CC CD JJ IN DT NNP NNP NNP , IN IN NNP .",O B-ORG I-ORG I-ORG O O O O O O O O O O O O B-MISC O O O O O O O
+1112,( ( Gilbert Le Gras 204 947 3548 ) ),( ( NNP NNP NNP CD CD CD ) ),O O B-PER I-PER I-PER O O O O O
+1113,New York timecharter fixtures - Dec 6 .,NNP NNP NN NNS : NNP CD .,B-LOC I-LOC O O O O O O
+1116,-- New York Commodities Desk +1 212 859 1640,: NNP NNP NNP NNP CD CD CD CD,O B-ORG I-ORG I-ORG I-ORG O O O O
+1125,Danila 28.5 16/12 Caribs / up W224 Mobil .,NNP CD CD NNP SYM RP NNS NNP .,B-MISC O O B-LOC O O O B-ORG O
+1132,Lula I 85 25/12 Sidi Kreir / Augusta W100 Exxon .,NN PRP CD CD NNP NN SYM NNP NN NNP .,B-MISC I-MISC O O B-LOC I-LOC O B-LOC O B-ORG O
+1134,Mesipia 77.5 17/12 Bajaia / Fos W105 Exxon .,NNP CD CD NNP SYM NNP NNP NNP .,B-MISC O O B-LOC O B-LOC O B-ORG O
+1143,The refunding planned for January also includes a $ 475 million tax-exempt offering .,DT JJ VBN IN NNP RB VBZ DT $ CD CD JJ NN .,O O O O O O O O O O O O O O
+1144,"No specific date in January has been selected for the debt sale , the official added .","DT JJ NN IN NNP VBZ VBN VBN IN DT NN NN , DT NN VBD .",O O O O O O O O O O O O O O O O O
+1145,"-- Joan Gralla , 212-859-1654",": NNP NNP , CD",O B-PER I-PER O O
+1158,"They said the Santa Fe deal , which includes desirable Nevada mining territory , would only payoff for Newmont longer term .","PRP VBD DT NNP NNP NN , WDT VBZ JJ NNP NN NN , MD RB VB IN NNP RB VB .",O O O B-ORG I-ORG O O O O O B-LOC O O O O O O O B-ORG O O O
+1161,Analysts and arbitrageurs immediately ruled out Barrick Gold Corp and Bre-X Minerals Ltd as Santa Fe saviors because they are locked in negotiations over their splitting Indonesia 's Busang vast gold deposit .,NNS CC VBZ RB VBN IN NNP NNP NNP CC NNP NNPS NNP IN NNP NNP NNS IN PRP VBP VBN IN NNS IN PRP$ NN NNP POS NNP JJ JJ NN .,O O O O O O B-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG O B-ORG I-ORG O O O O O O O O O O B-LOC O B-ORG O O O O
+1165,"Earnings in 1995 were $ 0.22 per share , or $ 30.3 million , on revenues of $ 746.3 million .","NNS IN CD VBD $ CD IN NN , CC $ CD CD , IN NNS IN $ CD CD .",O O O O O O O O O O O O O O O O O O O O O
+1169,""" I think Homestake could come in as a white knight , but how much is someone willing to come in above the Newmont number .",""" PRP VBP NNP MD VB IN IN DT JJ NN , CC WRB JJ VBZ NN JJ TO VB RP IN DT NNP NN .",O O O B-ORG O O O O O O O O O O O O O O O O O O O B-ORG O O
+1170,"One would have to outbid by at least 15 percent , but there is going to be a ( Santa Fe ) deal with someone , "" he said .","CD MD VB TO VB IN IN JJS CD NN , CC EX VBZ VBG TO VB DT ( NNP NNP ) NN IN NN , "" PRP VBD .",O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O
+1174,"In Friday New York Stock Exchange trade , Newmonth was off 1/2 to 46-5/8 while Santa Fe added 1/4 to 15-1/8 .","IN NNP NNP NNP NNP NNP NN , NNP VBD IN CD TO CD IN NNP NNP VBD CD TO CD .",O O B-ORG I-ORG I-ORG I-ORG O O B-ORG O O O O O O B-ORG I-ORG O O O O O
+1186,President Robert Mugabe 's government has resisted pressure from local and international human rights groups to abolish the death sentence .,NNP NNP NNP POS NN VBZ VBN NN IN JJ CC JJ NN NNS NNS TO VB DT NN NN .,O B-PER I-PER O O O O O O O O O O O O O O O O O O
+1187,Multinational commander going back to east Zaire .,JJ NN VBG RB TO JJ NNP .,O O O O O O B-LOC O
+1191,"Lieutenant-General Maurice Baril told a news conference in Nairobi his main concern was for a large group of about 150,000 refugees living off the land in a valley about 65 km ( 40 miles ) west of the eastern city of Goma .",NNP NNP NNP VBD DT NN NN IN NNP PRP$ JJ NN VBD IN DT JJ NN IN IN CD NNS VBG RP DT NN IN DT NN IN CD NN ( CD NNS ) NN IN DT JJ NN IN NNP .,O B-PER I-PER O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+1192,"If he decided it was necessary and safe for the aircrew , he would not hesitate to order airdrops of food for the refugees , even against the wishes of the government in Kinshasa and the Zairean rebels who control much of eastern Zaire , he said .","IN PRP VBD PRP VBD JJ CC JJ IN DT NN , PRP MD RB VB TO VB NNS IN NN IN DT NNS , RB IN DT NNS IN DT NN IN NN CC DT JJ NNS WP VBP JJ IN JJ NNP , PRP VBD .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O B-MISC O O O O O O B-LOC O O O O
+1193,""" Tomorrow I 'm going into Rwanda and my intention is to go across into eastern Zaire and try to find out for the second time what the situation is on the ground , "" he said .",""" NN PRP VBP VBG IN NNP CC PRP$ NN VBZ TO VB IN IN JJ NNP CC VB TO VB RB IN DT JJ NN WP DT NN VBZ IN DT NN , "" PRP VBD .",O O O O O O B-LOC O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O
+1194,General Baril saw rebel leader Laurent Kabila in Goma last week but the rebels told him the crisis was over because most of the Rwandan refugees have already gone home .,NNP NNP VBD JJ NN NNP NNP IN NNP JJ NN CC DT NNS VBD PRP DT NN VBD IN IN JJS IN DT JJ NNS VBP RB VBN NN .,O B-PER O O O B-PER I-PER O B-LOC O O O O O O O O O O O O O O O B-MISC O O O O O O
+1199,But General Baril said it would be premature to rule out any course of action until he had more information .,CC NNP NNP VBD PRP MD VB JJ TO VB RP DT NN IN NN IN PRP VBD JJR NN .,O O B-PER O O O O O O O O O O O O O O O O O O
+1202,"If it is necessary , I wo n't hesitate to use it , "" he said .","IN PRP VBZ JJ , PRP MD RB VB TO VB PRP , "" PRP VBD .",O O O O O O O O O O O O O O O O O
+1203,"Asked if he would disregard the objections of the Zairean government , he said : "" It would have to be in the last resort .","VBN IN PRP MD VB DT NNS IN DT JJ NN , PRP VBD : "" PRP MD VB TO VB IN DT JJ NN .",O O O O O O O O O B-MISC O O O O O O O O O O O O O O O O
+1204,It would have to mean that tens of thousands of lives are in danger .,PRP MD VB TO VB IN NNS IN NNS IN NNS VBP IN NN .,O O O O O O O O O O O O O O O
+1206,"And my mandate is also under Chapter Seven to operate in eastern Zaire . ""","CC PRP$ NN VBZ RB IN NNP NNP TO VB IN JJ NNP . """,O O O O O O O O O O O O B-LOC O O
+1207,"Under Chapter Seven of the U.N. charter , the Security Council has wide powers to preserve peace and security .","IN NNP NNP IN DT NNP NN , DT NNP NNP VBZ JJ NNS TO VB NN CC NN .",O O O O O B-ORG O O O B-ORG I-ORG O O O O O O O O O
+1211,I coordinate with those who are holding ground and that 's a wise thing to do .,PRP VBP IN DT WP VBP VBG NN CC DT VBZ DT JJ NN TO VB .,O O O O O O O O O O O O O O O O O
+1214,"The Kisangani office of the medical charity Medecins sans Frontieres said on Friday that more than 100,000 refugees were trekking northwest from the Goma-Bukavu area and many of them were now in the town of Walikale .",DT NNP NN IN DT JJ NN NNPS FW FW VBD IN NNP IN JJR IN CD NNS VBD VBG RB IN DT NNP NN CC JJ IN PRP VBD RB IN DT NN IN NNP .,O B-LOC O O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O B-LOC O O O O O O O O O O O B-LOC O
+1221,"Winds up to 75 km an hour ( 40 knots ) could blow over Mauritius during the night of Friday to Saturday , it said .","NNS IN TO CD PRP DT NN ( CD NNS ) MD VB RP NNP IN DT NN IN NNP TO NNP , PRP VBD .",O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O
+1224,U.N. evacuates staff from Central African Republic .,NNP VBZ NN IN JJ JJ NNP .,B-ORG O O O B-LOC I-LOC I-LOC O
+1226,"The United Nations evacuated its staff in the Central African Republic on Friday because of mounting violence in a two-week-old army mutiny in the capital , a U.N. official said .","DT NNP NNPS VBN PRP$ NN IN DT NNP NNP NNP IN NNP IN IN VBG NN IN DT JJ NN NN IN DT NN , DT NNP NN VBD .",O B-ORG I-ORG O O O O O B-LOC I-LOC I-LOC O O O O O O O O O O O O O O O O B-ORG O O O
+1228,Senegal proposes foreign minister for U.N. post .,JJ VBZ JJ NN IN NNP NN .,B-LOC O O O O B-ORG O O
+1230,Senegal 's President Abdou Diouf said on Friday he was proposing his foreign minister Moustapha Niasse for the post of United Nations secretary-general .,JJ POS NNP NNP NNP VBD IN NNP PRP VBD VBG PRP$ JJ NN NNP NNP IN DT NN IN NNP NNPS NN .,B-LOC O O B-PER I-PER O O O O O O O O O B-PER I-PER O O O O B-ORG I-ORG O O
+1234,Some of my brother heads of state asked me if I would n't nominate Moustapha Niasse .,DT IN PRP$ NN NNS IN NN VBD PRP IN PRP MD RB VB NNP NNP .,O O O O O O O O O O O O O O B-PER I-PER O
+1243,"Public Service Minister David Dofara , who is the head of the national Red Cross , told Reuters he had seen the bodies of former interior minister Christophe Grelombe and his son , who was not named .","NNP NNP NNP NNP NNP , WP VBZ DT NN IN DT JJ NNP NNP , VBD NNP PRP VBD VBN DT NNS IN JJ NN NN NNP NNP CC PRP$ NN , WP VBD RB VBN .",O O O B-PER I-PER O O O O O O O O B-ORG I-ORG O O B-ORG O O O O O O O O O B-PER I-PER O O O O O O O O O
+1245,Grelombe is from the Yakoma tribe to which most of the rebel soldiers belong .,NNP VBZ IN DT NNP NN TO WDT JJS IN DT JJ NNS VBP .,B-PER O O O B-MISC O O O O O O O O O O
+1246,"The uprising began over pay demands but has turned into a campaign to topple Patasse , sparking ethnic violence and dividing the capital .","DT NN VBD IN NN NNS CC VBZ VBN IN DT NN TO VB NNP , VBG JJ NN CC VBG DT NN .",O O O O O O O O O O O O O O B-PER O O O O O O O O O
+1253,Shops and businesses have remained shut this week .,NNS CC NNS VBP VBN VBN DT NN .,O O O O O O O O O
+1257,His spokesman had predicted the meeting to send an assessment mission .,PRP$ NN VBD VBN DT NN TO VB DT NN NN .,O O O O O O O O O O O O
+1265,An undetermined number of people are reported to have been abducted and killed outside the town by tribal vigilante groups .,DT JJ NN IN NNS VBP VBN TO VB VBN NN CC VBD IN DT NN IN JJ NN NNS .,O O O O O O O O O O O O O O O O O O O O O
+1266,"In Thursday 's fighting , French troops fired back as mutineers trying to break out of their strongholds rained mortar shells on the city centre .","IN NNP POS NN , JJ NNS VBD RB IN NNS VBG TO VB IN IN PRP$ NNS VBD NN NNS IN DT NN NN .",O O O O O B-MISC O O O O O O O O O O O O O O O O O O O O
+1267,Five die as SAfrican crop plane hits pickup .,CD VBP IN JJ NN NN NNS NN .,O O O B-MISC O O O O O
+1269,"Five people were killed when a crop-spraying plane preparing for takeoff crashed into a light delivery vehicle in South Africa 's North West region , state radio reported on Friday .","CD NNS VBD VBN WRB DT JJ NN VBG IN NN VBD IN DT JJ NN NN IN NNP NNP POS JJ JJ NN , NN NN VBD IN NNP .",O O O O O O O O O O O O O O O O O O B-LOC I-LOC O B-LOC I-LOC O O O O O O O O
+1272,WEATHER - Conditions at CIS airports - Dec 6 .,NN : NNPS IN NNP NNS : NNP CD .,O O O O B-LOC O O O O O
+1274,"No weather-related closures of CIS airports are expected on December 7 and 8 , the Russian Weather Service said on Friday .","DT JJ NNS IN NNP NNS VBP VBN IN NNP CD CC CD , DT NNP NNP NNP VBD IN NNP .",O O O O B-LOC O O O O O O O O O O B-ORG I-ORG I-ORG O O O O
+1280,""" All four attackers were apprehended and two have been detained , "" the spokesman added",""" DT CD NNS VBD VBN CC CD VBP VBN VBN , "" DT NN VBD",O O O O O O O O O O O O O O O O
+1281,He was unable to give more details .,PRP VBD JJ TO VB JJR NNS .,O O O O O O O O
+1284,Meyers was not available for comment .,NNP VBD RB JJ IN NN .,B-PER O O O O O O
+1288,"Buza last April said he would blow himself up outside the presidential palace unless he was allowed to speak to Berisha , who was at the time meeting Italian President Oscar Luigi Scalfaro .","NN JJ NNP VBD PRP MD VB PRP RP RB DT JJ NN IN PRP VBD VBN TO VB TO NNP , WP VBD IN DT NN NN NNP NNP NNP NNP NNP .",B-PER O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O B-MISC O B-PER I-PER I-PER O
+1289,Buza was overpowered by riot police less than one hour after he began his action .,NNP VBD VBN IN NN NN JJR IN CD NN IN PRP VBD PRP$ NN .,B-PER O O O O O O O O O O O O O O O
+1295,"Poland 's ex-communist President Aleksander Kwasniewski is likely to visit Polish-born Pope John Paul in early 1997 despite uneasy relations between the Vatican and Warsaw , the foreign minister said on Friday .","NNP POS JJ NNP NNP NNP VBZ JJ TO VB NNP NNP NNP NNP IN JJ CD IN JJ NNS IN DT NNP CC NNP , DT JJ NN VBD IN NNP .",B-LOC O O O B-PER I-PER O O O O O O B-PER I-PER O O O O O O O O B-LOC O B-LOC O O O O O O O O
+1297,"A meeting with the Pope is also planned , "" Dariusz Rosati told a news conference .","DT NN IN DT NNP VBZ RB VBN , "" NNP NNP VBD DT NN NN .",O O O O O O O O O O B-PER I-PER O O O O O
+1300,"The ratification of the treaty , which was signed in 1993 by the then right-centrist government , is being delayed by an ex-communist party , which won parliamentary elections in the same year and now dominates parliament .","DT NN IN DT NN , WDT VBD VBN IN CD IN DT RB JJ NN , VBZ VBG VBN IN DT JJ NN , WDT VBD JJ NNS IN DT JJ NN CC RB VBZ NN .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1302,"The relations with the Vatican have also been soured by a recent relaxation of Poland 's anti-abortion rules , which Kwasniewski signed into law last month .","DT NNS IN DT NNP VBP RB VBN JJ IN DT JJ NN IN NNP POS JJ NNS , WDT NNP VBD IN NN JJ NN .",O O O O B-LOC O O O O O O O O O B-LOC O O O O O B-PER O O O O O O
+1307,""" Norilsk really is a big debtor , both to the federal and regional budgets , "" said Konstantin Chernyshev , equities analyst at Moscow brokerage Rinaco Plus and a Norilsk watcher . """,""" NNP RB VBZ DT JJ NN , DT TO DT JJ CC JJ NNS , "" VBD NNP NNPS , NNS NN IN NNP NN NNP NNP CC DT NNP NN . """,O B-ORG O O O O O O O O O O O O O O O O B-PER I-PER O O O O B-LOC O B-ORG I-ORG O O B-ORG O O O
+1308,"Livshits 's words are an attempt to put pressure on the company . ""","NNP POS NNS VBP DT NN TO VB NN IN DT NN . """,B-PER O O O O O O O O O O O O O
+1309,The official Itar-Tass news agency quoted Livshits as telling parliamentary deputies that RAO Norilsky Nikel 0#NKEL.RUO had to pay its tax arrears and that bankruptcy procedures applied to the metals group .,DT JJ NNP NN NN VBN NNPS IN VBG JJ NNS IN NNP NNP NNP CD VBD TO VB PRP$ NN NNS CC IN NN NNS VBD TO DT NNS NN .,O O B-ORG O O O B-PER O O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O
+1311,""" But if it was a response to a deputy 's question that was essentially loaded , then it was the only answer he could have given . """,""" CC IN PRP VBD DT NN TO DT NN POS NN WDT VBD RB VBN , RB PRP VBD DT JJ NN PRP MD VB VBN . """,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1312,"Russian tax and cabinet authorities , under pressure from the International Monetary Fund to boost tax revenues as a condition for receiving payments of a $ 10 billion , three-year loan to Moscow , have been striking fear into the hearts of some of Russia 's most prominent industrial firms by saying they must pay up or face liquidation .","JJ NN CC NN NNS , IN NN IN DT NNP NNP NNP TO VB NN NNS IN DT NN IN VBG NNS IN DT $ CD CD , JJ NN TO NNP , VBP VBN VBG NN IN DT NNS IN DT IN NNP POS RBS JJ JJ NNS IN VBG PRP MD VB RB CC VB NN .",B-MISC O O O O O O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O
+1316,Norilsk officials declined to comment .,JJ NNS VBD TO VB .,B-ORG O O O O O
+1319,""" The procedure of bankruptcy will be applied , "" Tass quoted Livshits as telling Duma deputies about Norilsk .",""" DT NN IN NN MD VB VBN , "" NNP VBD NNP IN VBG NNP VBZ IN NNP .",O O O O O O O O O O B-ORG O B-PER O O B-ORG O O B-ORG O
+1322,He estimated the company 's regional debts at least one trillion roubles and said 30 percent of the giant Krasnoyarsk regional budget was fuelled by Norilsk money .,PRP VBD DT NN POS JJ NNS IN JJS CD CD NNS CC VBD CD NN IN DT JJ NNP JJ NN VBD VBN IN NNP NN .,O O O O O O O O O O O O O O O O O O O B-LOC O O O O O B-ORG O O
+1323,"Norilsk 's new majority shareholder , Russian commerical bank Uneximbank , has said it is reorganising metal exports through Interrosimpex in order to boost revenues .","NNP POS JJ NN NN , JJ JJ NN NNP , VBZ VBN PRP VBZ VBG NN NNS IN NNP IN NN TO VB NNS .",B-ORG O O O O O B-MISC O O B-ORG O O O O O O O O O B-ORG O O O O O O
+1328,"-- Moscow Newsroom , +7095 941 8520",": NNP NNP , CD CD CD",O B-ORG I-ORG O O O O
+1331,"Tallinna Pank , one of the largest banks in Estonia , made a 11-month 1996 net profit of 46.6 million kroons , the bank said on Friday .","NNP NNP , CD IN DT JJS NNS IN NNP , VBD DT JJ CD JJ NN IN CD CD NNS , DT NN VBD IN NNP .",B-ORG I-ORG O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O
+1333,The bank made a profit of 20.1 million kroons in the first half of the year .,DT NN VBD DT NN IN CD CD NNS IN DT JJ NN IN DT NN .,O O O O O O O O O O O O O O O O O
+1334,Tallinna Pank said its assets rose 17.8 million kroons to 1.84 billion kroons .,NNP NNPS VBD PRP$ NNS VBD CD CD NNS TO CD CD NNS .,B-ORG I-ORG O O O O O O O O O O O O
+1337,Russia ready for constructive work with Albright .,NNP JJ IN JJ NN IN NNP .,B-LOC O O O O O B-PER O
+1341,But he noted that policy would be shaped by Clinton and President Boris Yeltsin .,CC PRP VBD DT NN MD VB VBN IN NNP CC NNP NNP NNP .,O O O O O O O O O B-PER O O B-PER I-PER O
+1345,"Interfax , outlining Albright 's biography , pointed out that she had defended Washington 's interests fiercely as U.S. ambassador to the United Nations and that this had included actively supporting NATO 's plans to expand eastwards .","NNP , VBG NNP POS NN , VBD RP IN PRP VBD VBN NNP POS NNS RB IN NNP NN TO DT NNP NNPS CC DT DT VBD VBN RB VBG NNP POS NNS TO VB NNS .",B-ORG O O B-PER O O O O O O O O O B-LOC O O O O B-LOC O O O B-ORG I-ORG O O O O O O O B-ORG O O O O O O
+1349,"Russian President Boris Yeltsin , who had heart bypass surgery a month ago , plans to return to work on December 25 , the head of the upper chamber of parliament told Interfax news agency on Friday .","NNP NNP NNP NNP , WP VBD NN NN NN DT NN RB , VBZ TO VB TO VB IN NNP CD , DT NN IN DT JJ NN IN NN VBD NN NN NN IN NNP .",B-MISC O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O
+1351,"He told me that he had lost 20 kg ( 44 lbs ) which is natural after such an operation . ""","PRP VBD PRP IN PRP VBD VBN CD VBG ( CD NNS ) WDT VBZ JJ IN PDT DT NN . """,O O O O O O O O O O O O O O O O O O O O O O
+1356,Bomb explodes outside home of expelled Slovak MP .,VB VBZ IN NN IN VBN NNP NNP .,O O O O O O B-MISC O O
+1359,"The official TASR news agency said the explosion blew out all ground floor windows of Frantisek Gaulieder 's family home in Galanta , western Slovakia , and damaged the main entrance , but no-one was injured .","DT JJ NNP NN NN VBD DT NN VBD RP DT NN NN NNS IN NNP NNP POS NN NN IN NNP , JJ NNP , CC JJ DT JJ NN , CC JJ VBD VBN .",O O B-ORG O O O O O O O O O O O O B-PER I-PER O O O O B-LOC O O B-LOC O O O O O O O O O O O O
+1363,Gaulieder 's family was sleeping in a bedroom at the back of the house and were unharmed by the blast .,NNP POS NN VBD VBG IN DT NN IN DT NN IN DT NN CC VBD JJ IN DT NN .,B-PER O O O O O O O O O O O O O O O O O O O O
+1368,Violent crime has soared since the collapse of communism in 1989 as Bulgaria moves to a market economy .,JJ NN VBZ VBN IN DT NN IN NN IN CD IN NNP VBZ TO DT NN NN .,O O O O O O O O O O O O B-LOC O O O O O O
+1369,Bombings are often carried out by criminals to settle scores but the motive in this case was not immediately clear .,NNS VBP RB VBN RP IN NNS TO VB NNS CC DT NN IN DT NN VBD RB RB VB .,O O O O O O O O O O O O O O O O O O O O O
+1370,Some residents of the Kazanluk area are Moslems who converted to Islam during Ottoman Turkish rule .,DT NNS IN DT NNP NN VBP NNPS WP VBD TO NNP IN NNP JJ NN .,O O O O B-LOC O O B-MISC O O O B-MISC O O B-MISC O O
+1371,The majority in Bulgaria are Christians .,DT NN IN NNP VBP NNPS .,O O O B-LOC O B-MISC O
+1373,Hungary o / n rates end up before Dec 10 tax payment .,NNP IN SYM RB VBZ NN RB IN NNP CD NN NN .,B-LOC O O O O O O O O O O O O
+1375,"Hungarian overnight interest rates closed higher on Friday as market liquidity tightened before the December 10 social security contribution payment deadline , dealers said .","JJ JJ NN NNS VBD RBR IN NNP IN NN NN VBD IN DT NNP CD JJ NN NN NN NN , NNS VBD .",B-MISC O O O O O O O O O O O O O O O O O O O O O O O O
+1377,"They expect a larger-than-average payment . ""","PRP VBP DT JJ NN . """,O O O O O O O
+1378,"The overnight market opened at 22.00 / 22.75 percent , then substantial money was taken up at 22.5 percent .","DT JJ NN VBN IN CD SYM CD NN , RB JJ NN VBD VBN RP IN CD NN .",O O O O O O O O O O O O O O O O O O O O
+1380,"On Thursday , overnight rates moved between 21.625 and 22.125 .","IN NNP , JJ NNS VBN IN CD CC CD .",O O O O O O O O O O O
+1381,Dealers said liquidity could tighten further early next week as the social security contribution payments date approaches .,NNS VBD NN MD VB JJ JJ JJ NN IN DT JJ NN NN NNS NN NNS .,O O O O O O O O O O O O O O O O O O
+1383,Mexico stocks off lows but still hit by Greenspan .,NNP NNS IN NNS CC RB VBN IN NNP .,B-LOC O O O O O O O B-PER O
+1385,"Mexican stocks closed sharply lower Friday , but had made a tentative recovery as initial panic and volatility abated .","JJ NNS VBD RB JJR NNP , CC VBD VBN DT JJ NN IN JJ NN CC NN VBN .",B-MISC O O O O O O O O O O O O O O O O O O O
+1387,"Then once we saw the Dow ( Jones industrial average ) was not about to crash , some buyers stepped in , "" said a trader , referring to Federal Reserve Chairman Alan Greenspan , whose comments that assets were "" irrationally exhuberant "" upset financial markets worldwide .","RB RB PRP VBD DT NNP ( NNP JJ JJ ) VBD RB IN TO VB , DT NNS VBD RB , "" VBD DT NN , VBG TO NNP NNP NNP NNP NNP , WP$ NNS IN NNS VBD "" RB JJ "" JJ JJ NNS JJ .",O O O O O B-MISC O B-MISC O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O B-PER I-PER O O O O O O O O O O O O O O O
+1388,"The blue-chip IPC index ended down 1.29 points , or 43.56 percent , at 3,333.05 .","DT JJ NNP NN VBD RB CD NNS , CC CD NN , IN CD .",O O B-MISC O O O O O O O O O O O O O
+1392,"On the broad market , 107 stocks changed hands , of which losers well outnumbered winners by 75 to 13 .","IN DT JJ NN , CD NNS VBD NNS , IN WDT NNS RB VBD NNS IN CD TO CD .",O O O O O O O O O O O O O O O O O O O O O
+1396,Traders also remarked that Mexican ADRs suffered in New York .,NNS RB VBD IN NNP NNPS VBD IN NNP NNP .,O O O O B-MISC B-MISC O O B-LOC I-LOC O
+1398,""" Falling share prices in New York do n't hurt Mexico as long as it happens gradually , as earlier this week .",""" NNP NN NNS IN NNP NNP VBP RB VBN NNP IN JJ IN PRP VBZ RB , IN RBR DT NN .",O O O O O B-LOC I-LOC O O O B-LOC O O O O O O O O O O O O
+1399,"It 's a sudden plunge that takes its toll , "" said Carlos Ponce , research director at Santander .","PRP VBZ DT JJ NN WDT VBZ PRP$ NN , "" VBD NNP NNP , NN NN IN NNP .",O O O O O O O O O O O O B-PER I-PER O O O O B-LOC O
+1405,Plastic surgery gets boost in Brazil .,NN NN VBZ NN IN NNP .,O O O O O B-LOC O
+1408,"Plastic surgery is booming , especially among men , as Brazilians spend much of their new-found wealth on the latest beauty treatments , said the organisers of a four-day international plastic surgery conference that opened on Friday .","NN NN VBZ JJ , RB IN NNS , IN NNS VBP JJ IN PRP$ JJ NN IN DT JJS NN NNS , VBD DT NNS IN DT JJ JJ JJ NN NN WDT VBD IN NNP .",O O O O O O O O O O B-MISC O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1409,"The number of plastic surgeries in Brazil has jumped 30 percent to an estimated 150,000 this year since an anti-inflation plan was introduced in July 1994 , Farid Hakme , the president of the Brazilian Plastic Surgery Society ( SBCP ) , said .","DT NN IN NN NNS IN NNP VBZ VBN CD NN TO DT VBN CD DT NN IN DT JJ NN VBD VBN IN NNP CD , NNP NNP , DT NN IN DT JJ NNP NNP NNP ( NNP ) , VBD .",O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG O B-ORG O O O O
+1411,""" Brazil ranks right at the top for plastic surgery with respect to the number of surgeons , the number of patients , number of operations , number of conferences .",""" NNP VBZ RB IN DT NN IN NN NN IN NN TO DT NN IN NNS , DT NN IN NNS , NN IN NNS , NN IN NNS .",O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1412,"Our statistics are the highest for everything , "" Hakme said .","PRP$ NNS VBP DT JJS IN NN , "" NNP VBD .",O O O O O O O O O B-PER O O
+1417,"There are 6,000 plastic surgeons there , of which 4,500 have qualified to be members of the SBCP .","EX VBP CD NN NNS RB , IN WDT CD VBP VBN TO VB NNS IN DT NNP .",O O O O O O O O O O O O O O O O O B-ORG O
+1418,"Every year , 500 new plastic surgeons graduate in Brazil and medical students from all over the world come to study there .","DT NN , CD JJ NN NNS NN IN NNP CC JJ NNS IN DT IN DT NN VB TO VB RB .",O O O O O O O O O B-LOC O O O O O O O O O O O O O
+1419,"Hakme attributes Brazil 's fascination with plastic surgery not to excessive vanity but to the country 's mix and match of different races , which can create physical disharmonies . ""","VB NNS NNP POS NN IN JJ NN RB TO JJ NN CC TO DT NN POS NN CC NN IN JJ NNS , WDT MD VB JJ NNS . """,B-PER O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1431,Oats unq unq unq unq,NNP NN JJ NN JJ,O O O O O
+1434,Maize ( Dent ) 113 114 113.7 112,NN ( NNP ) CD CD CD CD,O O O O O O O O
+1436,Millet unq unq 90 unq,NNP NN JJ CD NNS,O O O O O
+1446,"Light rains along the coast of southern Baja California and Sinaloa , with the rest of the coast seeing clear skies .","NN NNS IN DT NN IN JJ NNP NNP CC NNP , IN DT NN IN DT NN VBG JJ NNS .",O O O O O O O B-LOC I-LOC O B-LOC O O O O O O O O O O O
+1448,"A new front is seen emerging during the course of Friday , affecting the north of the Baja California peninsula and Sonora state , bringing lower temperatures , light rains and waves up to six feet .","DT JJ NN VBZ VBN VBG IN DT NN IN NNP , VBG DT NN IN DT NNP NNP NN CC NNP NN , VBG JJR NNS , NN NNS CC NNS IN TO CD NNS .",O O O O O O O O O O O O O O O O O B-LOC I-LOC O O B-LOC O O O O O O O O O O O O O O O
+1463,"Chile and Mexico will start negotiations next year to broaden their free trade agreement to include services and investments , Finance Minister Eduardo Aninat said .","NNP CC NNP MD VB NNS IN NN TO VB PRP$ JJ NN NN TO VB NNS CC NNS , NNP NNP NNP NNP VBD .",B-LOC O B-LOC O O O O O O O O O O O O O O O O O B-ORG O B-PER I-PER O O
+1464,"Chile hopes to broaden the treaty signed in 1994 beyond reduction of tariffs on imports and exports and add provisions covering services and investment codes , said Aninat .","NNP VBZ TO VB DT NN VBN IN CD IN NN IN NNS IN NNS CC NNS CC VB NNS VBG NNS CC NN NNS , VBD NNP .",B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O
+1468,"It 's very good now , but it practically only covers trade in goods , ' ' he said .","PRP VBZ RB JJ RB , CC PRP RB RB VBZ NN IN NNS , '' POS PRP VBD .",O O O O O O O O O O O O O O O O O O O O
+1469,Aninat also said he was confident the Chilean Congress would ratify the treaty with Congress quickly .,JJ RB VBD PRP VBD JJ DT JJ NNP MD VB DT NN IN NNP RB .,B-PER O O O O O O B-MISC O O O O O O O O O
+1476,It was not immediately known when he would arrive in Oslo .,PRP VBD RB RB VBN WRB PRP MD VB IN NN .,O O O O O O O O O O B-LOC O
+1477,"The bishop will jointly receive the Nobel award next Tuesday with East Timorese-born activist Jose Ramos Horta , who lives in self-exile in Australia .","DT NN MD RB VB DT NNP NN IN NNP IN NNP NNP NN NNP NNP NNP , WP VBZ IN NN IN NNP .",O O O O O O B-MISC O O O O B-MISC I-MISC O B-PER I-PER I-PER O O O O O O B-LOC O
+1480,"will exacerbate the problem in finding a solution ( to East Timor ) , "" Alatas said on Friday .","MD VB DT NN IN VBG DT NN ( TO NNP NNP ) , "" NNS VBD IN NNP .",O O O O O O O O O O B-LOC I-LOC O O O B-PER O O O O
+1482,Ramos Horta has been a vocal leader of the opposition to Jakarta 's rule in the territory .,NNP NNP VBZ VBN DT JJ NN IN DT NN TO NNP POS NN IN DT NN .,B-PER I-PER O O O O O O O O O B-LOC O O O O O O
+1486,"Asked if the Indonesian ambassador to Norway would have attended the ceremony if only Belo had been involved , Alatas replied : "" Probably , yes , but that is a hypothetical question . ""","VBN IN DT JJ NN TO NNP MD VB VBN DT NN IN JJ NNP VBD VBN VBN , NNP VBD : "" RB , UH , CC DT VBZ DT JJ NN . """,O O O B-MISC O O B-LOC O O O O O O O B-PER O O O O B-PER O O O O O O O O O O O O O O O
+1491,"China 's State Council , or cabinet , has given a port in the southern province of Hainan permission to open to foreign vessels , the Xinhua news agency said on Friday .","NNP POS NNP NNP , CC NN , VBZ VBN DT NN IN DT JJ NN IN JJ NN TO VB TO JJ NNS , DT NNP NN NN VBD IN NNP .",B-LOC O B-ORG I-ORG O O O O O O O O O O O O O B-LOC O O O O O O O O B-ORG O O O O O O
+1495,( $ 1 = 8.3 yuan ),( $ CD SYM CD NN ),O O O O O O O
+1498,"Burmese troops and riot police moved in to disperse a student street protest at a suburban road junction near the Ranyon ( Rangoon ) University early on Saturday , witnesses said .","NN NNS CC NN NN VBD RP TO VB DT NN NN NN IN DT JJ NN NN IN DT NNP ( NN ) NNP RB IN NNP , NNS VBD .",B-MISC O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O
+1499,They said police and troops used water cannons from fire engines to subdue about 120 university students sitting in at the centre of the junction at about 3 a.m. before they moved in to round them up .,PRP VBD NN CC NNS VBD NN NNS IN NN NNS TO VB IN CD NN NNS VBG IN IN DT NN IN DT NN IN RB CD RB IN PRP VBD RP TO VB PRP RP .,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1500,"The students , who had staged an 11-hour protest at the junction in northern Rangoon , were taken away in three vehicles .","DT NNS , WP VBD VBN DT JJ NN IN DT NN IN JJ NNP , VBD VBN RB IN CD NNS .",O O O O O O O O O O O O O O B-LOC O O O O O O O O
+1502,"The protesting students , mostly from Rangoon University , were demanding the right to organise independent unions on campuses and the release of about 80 student leaders currently in jail .","DT VBG NNS , RB IN NNP NNP , VBD VBG DT NN TO VB JJ NNS IN NNS CC DT NN IN RB CD NN NNS RB IN NN .",O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O
+1503,They were among 500 students who started demonstrating at the intersection on late Friday afternoon .,PRP VBD IN CD NNS WP VBD VBG IN DT NN IN JJ NNP NN .,O O O O O O O O O O O O O O O O
+1505,Burmese students march briefly out of campus .,NN NNS VBP NN RP IN NN .,B-MISC O O O O O O O
+1510,There were no clashes .,EX VBD DT NNS .,O O O O O
+1514,They were singing peacefully .,PRP VBD VBG RB .,O O O O O
+1515,"On Monday and Tuesday , students from the institute and the university launched protests against what they said was unfair handling by police of a brawl between some of their colleagues and restaurant owners in October .","IN NNP CC NNP , NNS IN DT NN CC DT NN VBD NNS IN WP PRP VBD VBD JJ VBG IN NN IN DT NN IN DT IN PRP$ NNS CC NN NNS IN NNP .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1516,"On Tuesday and Wednesday , opposition leader Aung San Suu Kyi was restricted to her home by the military government to prevent her from being drawn into the protests .","IN NNP CC NNP , NN NN NNP NNP NNP NNP VBD VBN TO PRP$ NN IN DT JJ NN TO VB PRP IN VBG VBN IN DT NNS .",O O O O O O O B-PER I-PER I-PER I-PER O O O O O O O O O O O O O O O O O O O
+1519,The street protests were the biggest seen in the capital since the student-led pro-democracry demonstrations of September 1988 when the junta crushed the uprising .,DT NN NNS VBD DT JJS VBN IN DT NN IN DT JJ JJ NNS IN NNP CD WRB DT NN VBN DT NN .,O O O O O O O O O O O O O O O O O O O O O O O O O
+1520,Thousands were killed or imprisoned .,NNS VBD VBN CC VBN .,O O O O O O
+1522,They told Reuters they were unhappy that the ruling State Law and Order Restoration Council ( SLORC ) had not heeded their calls for the right to organise independent unions on campus .,PRP VBD NNP PRP VBD JJ IN DT VBG NNP NNP CC NNP NNP NNP ( NNP ) VBD RB VBD PRP$ NNS IN DT NN TO VB JJ NNS IN NN .,O O B-ORG O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O O O O O
+1525,But the students stressed their protests were non-political and they had no contact with Suu Kyi 's National League for Democracy ( NLD ) .,CC DT NNS VBD PRP$ NNS VBD JJ CC PRP VBD DT NN IN NNP NNP POS NNP NNP IN NN ( NNP ) .,O O O O O O O O O O O O O O B-PER I-PER O B-ORG I-ORG I-ORG I-ORG O B-ORG O O
+1528,The students also demanded the government announce punishments meted out to policemen who they said had manhandled students involved in a brawl with some restaurant owners near the Yangon institute in October .,DT NNS RB VBD DT NN VB NNS VBD RP TO NNS WP PRP VBD VBN VBN NNS VBN IN DT NN IN DT NN NNS IN DT JJ NN IN NNP .,O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O
+1531,"On Friday , the road leading to Suu Kyi 's lakeside residence in central Rangoon remained closed by police .","IN NNP , DT NN VBG TO NNP NNP POS JJ NN IN JJ NNP VBD VBN IN NN .",O O O O O O O B-PER I-PER O O O O O B-LOC O O O O O
+1534,International trade union leaders on Friday expressed outrage that the head of the International Labour Organisation ( ILO ) had been barred from speaking at next week 's WTO meeting in Singapore .,NN NN NN NNS IN NNP VBD NN IN DT NN IN DT NNP NNP NNP ( NNP ) VBD VBN VBN IN VBG IN JJ NN POS NNP NN IN NNP .,O O O O O O O O O O O O O B-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O B-ORG O O B-LOC O
+1537,""" It is to their shame that those who are responsible for encouraging this meeting responded ( to the pressure ) in silencing him , "" Jordan said after the opening of an ICFTU conference on international labour standards and trade .",""" PRP VBZ TO PRP$ NN IN DT WP VBP JJ IN VBG DT NN VBD ( TO DT NN ) IN VBG PRP , "" NNP VBD IN DT NN IN DT JJ NN IN JJ NN NNS CC NN .",O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O B-ORG O O O O O O O O
+1539,Jordan said the WTO 's credibility was at stake over the issue of trade and labour .,NNP VBD DT NNP POS NN VBD IN NN IN DT NN IN NN CC NN .,B-PER O O B-ORG O O O O O O O O O O O O O
+1542,""" Some governments are very determined to stop the issue ( of trade and labour rights ) being discussed , "" he said , adding that the Association of Southeast Asian Nations ( ASEAN ) seemed particularly hostile to the ILO agenda .",""" DT NNS VBP RB VBN TO VB DT NN ( IN NN CC NN NNS ) VBG VBN , "" PRP VBD , VBG IN DT NNP IN NNP NNP NNP ( NNP ) VBD RB JJ TO DT JJ NN .",O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O O O O O O B-ORG O O
+1546,But he said the WTO 's organisational structure made it difficult to impose on its members a social clause such as that called for by the ILO .,CC PRP VBD DT NNP POS JJ NN VBD PRP JJ TO VB IN PRP$ NNS DT JJ NN JJ IN DT VBD IN IN DT NNP .,O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O B-ORG O
+1551,"For synthetic rubber , production reached 68,200 tonnes in 1995/96 while consumption in the same season hit 134,085 tonnes , Matthew added .","IN JJ NN , NN VBD CD NNS IN CD IN NN IN DT JJ NN VBD CD NNS , NNP VBD .",O O O O O O O O O O O O O O O O O O O O B-PER O O
+1556,"In 2010/11 , domestic demand should rise further to 1.233 million tonnes while production will only reach about 914,000 tonnes .","IN CD , JJ NN MD VB JJ TO CD CD NNS IN NN MD RB VB RB CD NNS .",O O O O O O O O O O O O O O O O O O O O O
+1559,-- Singapore Newsroom ( 65-8703305 ),: NNP NNP ( CD ),O B-ORG I-ORG O O O
+1560,Japan 's authorities seen seeking to rein in dollar .,NNP POS NNS VBN VBG TO VB IN NN .,B-LOC O O O O O O O O O
+1563,"Comments by Japan 's tight-lipped central bank chief and an influential top bureaucrat are further signs that the nation 's authorities want to keep the dollar at current levels , market sources said on Friday .","NNS IN NNP POS JJ JJ NN NN CC DT JJ NN NN VBP JJ NNS IN DT NN POS NNS VBP TO VB DT NN IN JJ NNS , NN NNS VBD IN NNP .",O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1566,"But many in the market thought Sakakibara 's real intentions lay elsewhere , and took more notice of his comments about the U.S. government 's stance on the dollar , dealers said .","CC JJ IN DT NN VBD NNP POS JJ NNS VBD RB , CC VBD RBR NN IN PRP$ NNS IN DT NNP NN POS NN IN DT NN , NNS VBD .",O O O O O O B-PER O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O
+1567,""" I think his views on ( U.S. Treasury Secretary Robert ) Rubin 's comments were indeed what he himself thinks about the dollar , "" said Hank Note , chief dealer at Sumitomo Bank .",""" PRP VBP PRP$ NNS IN ( NNP NNP NNP NNP ) NNP POS NNS VBD RB WP PRP PRP VBZ IN DT NN , "" VBD NNP VB , JJ NN IN NNP NNP .",O O O O O O O B-ORG I-ORG O B-PER O B-PER O O O O O O O O O O O O O O B-PER I-PER O O O O B-ORG I-ORG O
+1570,"In that sense , the comments are not pointing to a certain direction , "" he said .","IN DT NN , DT NNS VBP RB VBG TO DT JJ NN , "" PRP VBD .",O O O O O O O O O O O O O O O O O O
+1572,"Takao Sakoh , first vice president at Union Bank of Switzerland in Tokyo , said : "" Maybe a dollar at 104.50 yen is not acceptable ( to Sakakibara ) , but it may be okay at the current level , at the lower end of 112 yen . ""","NNP NNP , JJ NN NN IN NNP NNP IN NNP IN NNP , VBD : "" RB DT NN IN CD NN VBZ RB JJ ( TO NNP ) , CC PRP MD VB JJ IN DT JJ NN , IN DT JJR NN IN CD NN . """,B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG O B-LOC O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O
+1576,"Adding to the comments by "" Mr Yen "" , as Sakakibara is known for his prominence in the currency market , was BOJ governor Matsushita 's remark .","VBG TO DT NNS IN "" NNP NNP "" , IN NNP VBZ VBN IN PRP$ NN IN DT NN NN , VBD NNP NN NNP POS NN .",O O O O O O B-PER I-PER O O O B-PER O O O O O O O O O O O B-ORG O B-PER O O O
+1579,Some said the central bank may have been concerned a weaker yen would lead to unfounded pessimism about Japan 's economy .,DT VBD DT JJ NN MD VB VBN VBN DT JJR NN MD VB TO JJ NN IN NNP POS NN .,O O O O O O O O O O O O O O O O O O B-LOC O O O
+1583,""" I realise there are negative views in the markets about the impact of the consumption tax hike and drop in public spending , but the markets appear to be exaggerating the magnitude of the negative impact , "" a senior BOJ official told Reuters on Friday .",""" PRP VBP EX VBP JJ NNS IN DT NNS IN DT NN IN DT NN NN NN CC NN IN JJ NN , CC DT NNS VBP TO VB VBG DT NN IN DT JJ NN , "" DT JJ NNP NN VBD NNP IN NNP .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O B-ORG O O O
+1584,The consumption tax is due to raised in April from three to five percent .,DT NN NN VBZ JJ TO VBN IN NNP IN CD TO CD NN .,O O O O O O O O O O O O O O O
+1588,A Lebanese military court on Friday sentenced to death in absentia the commander of Israel 's surrogate militia in south Lebanon on treason charges .,DT JJ JJ NN IN NNP VBD TO NN IN NN DT NN IN NNP POS NN NN IN JJ NNP IN NN NNS .,O B-MISC O O O O O O O O O O O O B-LOC O O O O O B-LOC O O O O
+1589,"The court convicted General Antoine Lahd , head of the South Lebanon Army ( SLA ) , of collaborating with Israel with which Lebanon is officially at war .","DT NN VBN NNP NNP NNP , NN IN DT NNP NNP NNP ( NNP ) , IN VBG IN NNP IN WDT NNP VBZ RB IN NN .",O O O O B-PER I-PER O O O O B-ORG I-ORG I-ORG O B-ORG O O O O O B-LOC O O B-LOC O O O O O
+1590,"Lahd , a 69-year-old former Lebanese army major-general , heads the 3,000-strong SLA militia which helps Israel hold a border zone in south Lebanon to ward off cross-frontier guerrilla raids on northern Israel .","NNP , DT JJ JJ JJ NN JJ , NNS DT JJ NNP NN WDT VBZ NNP VBP DT NN NN IN JJ NNP TO VB RP VB JJ NNS IN JJ NNP .",B-PER O O O O B-MISC O O O O O O B-ORG O O O B-LOC O O O O O O B-LOC O O O O O O O O B-LOC O
+1592,He said Israel was capable of pressuring Lebanon 's Syrian-backed government to stop the legal pursuit .,PRP VBD NNP VBD JJ IN VBG NNP POS JJ NN TO VB DT JJ NN .,O O B-LOC O O O O B-LOC O B-MISC O O O O O O O
+1593,"The charges against Lahd were : forming a hostile army , carrying weapons on Israel 's side , helping Israel strip off a part of Lebanese territory by violence , forming an armed gang , killing or trying to kill Lebanese civilians by artillery shelling and kidnapping Lebanese citizens for long periods .","DT NNS IN NNP VBD : VBG DT JJ NN , VBG NNS IN NNP POS NN , VBG NNP NN IN DT NN IN JJ NN IN NN , VBG DT JJ NN , JJ CC VBG TO VB JJ NNS IN NN VBG CC NN JJ NNS IN JJ NNS .",O O O B-PER O O O O O O O O O O B-LOC O O O O B-LOC O O O O O B-MISC O O O O O O O O O O O O O O B-MISC O O O O O O B-MISC O O O O O
+1598,But Lebanese political analysts have said that would be out of the question and Lebanese authorities pre-empted the issue by taking legal action against Lahd .,CC JJ JJ NNS VBP VBD DT MD VB IN IN DT NN CC JJ NNS VBD DT NN IN VBG JJ NN IN NNP .,O B-MISC O O O O O O O O O O O O B-MISC O O O O O O O O O B-PER O
+1599,"Former Israeli Prime Minister Shimon Peres , calling Lahd "" a great Lebanese patriot "" , said earlier this year Lebanon had insulted the SLA commander by ordering his arrest on the treason charges .","JJ JJ NNP NNP NNP NNP , VBG NNP "" DT JJ JJ NN "" , VBD RBR DT NN NNP VBD VBN DT NNP NN IN VBG PRP$ NN IN DT NN NNS .",O B-MISC O O B-PER I-PER O O B-PER O O O B-MISC O O O O O O O B-LOC O O O B-ORG O O O O O O O O O O
+1602,"Saqr , whose trial was concurrent with Lahd 's , was convicted of "" contacting the Israeli enemy , passing information to Israel and undertaking hostile acts against Lebanon "" .","NNP , WP$ NN VBD JJ IN NNP POS , VBD VBN IN "" VBG DT JJ NN , VBG NN TO NNP CC VBG JJ NNS IN NNP "" .",B-PER O O O O O O B-PER O O O O O O O O B-MISC O O O O O B-LOC O O O O O B-LOC O O
+1608,"Sales reported on 8,200 head slaughter steers and 1,000 heifers ; following weekly movement of 71,200 head .",NNS VBD RP CD NN NN VBZ CC CD NNS : VBG JJ NN IN CD NN .,O O O O O O O O O O O O O O O O O O
+1610,Slaughter Steers - Select and Choice 2-3 1150-1200 lbs 67.00 .,NNP NNP : NNP CC NNP CD CD VBZ CD .,O O O O O O O O O O O
+1614,USDA daily cattle and hog slaughter - Dec 6 .,NNP JJ NNS CC NN NN : NNP CD .,B-ORG O O O O O O O O O
+1618,"Week ago ( est ) 130,000 6,000 346,000",NN RB ( FW ) CD CD CD,O O O O O O O O
+1619,"Year ago ( act ) 132,000 6,000 336,000",NN RB ( NN ) CD CD CD,O O O O O O O O
+1623,"Same Period Last Year* ( act ) 685,000 31,000 1,914,000",JJ NNP JJ NN ( NN ) CD CD CD,O O O O O O O O O O
+1627,*1995 totals adjusted to reflect NASS revisions 1996 Totals are subject to revision Yearly totals may not add due to rounding .,CD NNS VBN TO VB NNP NNS CD NNS VBP JJ TO VB JJ NNS MD RB VB RB TO VBG .,O O O O O B-ORG O O O O O O O O O O O O O O O O
+1635,MOODY 'S : Aaa / A1 S&P : AAA / AA-,NNP POS : JJ SYM NNP NNP : NNP SYM PRP,B-ORG I-ORG O O O O B-ORG O O O O
+1659,"14 years later , Florida man dies for killing .","CD NNS RBR , NNP NN VBZ IN NN .",O O O O B-LOC O O O O O
+1662,", 41 , was put to death in Florida 's electric chair Friday .",", CD , VBD VBN TO NN IN NNP POS JJ NN NNP .",O O O O O O O O B-LOC O O O O O
+1664,"Speaking in Arabic , Mills made a final statement before an anonymous citizen flipped the switch that sent 2000 volts of electricity through his body , said Department of Corrections spokesman Eugene Morris , who was present at the execution .","VBG IN NNP , NNP VBD DT JJ NN IN DT JJ NN VBD DT NN WDT VBD CD NNS IN NN IN PRP$ NN , VBD NNP IN NNPS NN NNP NNP , WP VBD JJ IN DT NN .",O O B-MISC O B-PER O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O B-PER I-PER O O O O O O O O
+1665,""" I bear witness that there is no God but Allah and I bear witness that the prophet Mohammed is the messenger of God , "" he quoted Mills as saying .",""" PRP VBP NN IN EX VBZ DT NNP CC NNP CC PRP VBP NN IN DT NN NNP VBZ DT NN IN NNP , "" PRP VBD NNP IN VBG .",O O O O O O O O B-PER O B-PER O O O O O O O B-PER O O O O B-PER O O O O B-PER O O O
+1666,"Prison officials said they had no record of Mills ' official conversion , but they said that , on May 14 , 1991 , he had asked that a new name , Yuhanna Abdullah Muhammed , be added to his prison file , which is usually an indication of a conversion to Islam .","NNP NNS VBD PRP VBD DT NN IN NNP POS JJ NN , CC PRP VBD IN , IN NNP CD , CD , PRP VBD VBN IN DT JJ NN , NNP NNP NNP , VB VBN TO PRP$ NN NN , WDT VBZ RB DT NN IN DT NN TO NNP .",O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER I-PER O O O O O O O O O O O O O O O O O B-MISC O
+1676,New York grain freight fixtures - Dec 5 .,NNP NNP NN NN NNS : NNP CD .,B-LOC I-LOC O O O O O O O
+1678,"Mana 50,000 tonnes soybeans USG / China 10-15/12 $ 23.50 10,000 / 4,000 GeePee .",NNP CD VBZ NNS NNP SYM NNP CD $ CD CD SYM CD NNP .,O O O O O O B-LOC O O O O O O O O
+1679,-- New York Commodities Desk +1 212 859 1640,: NNP NNP NNP NNP CD CD CD CD,O B-ORG I-ORG I-ORG I-ORG O O O O
+1687,Heifers - Select and Choice 2-4 no sales .,NNS : NNP CC NNP CD DT NNS .,O O O O O O O O O
+1689,Steers - Select and Choice 2-4 no sales .,NNS : NNP CC NNP CD DT NNS .,O O O O O O O O O
+1690,Holstein - ( weight only ) Select to mostly Choice 2-3 1250-1400 lbs no sales .,NN : ( NN RB ) NNP TO RB NNP CD CD NNS RB NNS .,O O O O O O O O O O O O O O O O
+1691,Holsteins - ( grade and weight ) Choice 2-3 1250-1450 lbs no sales Select 2-3 1250-1450 lbs no sales .,NNS : ( NN CC NN ) NNP CD CD NNS RB VBZ NNP CD CD NNS RB NNS .,O O O O O O O O O O O O O O O O O O O O
+1692,Heifers - Select and Choice 2-4 no sales .,NNS : NNP CC NNP CD DT NNS .,O O O O O O O O O
+1694,Wk to Date - None Week Ago - 800 Year Ago - 900,VB TO NNP : NN NN NNP : CD NNP NNP : CD,O O O O O O O O O O O O O
+1696,"Man stole pigs , tipped strippers , gets 10 years .","NN VBD NNS , VBD NNS , VBZ CD NNS .",O O O O O O O O O O O
+1700,"In sentencing Darrel Voeks , 38 , to a 10-year prison term on Thursday , Outagmie County Circuit Court Judge Dennis Luebke said he was "" a thief by habit . ""","IN VBG NNP NNP , CD , TO DT JJ NN NN IN NNP , NNP NNP NNP NNP NNP NNP NNP VBD PRP VBD "" DT NN IN NN . """,O O B-PER I-PER O O O O O O O O O O O B-LOC I-LOC O O O B-PER I-PER O O O O O O O O O O
+1706,Canadian grain statistics weekly .,JJ NN NNS JJ .,B-MISC O O O O
+1710,Curr Wk Yr Ago Curr Wk Yr to Date Yr Ago,NNP NN NNP NNP NNP NN NNP TO NNP NNP NNP,O O O O O O O O O O O
+1712,Durum 1168.9 1225.0 44.3 965.3 1069.6,NN CD CD CD CD CD,O O O O O O
+1714,Barley 1074.0 1104.8 178.0 2531.4 1897.1,NNP CD CD CD CD CD,O O O O O O
+1715,Rye 44.6 86.3 2.3 108.2 119.2,NNP CD CD CD CD CD,O O O O O O
+1719,Total 7785.8 7724.8 629.8 13050.2 11979.6,JJ CD CD CD CD CD,O O O O O O
+1724,Oats 40.0 561.0 391.9 4.8 149.6 115.0,NNP CD CD CD CD CD CD,O O O O O O O
+1726,Rye 4.1 60.7 57.9 3.0 10.7 18.9,NNP CD CD CD CD CD CD,O O O O O O O
+1728,Canola 47.1 988.1 1135.5 46.7 894.9 822.0,NNP CD CD CD CD CD CD,O O O O O O O
+1730,Total 730.0 9176.1 8188.2 164.2 3156.0 2686.7,JJ CD CD CD CD CD CD,O O O O O O O
+1732,Oats Rye Flaxseed Canola Corn,NNP NNP NNP NNP NNP,O O O O O
+1733,"Exports 29,200 17,200 7,700 100 59,400",NNS CD CD CD CD CD,O O O O O O
+1734,"Year Ago 47,000 24,300 8,700 8,200 12,200",NNP NNP CD CD CD CD CD,O O O O O O O
+1742,""" Weather forecasts have been sketchy .",""" NNP VBZ VB VBN JJ .",O O O O O O O
+1743,"Now the National Weather Service is calling for above-normal temperatures in more than half of the U.S. , "" one futures trader said .","RB DT NNP NNP NNP VBZ VBG IN JJ NNS IN JJR IN NN IN DT NNP , "" CD NNS NN VBD .",O O B-ORG I-ORG I-ORG O O O O O O O O O O O B-LOC O O O O O O O
+1746,"The next backstops were seen at $ 3.11 and $ 3.04 , the low set on November 21 .","DT JJ NNS VBD VBN IN $ CD CC $ CD , DT JJ NN IN NNP CD .",O O O O O O O O O O O O O O O O O O O
+1747,Resistance was pegged at the new contract high of $ 3.80 .,NN VBD VBN IN DT JJ NN JJ IN $ CD .,O O O O O O O O O O O O
+1748,"In the cash market , Gulf Coast prices were around $ 3.60 shortly before nomination deadlines .","IN DT NN NN , NNP NNP NNS VBD RB $ CD RB IN NN NNS .",O O O O O B-LOC I-LOC O O O O O O O O O O
+1754,"In congruence with futures , Permian cash prices for the weekend fell more than 10 cents to the high - $ 3.40s.","IN NN IN NNS , NNP NN NNS IN DT NN VBD JJR IN CD NNS TO DT JJ : $ CD",O O O O O B-MISC O O O O O O O O O O O O O O O O
+1755,"On the KCBT , January finished 26.5 cents lower at $ 3.35 after dipping to a low of $ 3.33 earlier in the session .","IN DT NNP , NNP VBD CD NNS RBR IN $ CD IN VBG TO DT JJ IN $ CD RBR IN DT NN .",O O B-ORG O O O O O O O O O O O O O O O O O O O O O O
+1756,"February was down 22 cents at the close , while other deferreds were 4.5 to nine cents lower .","NNP VBD RB CD NNS IN DT NN , IN JJ NNS VBD CD TO CD NNS RBR .",O O O O O O O O O O O O O O O O O O O
+1757,The East / West spread narrowed by 3.2 cents to 13.7 cents ( NYMEX premium ) .,DT JJ SYM NNP VBD VBN IN CD NNS TO CD NNS ( NNP NN ) .,O O O O O O O O O O O O O B-ORG O O O
+1759,"-- H McCulloch , New York Power Desk +212-859-1628",": NNP NNP , NNP NNP NNP NNP CD",O B-PER I-PER O B-ORG I-ORG I-ORG I-ORG O
+1762,U.S. barge rates were lightly quoted Friday on the St. Louis Merchants Exchange call session .,NNP NN NNS VBD RB VBN NNP IN DT NNP NNP NNP NNP NN NN .,B-LOC O O O O O O O O B-LOC I-LOC O O O O O
+1766,"Two barges , week of January 5 , Illinois , offered five points lower at 195 percent , bid at 150 percent .","CD NNS , NN IN NNP CD , NNP , VBN CD NNS RBR IN CD NN , NN IN CD NN .",O O O O O O O O B-LOC O O O O O O O O O O O O O O
+1773,"Grain and soybean receipts and shipments , in bushels , at delivery locations for the previous trading day , according to the Chicago Board of Trade -","NN CC NN NNS CC NNS , IN NNS , IN NN NNS IN DT JJ NN NN , VBG TO DT NNP NNP IN NNP :",O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG O
+1790,( ( Chicago Newsdesk 312-408-8720 ) ),( ( NNP NNP CD ) ),O O B-ORG I-ORG O O O
+1803,The deal is expected to close by the end of the year subject to due diligence and other customary closing conditions .,DT NN VBZ VBN TO VB IN DT NN IN DT NN NN TO JJ NN CC JJ JJ NN NNS .,O O O O O O O O O O O O O O O O O O O O O O
+1806,"As many as 1 million dog bites are recorded in the United States every year and half of them are provoked by humans , a veterinarian told fellow animal doctors on Friday .","RB JJ IN CD CD NN NNS VBP VBN IN DT NNP NNP DT NN CC NN IN PRP VBP VBN IN NNS , DT NN VBD JJ NN NNS IN NNP .",O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O
+1807,"The Humane Society of the United States estimates that between 500,000 and one million bites are delivered by dogs each year , more than half of which are suffered by children .","DT NNP NNP IN DT NNP NNP VBZ IN IN CD CC CD CD NNS VBP VBN IN NNS DT NN , JJR IN NN IN WDT VBP VBN IN NNS .",O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O
+1808,""" Most bites can be prevented by teaching children how to respect a dog , "" Michael Cornwell of the Glencoe Animal Hospital in Columbus , Ohio , told the annual meeting of the American Veterinary Medical Association .",""" JJS NNS MD VB VBN IN VBG NNS WRB TO VB DT NN , "" NNP NNP IN DT NNP NNP NNP IN NNP , NNP , VBD DT JJ NN IN DT JJ JJ NNP NNP .",O O O O O O O O O O O O O O O O B-PER I-PER O O B-ORG I-ORG I-ORG O B-LOC O B-LOC O O O O O O O B-ORG I-ORG I-ORG I-ORG O
+1811,"Let 's respect their territories , "" he said .","VB POS JJ PRP$ NNS , "" PRP VBD .",O O O O O O O O O O
+1813,He also estimated that only 25 percent of bites were reported because medical attention was not needed .,PRP RB VBD IN RB CD NN IN NNS VBD VBN IN JJ NN VBD RB VBN .,O O O O O O O O O O O O O O O O O O
+1815,"The five breeds credited with the most incidents were chow chows , Rottweilers , German shepherds , cocker spaniels and Dalmatians . ""","DT CD NNS VBN IN DT JJS NNS VBD VBN JJ , NNP , JJ NNS , NN NNS CC NNPS . """,O O O O O O O O O O O O B-MISC O B-MISC I-MISC O B-MISC I-MISC O B-MISC O O
+1819,"If approached by a stray dog , children should be taught to stand still with fists folded underneath the neck , elbows in , and gaze forward until the dog goes away .","IN VBN IN DT JJ NN , NNS MD VB VBN TO VB RB IN NNS VBD IN DT NN , NNS IN , CC VB RB IN DT NN VBZ RB .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1820,Iowa-S Minn feedlot cattle market not tested- USDA .,NNP NNP NN NNS NN RB JJ NNP .,B-LOC B-LOC O O O O O B-ORG O
+1822,"Steers and heifers were not tested , compared with Thursday 's close , USDA said .","NNS CC NNS VBD RB VBN , VBN IN NNP POS NN , NNP VBD .",O O O O O O O O O O O O O B-ORG O O
+1826,Nebraska fed cattle roundup - USDA .,NN VBN NNS VBP : NNP .,B-LOC O O O O B-ORG O
+1837,Four Africans said to vie for top U.N. post .,CD NNPS VBD TO VB IN JJ NNP NN .,O B-MISC O O O O O B-ORG O O
+1841,"The nominees , according to diplomats , are : Kofi Annan of Ghana , the U.N. undersecretary-general for peacekeeping ; Ahmedou Ould Abdallah of Mauritania , the former U.N. special envoy for Burundi ; Amara Essy of the Ivory Coast , its foreign minister and the U.N. General Assembly president in 1994-95 ; and Hamid Algabid of Niger , the secretary-general of the Organisation of the Islamic Conference .","DT NNS , VBG TO NNS , VBP : NNP NNP IN NNP , DT NNP NN IN NN : NNP NNP NNP IN NNP , DT JJ NNP JJ NN IN NNP : NNP NNP IN DT NNP NNP , PRP$ JJ NN CC DT NNP NNP NNP NN IN CD : CC NNP NNP IN NNP , DT NN IN DT NNP IN DT NNP NNP .",O O O O O O O O O B-PER I-PER O B-LOC O O B-ORG O O O O B-PER I-PER I-PER O B-LOC O O O B-ORG O O O B-LOC O B-PER I-PER O O B-LOC I-LOC O O O O O O B-ORG I-ORG I-ORG O O O O O B-PER I-PER O B-LOC O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O
+1845,Boutros-Ghali on Wednesday opened the door for other Africans to contest his job by saying he was suspending temporarily his candidacy but was not withdrawing completely from the race .,JJ IN NNP VBD DT NN IN JJ NNPS TO VB PRP$ NN IN VBG PRP VBD VBG RB PRP$ NN CC VBD RB VBG RB IN DT NN .,B-PER O O O O O O O B-MISC O O O O O O O O O O O O O O O O O O O O O
+1853,"Hooded protesters threw burning bottles and other objects at police in Pamplona after the protest organised by Herri Batasuna , the political wing of Basque separatist group ETA .","VBN NNS VBD VBG NNS CC JJ NNS IN NN IN NNP IN DT NN VBD IN NNP NNP , DT JJ NN IN JJ JJ NN NNP .",O O O O O O O O O O O B-LOC O O O O O B-ORG I-ORG O O O O O B-MISC O O B-ORG O
+1854,"Police also confiscated eight kg ( 18 lb ) of screws , balaclavas and spray paint cans .","NNS RB VBD CD NN ( CD NN ) IN NNS , NNS CC NN NN NNS .",O O O O O O O O O O O O O O O O O O
+1858,"Alessandra Mussolini , the granddaughter of Italy 's Fascist dictator Benito Mussolini , said on Friday she had rejoined the far-right National Alliance ( AN ) party she quit over policy differences last month .","NNP NNP , DT NN IN NNP POS JJ NN NNP NNP , VBD IN NNP PRP VBD VBN DT JJ NNP NNP ( DT ) NN PRP VB IN NN NNS JJ NN .",B-PER I-PER O O O O B-LOC O O O B-PER I-PER O O O O O O O O O B-ORG I-ORG O B-ORG O O O O O O O O O O
+1861,"Fini told state radio RAI he met Mussolini thanks to the good offices of Giuseppe Tatarella , AN 's leader in the Chamber of Deputies ( lower house ) , and had overcome their differences .","NNP VBD NN NN NNP PRP VBD NNP NNS TO DT JJ NNS IN NNP NNP , DT VBZ NN IN DT NNP IN NNPS ( JJR NN ) , CC VBD VBN PRP$ NNS .",B-PER O O O B-LOC O O B-PER O O O O O O B-PER I-PER O B-ORG O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O
+1865,German Santa in bank nearly gets arrested .,NNP NNP IN NN RB VBZ VBN .,B-MISC B-PER O O O O O O
+1869,Italy commission concludes 1997 budget examination .,NN NN VBZ CD NN NN .,B-LOC O O O O O O
+1871,"The Italian upper house Senate budget commission has concluded its examination of Italy 's 1997 budget , and it will approve the measure officially by Saturday .","DT JJ JJ NN NNP NN NN VBZ VBN PRP$ NN IN NNP POS CD NN , CC PRP MD VB DT NN RB IN NNP .",O B-MISC O O B-ORG O O O O O O O B-LOC O O O O O O O O O O O O O O
+1874,"EU , Poland agree on oil import tariffs .","RB , NNP VBP IN NN NN NNS .",B-ORG O B-LOC O O O O O O
+1877,"The EU had objected to increases in Polish tariffs on imports of gasoline and gasoil products introduced on January 1 , 1996 , saying they contravened levels envisaged in the so-called Europe Agreement between the EU and Poland .","DT NNP VBD VBN TO NNS IN JJ NNS IN NNS IN NN CC JJ NNS VBN IN NNP CD , CD , VBG PRP VBN NNS VBN IN DT JJ NNP NNP IN DT NNP CC NNP .",O B-ORG O O O O O B-MISC O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O B-ORG O B-LOC O
+1878,The increases were aimed at protecting the Polish market while helping to modernise the local oil industry .,DT NNS VBD VBN IN VBG DT JJ NN IN VBG TO VB DT JJ NN NN .,O O O O O O O B-MISC O O O O O O O O O O
+1880,"Under the agreement , Poland will abolish all oil import tariffs by 2001 , remove all oil price controls and end quantitative restrictions on imports by January 1 , 1997 .","IN DT NN , NNP MD VB DT NN NN NNS IN CD , VB DT NN NN NNS CC VB JJ NNS IN NNS IN NNP CD , CD .",O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O
+1881,"The agreement includes the early privatisation and modernisation of Polish oil refineries , which will be obliged to offer equal treatment to all buyers .","DT NN VBZ DT JJ NN CC NN IN JJ NN NNS , WDT MD VB VBN TO VB JJ NN TO DT NNS .",O O O O O O O O O B-MISC O O O O O O O O O O O O O O O
+1882,The EU and Poland will monitor the settlement at six-monthly meetings .,DT NNP CC NNP MD VB DT NN IN JJ NNS .,O B-ORG O B-LOC O O O O O O O O
+1883,Hindu party forces India parliament to adjourn .,NNP NN VBZ NNP NN TO VB .,B-MISC O O B-LOC O O O O
+1889,"The destruction of the 16th-century mosque in the northern Indian town of Ayodhya triggered nationwide Hindu-Moslem violence in which more than 3,000 people were killed .",DT NN IN DT JJ NN IN DT JJ JJ NN IN NNP VBD JJ JJ NN IN WDT JJR IN CD NNS VBD VBN .,O O O O O O O O O B-MISC O O B-LOC O O B-MISC O O O O O O O O O O
+1892,The campaign catapulted BJP from the political fringe to become India 's main opposition party in 1991 .,DT NN VBD NNP IN DT JJ NN TO VB NNP POS JJ NN NN IN CD .,O O O B-ORG O O O O O O B-LOC O O O O O O O
+1898,"Crude petroleum 2,557 2,832 15,838 17,648",JJ NN CD CD CD CD,O O O O O O
+1904,The web site ( http://www.pt.lu/infoweb/kreschtmaart ) gives details of the market 's concert programme as well as its various retailers .,DT NN NN ( NN ) VBZ NNS IN DT NN POS NN NN IN RB IN PRP$ JJ NNS .,O O O O O O O O O O O O O O O O O O O O O
+1906,London coal / ore fixtures .,NNP NN SYM NN NNS .,B-LOC O O O O O
+1911,UK bookmakers lengthen Conservative victory odds .,NNP NNS VBP JJ NN NNS .,B-LOC O O B-MISC O O O
+1913,UK bookmakers William Hill said on Friday they have lengthened the odds of a Conservative victory in the next general election from 9-4 to 5-2 .,NNP NNS NNP NNP VBD IN NNP PRP VBP VBN DT NNS IN DT JJ NN IN DT JJ JJ NN IN CD TO CD .,B-LOC O B-PER I-PER O O O O O O O O O O B-MISC O O O O O O O O O O O
+1914,William Hill said the odds were the longest they had been for six months .,NNP NNP VBD DT NNS VBD DT JJS PRP VBD VBN IN CD NNS .,B-PER I-PER O O O O O O O O O O O O O
+1920,"High-flying Italy topped the league in a week of meagre returns on government bonds , Salomon Brothers said on Friday .","VBG NNP VBD DT NN IN DT NN IN JJ NNS IN NN NNS , NNP NNPS VBD IN NNP .",O B-LOC O O O O O O O O O O O O O B-ORG I-ORG O O O O
+1924,Canada 's were the worst performing bonds .,NNP POS VBD DT JJS VBG NNS .,B-LOC O O O O O O O
+1927,"Australia was the only dollar-bloc country in the table to eke out a positive return , albeit a paltry 0.02 percent .","NNP VBD DT JJ JJ NN IN DT NN TO VB RP DT JJ NN , IN DT JJ CD NN .",B-LOC O O O O O O O O O O O O O O O O O O O O O
+1930,"In U.S. dollar terms , Japan was the only country to give positive returns at 1.35 percent .","IN NNP NN NNS , NNP VBD DT JJ NN TO VB JJ NNS IN CD NN .",O B-LOC O O O B-LOC O O O O O O O O O O O O
+1931,"France lost 0.37 percent , followed by Italy on minus 0.59 percent .","NNP VBD CD NN , VBN IN NNP IN CC CD NN .",B-LOC O O O O O O B-LOC O O O O O
+1933,"Salomon 's bond index is calculated using all government bonds with over one year to maturity , weighted for market capitalisation .","NNP POS NN NN VBZ VBN VBG DT NN NNS IN IN CD NN TO NN , JJ IN NN NN .",B-ORG O O O O O O O O O O O O O O O O O O O O O
+1934,Only bonds freely available to institutional investors and with a certain minimum amount outstanding are included .,JJ NNS RB JJ TO JJ NNS CC IN DT JJ JJ NN JJ VBP VBN .,O O O O O O O O O O O O O O O O O
+1935,Returns take account of price moves and accrued interest .,NNS VBP NN IN NN NNS CC VBN NN .,O O O O O O O O O O
+1936,"-- Stephen Nisbet , International Bonds +44 171 6320",": NNP NNP , NNP NNP CD CD CD",O B-PER I-PER O B-ORG I-ORG O O O
+1937,OPEC basket price $ 24.20 on Thursday .,NNP NN NN $ CD IN NNP .,B-ORG O O O O O O O
+1939,"The price of the OPEC basket of seven crudes stood at $ 24.20 a barrel on Thursday , against $ 23.47 on Wednesday , the OPECNA news agency said , quoting the OPEC secretariat .","DT NN IN DT NNP NN IN CD NNS VBD IN $ CD DT NN IN NNP , IN $ CD IN NNP , DT NNP NN NN VBD , VBG DT NNP NN .",O O O O B-ORG O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O B-ORG O O
+1940,"The basket comprises Algeria 's Saharan Blend , Indonesia 's Minas , Nigeria 's Bonny Light , Saudi Arabia 's Arabian Light , Dubai of the UAE , Venezuela 's Tia Juana and Mexico 's Isthmus .","DT NN VBZ NNP POS NNP NNP , NNP POS NNP , NNP POS NNP NNP , NNP NNP POS NNP NNP , NNP IN DT NNP , NNP POS NNP NNP CC NNP POS NNP .",O O O B-LOC O B-MISC I-MISC O B-LOC O B-MISC O B-LOC O B-MISC I-MISC O B-LOC I-LOC O B-MISC I-MISC O B-MISC O O B-LOC O B-LOC O B-MISC I-MISC O B-LOC O B-MISC O
+1941,-- London Newsroom +44 171 542 7630,: NNP NNP CD CD CD CD,O B-ORG I-ORG O O O O
+1942,"Relations between Clarke , Major good - spokesman .","NNS IN NNP , JJ JJ : NN .",O O B-PER O B-PER O O O O
+1946,"Asked about Major 's mood after a day of media speculation about his political fortunes , the spokesman said : "" He is resolute .","VBN IN NNP POS NN IN DT NN IN NNS NN IN PRP$ JJ NNS , DT NN VBD : "" PRP VBZ JJ .",O O B-PER O O O O O O O O O O O O O O O O O O O O O O
+1948,"The spokesman said he was not aware of any meetings overnight between Clarke and Major , nor of any talks between the prime minister and parliamentary business managers .","DT NN VBD PRP VBD RB JJ IN DT NNS RB IN NNP CC NNP , CC IN DT NNS IN DT JJ NN CC JJ NN NNS .",O O O O O O O O O O O O B-PER O B-PER O O O O O O O O O O O O O O
+1952,"Two people were killed when an executive jet en route to Ireland from Michigan crashed on approach to an airport in Stephenville , Newfoundland , on Friday , authorities said .","CD NNS VBD VBN WRB DT JJ NN IN NN TO NNP IN NNP VBD IN NN TO DT NN IN NNP , NNP , IN NNP , NNS VBD .",O O O O O O O O O O O B-LOC O B-LOC O O O O O O O B-LOC O B-LOC O O O O O O O
+1956,""" We considered it as being missing until about 0600 ( 4:30 A.M. EST ) ( 0930 GMT ) .",""" PRP VBD PRP IN VBG VBG IN RB CD ( CD RB NNP ) ( CD NNP ) .",O O O O O O O O O O O O O O O O O B-MISC O O
+1958,"He said the cargo flight originated in Grand Rapids , Michigan , and was due to stop at Stephenville for refueling before going to Shannon , Ireland .","PRP VBD DT NN NN VBP IN NNP NNP , NNP , CC VBD JJ TO VB IN NNP IN VBG IN VBG TO NNP , NNP .",O O O O O O O B-LOC I-LOC O B-LOC O O O O O O O B-LOC O O O O O B-LOC O B-LOC O
+1960,Investigators were due to fly to Stephenville later on Friday .,NNS VBD JJ TO VB TO NNP RB IN NNP .,O O O O O O B-LOC O O O O
+1963,"PLO negotiators said on Friday Palestinian President Yasser Arafat , Israeli Prime Minister Benjamin Netanyahu and Egyptian President Hosni Mubarak might all meet on Saturday to try to clinch a deal on Israel 's handover of Hebron to the PLO .","NNP NNS VBD IN NNP JJ NNP NNP NNP , NNP NNP NNP NNP NNP CC NNP NNP NNP NNP MD DT VB IN NNP TO VB TO VB DT NN IN NNP POS NN IN NNP TO DT NNP .",B-ORG O O O O B-MISC O B-PER I-PER O B-MISC O O B-PER I-PER O B-MISC O B-PER I-PER O O O O O O O O O O O O B-LOC O O O B-LOC O O B-ORG O
+1965,"There is work on arranging such a meeting hosted by President Mubarak , "" one PLO official , who requested anonymity , told Reuters .","EX VBZ NN IN VBG PDT DT NN VBD IN NNP NNP , "" CD NNP NN , WP VBD NN , VBD NNP .",O O O O O O O O O O O B-PER O O O B-ORG O O O O O O O B-ORG O
+1971,But Rdainah said Arafat would go to Cairo on Saturday for talks with Mubarak .,CC NNP VBD NNP MD VB TO NNP IN NNP IN NNS IN NNP .,O B-PER O B-PER O O O B-LOC O O O O O B-PER O
+1972,Both Arafat and Netanyahu have expressed willingness to meet .,DT NNP CC NNP VBP VBN NN TO VB .,O B-PER O B-PER O O O O O O
+1975,"The Palestine Liberation Organisation ( PLO ) negotiators said the last two weeks of talks with Israel on implementing the long-delayed handover of most of Hebron to PLO rule had been "" meaningless "" , necessitating an Arafat-Netanyahu meeting .","DT NNP NNP NNP ( NNP ) NNS VBD DT JJ CD NNS IN NNS IN NNP IN VBG DT JJ NN IN JJS IN NNP TO NNP NN VBD VBN "" JJ "" , VBG DT JJ NN .",O B-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O B-LOC O O O O O O O O B-LOC O B-ORG O O O O O O O O O O O O
+1977,Palestinian Authority Secretary General Ahmed Abdel-Rahman said on Thursday he understood it could be held in Cairo either on Friday or Sunday .,NNP NNP NNP NNP NNP NNP VBD IN NNP PRP VBD PRP MD VB VBN IN NNP CC IN NNP CC NNP .,B-ORG I-ORG O O B-PER I-PER O O O O O O O O O O B-LOC O O O O O O
+1982,"Turkey 's efforts to prevent Kurdish rebels and smugglers infiltrating from Syria are being badly hindered because the military does not have a map of its own minefields on the border , a commission of parliamentarians said .","NNP POS NNS TO VB JJ NNS CC NNS VBG IN NNP VBP VBG RB VBD IN DT JJ VBZ RB VB DT NN IN PRP$ JJ NNS IN DT NN , DT NN IN NNS VBD .",B-LOC O O O O B-MISC O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O
+1984,"The report , to be debated in parliament in coming weeks , was seen by Reuters on Friday . ""","DT NN , TO VB VBN IN NN IN JJ NNS , VBD VBN IN NNP IN NNP . """,O O O O O O O O O O O O O O O B-ORG O O O O
+1988,"They can come in and out easily as the minefields are not an obstacle , "" it said .","PRP MD VB IN CC IN RB RB DT NNS VBP RB DT NN , "" PRP VBD .",O O O O O O O O O O O O O O O O O O O
+1989,An armed forces spokesman was not available for comment .,DT JJ NNS NN VBD RB JJ IN NN .,O O O O O O O O O O
+1990,"Turkey says Syria sponsors the PKK , fighting for Kurdish self-rule in southeast Turkey .","NNP VBZ NNP VBZ DT NNP , VBG IN JJ NN IN JJ NNP .",B-LOC O B-LOC O O B-ORG O O O B-MISC O O O B-LOC O
+1992,The PKK also crosses into Turkey from bases in the mountains of northern Iraq .,DT NNP RB VBZ IN NNP IN NNS IN DT NNS IN JJ NNP .,O B-ORG O O O B-LOC O O O O O O O B-LOC O
+1996,"Three people were killed on Friday in a gun battle between rival groups of anti-guerrilla militiamen on the streets of this southeastern Turkish city , police said .","CD NNS VBD VBN IN NNP IN DT JJ NN IN JJ NNS IN JJ NNS IN DT NNS IN DT JJ JJ NN , NN VBD .",O O O O O O O O O O O O O O O O O O O O O O B-MISC O O O O O
+1997,"Four others were wounded in the clash , caused by a blood feud between two families , the Kesers and Karabuluts , serving as state-paid village guards against Kurdish rebels .","CD NNS VBD VBN IN DT NN , VBN IN DT JJ NN IN CD NNS , DT NNP CC NNP , VBG RB JJ NN NNS IN JJ NNS .",O O O O O O O O O O O O O O O O O O B-PER O B-PER O O O O O O O B-MISC O O
+1998,Police said the guards fired automatic weapons at each other .,NNS VBD DT NNS VBD JJ NNS IN DT JJ .,O O O O O O O O O O O
+2005,Trade very slow in the Panhandle area Thursday .,NNP RB JJ IN DT NNP NN NNP .,O O O O O B-LOC O O O
+2007,Feedlots reporting light inquiry from buyers .,NNS VBG JJ NN IN NNS .,O O O O O O O
+2009,"Thursday 200 Week Ago Holiday Year Ago 10,900",NNP CD NNP NNP NNP NNP NNP CD,O O O O O O O O
+2012,"Slaughter Steers : Pen Select and Choice 2-3 , 1150 lbs 67.00 .","NNP NNP : NNP NNP CC NNP CD , CD VBZ CD .",O O O O O O O O O O O O O
+2020,"week to date 89,300 week ago 71,000 year ago 47,200",NN TO NN CD NN RB CD NN RB CD,O O O O O O O O O O
+2025,"Heifers : Select and Choice 2-3 , 1150 lbs 67.00 .","NNS : NNP CC NNP CD , CD VBZ CD .",O O O O O O O O O O O
+2029,1997 3.50 3.60* 3.70 3.75 4.00 4.00 4.30 4.35,CD CD CD CD CD CD CD CD CD,O O O O O O O O O
+2030,2001 4.20 4.20 4.35 4.40 4.65 4.65 5.00 5.00,CD CD CD CD CD CD CD CD CD,O O O O O O O O O
+2033,2016 5.35 5.30 5.50 5.45 5.80 5.75 6.10 6.05,CD CD CD CD CD CD CD CD CD,O O O O O O O O O
+2042,"Earlier , NYMEX crude ended daytime trade 78 cents higher at $ 25.58 a barrel , following breakthroughs of key technical levels and reports of tighter supplies .","RBR , NNP NN VBD JJ NN CD NNS JJR IN $ CD DT NN , VBG NNS IN JJ JJ NNS CC NNS IN JJR NNS .",O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O
+2045,NYMEX gasoline for January delivery climbed 0.12 cents a gallon to 69.80 cents as a light 33 lots traded in the nearby month and 35 moved overall .,JJ NN IN NNP NN VBD CD NNS DT NN TO CD NNS IN DT JJ CD NNS VBN IN DT JJ NN CC CD VBD JJ .,B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2046,"January crude was barely changed from its settlement , edging up one cent to $ 25.66 a barrel .","NNP NN VBD RB VBN IN PRP$ NN , VBG RP CD NN TO $ CD DT NN .",O O O O O O O O O O O O O O O O O O O
+2049,U.S. blasts release of convicted bomber .,NNP NNS NN IN VBN NN .,B-LOC O O O O O O
+2057,He spoke after Rashid left Greece Thursday on being freed from prison early for good behaviour after serving 8-1/2 years .,PRP VBD IN NNP VBD NNP NNP IN VBG VBN IN NN RB IN JJ NN IN VBG CD NNS .,O O O B-PER O B-LOC O O O O O O O O O O O O O O O
+2058,"The Clinton administration 's strong views on this subject have been conveyed to the Greek government , Burns said .","DT NNP NN POS JJ NNS IN DT NN VBP VBN VBN TO DT JJ NN , NNP VBD .",O B-PER O O O O O O O O O O O O B-MISC O O B-PER O O
+2061,His sentence had been reduced to 15 years in 1993 .,PRP$ NN VBD VBN VBN TO CD NNS IN CD .,O O O O O O O O O O O
+2067,A New Mexico high school football player who used razor-sharp helmet buckles to slash opponents and a referee was expelled from high school banned Thursday from competition for one year .,DT NNP NNP JJ NN NN NN WP VBD JJ NN NNS TO VB NNS CC DT NN VBD VBN IN JJ NN VBD NNP IN NN IN CD NN .,O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2069,One of the players need 10 stitches to a cut on his forearm .,CD IN DT NNS VBP CD NNS TO DT NN IN PRP$ NN .,O O O O O O O O O O O O O O
+2075,"In a gloomy Geneva conference centre built before the dawn of the Internet , groups of staid officials made a first stab on Friday at rewriting copyright laws for the digital age .","IN DT JJ NNP NN NN VBN IN DT NN IN DT NN , NNS IN JJ NNS VBD DT JJ NN IN NNP IN VBG NN NNS IN DT JJ NN .",O O O B-LOC O O O O O O O O B-MISC O O O O O O O O O O O O O O O O O O O O
+2082,""" It 's not illegal to make photocopies of newspaper articles .",""" PRP VBZ RB JJ TO VB NNS IN NN NNS .",O O O O O O O O O O O O
+2084,We can read sports statistics or stock prices .,PRP MD VB NNS NNS CC NN NNS .,O O O O O O O O O
+2091,A quick survey at the conference centre found few officials who had actually surfed the Internet .,DT JJ NN IN DT NN NN VBD JJ NNS WP VBD RB VBD DT NN .,O O O O O O O O O O O O O O O B-MISC O
+2096,""" I 've never tried it and why should I ?",""" PRP VBP RB VBN PRP CC WRB MD PRP .",O O O O O O O O O O O
+2097,"There are lots of other things in this life I have n't tried either , "" he said .","EX VBP NNS IN JJ NNS IN DT NN PRP VBP RB VBN RB , "" PRP VBD .",O O O O O O O O O O O O O O O O O O O
+2100,""" But there are a lot of dinosaurs here .",""" CC EX VBP DT NN IN NNS RB .",O O O O O O O O O O
+2104,"Their enemies were tangible if elusive , such as the people who pirated music cassettes .","PRP$ NNS VBD JJ IN JJ , JJ IN DT NNS WP VBD NN NNS .",O O O O O O O O O O O O O O O O
+2105,"But the Internet , a global computer network where anything from music to software can be duplicated and distributed at the click of a computer mouse , has ripped up the rulebooks .","CC DT NN , DT JJ NN NN WRB NN IN NN TO NN MD VB VBN CC VBN IN DT NN IN DT NN NN , VBZ VBN RP DT NNS .",O O B-MISC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2106,Network operators said the draft laws would hold them responsible for copyright infringements in the system and expose them to multi-billion-dollar liabilities .,NNP NNS VBD DT NN NNS MD VB PRP JJ IN NN NNS IN DT NN CC VB PRP TO JJ NNS .,B-MISC O O O O O O O O O O O O O O O O O O O O O O
+2113,"The group had travelled from their mission on the edge of the park to a landing strip to make the rendezvous , a ministry official said .","DT NN VBD JJ IN PRP$ NN IN DT NN IN DT NN TO DT NN NN TO VB DT NN , DT NN NN VBD .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2115,Third Paris blast victim was Moroccan student .,JJ NNP NN NN VBD NNP NN .,O B-LOC O O O B-MISC O O
+2120,"An embassy spokesman said Benchaou , the son of a Moroccan army colonel , had been due to take his doctorate in March and hoped to become a teacher .","DT NN NN VBD NNP , DT NN IN DT NNP NN NN , VBD VBN JJ TO VB PRP$ NN IN NNP CC VBD TO VB DT NN .",O O O O B-PER O O O O O B-MISC O O O O O O O O O O O O O O O O O O O
+2122,Italian President urges separatists to turn back .,NNP NNP VBZ NNS TO VB RB .,B-MISC O O O O O O O
+2124,Italian President Oscar Luigi Scalfaro visited the symbolic heartland of the separatist Northern League on Friday and appealed to its supporters to drop their campaign for a breakaway state .,JJ NNP NNP NNP NNP VBD DT JJ NN IN DT JJ NNP NNP IN NNP CC VBD TO PRP$ NNS TO VB PRP$ NN IN DT JJ NN .,B-MISC O B-PER I-PER I-PER O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O
+2125,"Addressing a convention on Italian unity in Mantua , where the party has set up its own "" parliament of the north "" , Scalfaro made a direct appeal to what he called "" my friends from the League "" to work instead for federal reform .","VBG DT NN IN JJ NN IN NNP , WRB DT NN VBZ VBN RP PRP$ JJ "" NN IN DT JJ "" , NNP VBD DT JJ NN TO WP PRP VBD "" PRP$ NNS IN DT NNP "" TO VB RB IN JJ NN .",O O O O B-MISC O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O B-ORG O O O O O O O O
+2128,""" Help Italy to teach , to propose a capacity for strong local autonomy , for the federalism which can give new vigour to our blood .",""" VB NNP TO VB , TO VB DT NN IN JJ JJ NN , IN DT NN WDT MD VB JJ NN TO PRP$ NN .",O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O
+2132,"Witnesses said the protesters were outnumbered by other Italians who waved tricolour flags in the national red , white and green or shouted "" Viva Italia "" .","NNS VBD DT NNS VBD VBN IN JJ NNPS WP VBD NN NNS IN DT JJ NN , JJ CC NN CC NN "" FW NNP "" .",O O O O O O O O B-MISC O O O O O O O O O O O O O O O O B-LOC O O
+2133,The League won more than eight percent of votes at the last general election in April on a federalist platform but its leader Umberto Bossi later switched to a separatist agenda .,DT NNP VBD JJR IN CD NN IN NNS IN DT JJ JJ NN IN NNP IN DT JJ NN CC PRP$ NN NNP NNP RB VBD TO DT JJ NN .,O B-ORG O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O
+2134,"A three-day "" independence "" march along the Po River in September , culminating in a declaration in Venice of a self-styled "" Republic of Padania "" , flopped badly .","DT JJ "" NN "" NN IN DT NNP NNP IN NNP , VBG IN DT NN IN NNP IN DT JJ "" NNP IN NNP "" , VBD RB .",O O O O O O O O B-LOC O O O O O O O O O B-LOC O O O O B-LOC I-LOC I-LOC O O O O O
+2138,An average of four analysts ' forecasts predicted pre-tax profit of 147.3 million crowns compared to 144.5 million in the first six months of 1995/96 .,DT NN IN CD NNS POS NNS VBD JJ NN IN CD CD NNS VBN TO CD CD IN DT JJ CD NNS IN CD .,O O O O O O O O O O O O O O O O O O O O O O O O O O
+2139,"They said that the group 's failure to introduce new products was behind the share 's weak performance in 1996 , during which it has lost seven percent so far .","PRP VBD IN DT NN POS NN TO VB JJ NNS VBD IN DT NN POS JJ NN IN CD , IN WDT PRP VBZ VBN CD NN RB RB .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2140,"-- Soeren Linding Jakobsen , Copenhagen newsroom +45 33969650",": NNP NNP NNP , NNP NN CD CD",O B-PER I-PER I-PER O B-LOC O O O
+2141,Moslem fundamentalists kill 19 Algerians - agency .,NNP NNS VBP CD NNPS : NN .,B-MISC O O O B-MISC O O O
+2144,"In a statement carried on the official Algerian news agency APS , the security forces said the 19 had been killed by "" a group of terrorists "" .","IN DT NN VBD IN DT JJ JJ NN NN NNP , DT NN NNS VBD DT CD VBD VBN VBN IN "" DT NN IN NNS "" .",O O O O O O O B-MISC O O B-ORG O O O O O O O O O O O O O O O O O O
+2145,"Belgian police smash major drugs rings , 30 arrested .","JJ NN NN JJ NNS NNS , CD VBN .",B-MISC O O O O O O O O O
+2156,"GREECE , Dec 5 - Greek port workers called off a strike which had kept the country 's ports closed , giving the government until Feb 1 to introduce a promised bonus scheme .","NNP , NNP CD : NNP NN NNS VBD RP DT NN WDT VBD VBN DT NN POS NNS VBD , VBG DT NN IN SYM CD TO VB DT VBN NN NN .",B-LOC O O O O B-MISC O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2161,"Colombia shipped 198,226 bags in August after 164,185 in July , El Salvador 160,553 ( 129,184 ) , Indonesia 72,218 ( 78,959 ) , Ethiopia 69,252 ( 60,456 ) and Kenya 63,969 ( 60,043 ) .","NNP VBD CD NNS IN NNP IN CD IN NNP , NNP NNP CD ( CD ) , NNP CD ( CD ) , NNP CD ( CD ) CC NNP NNP ( CD ) .",B-LOC O O O O O O O O O O B-LOC I-LOC O O O O O B-LOC O O O O O B-LOC O O O O O B-LOC O O O O O
+2164,Munich Re says to split stock .,NNP NNP VBZ TO VB NN .,B-ORG I-ORG O O O O O
+2168,The company said the switch would probably become effective in September .,DT NN VBD DT NN MD RB VB JJ IN NNP .,O O O O O O O O O O O O
+2170,"Munich Re 's registered shares , part of the blue-chip DAX index , were trading at 3,710 marks on Friday .","NNP NNP POS JJ NNS , NN IN DT JJ NNP NN , VBD VBG IN CD NNS IN NNP .",B-ORG I-ORG O O O O O O O O B-MISC O O O O O O O O O O
+2175,""" The discussion in the experts group had to be postponed because the documents needed to be translated into the official languages and the item will be on next week 's agenda , "" the offcial said .",""" DT NN IN DT NNS NN VBD TO VB VBN IN DT NNS VBN TO VB VBN IN DT NN NNS CC DT NN MD VB IN JJ NN POS NN , "" DT JJ VBD .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2181,There was no Bundesbank intervention .,EX VBD DT NNP NN .,O O O B-ORG O O
+2185,"In the 18 weeks to November 30 , sales were up 13.6 percent year-on-year .","IN DT CD NNS TO NNP CD , NNS VBD RB CD NN JJ .",O O O O O O O O O O O O O O O
+2190,PT Tambang Timah was traded at $ 15.625 per GDR in London on Friday at around 0931 GMT .,PRP NNP NNP VBD VBN IN $ CD IN NNP IN NNP IN NNP IN IN CD RB .,B-ORG I-ORG I-ORG O O O O O O O O B-LOC O O O O O B-MISC O
+2198,Member of Parliament Tony Marlow said the resignation of the chancellor of the exchequer was the only way to make the Conservatives electable in a general election which must take place by May next year .,NNP IN NNP NNP NNP VBD DT NN IN DT NN IN DT NN VBD DT JJ NN TO VB DT NNS VB IN DT JJ NN WDT MD VB NN IN NNP JJ NN .,O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2199,""" We have a divided and split Cabinet .",""" PRP VBP DT VBN CC NN NNP .",O O O O O O O B-ORG O
+2200,"This cannot endure , "" Marlow told BBC television 's Newsnight programme on Thursday . ""","DT MD VB , "" NNP VBD NNP NN POS NNP NN IN NNP . """,O O O O O B-PER O B-ORG O O B-MISC O O O O O
+2201,It is not sustainable .,PRP VBZ RB JJ .,O O O O O
+2203,"If he does n't resign , the prime minister has got to fire him . ""","IN PRP VBZ RB VB , DT JJ NN VBZ VBN TO VB PRP . """,O O O O O O O O O O O O O O O O
+2205,Clarke denied on Thursday he had threatened to resign and said his position on the single currency was in tune with that of Prime Minister John Major .,NNP VBD IN NNP PRP VBD VBN TO VB CC VBD PRP$ NN IN DT JJ NN VBD IN NN IN DT IN NNP NNP NNP NNP .,B-PER O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+2208,"Pro-European Conservative MP Edwina Currie told the BBC that if Clarke resigned , other ministers would go with him .","NNP JJ NNP NNP NNP VBD DT NNP IN IN NNP VBD , JJ NNS MD VB IN PRP .",B-MISC B-MISC O B-PER I-PER O O B-ORG O O B-PER O O O O O O O O O
+2212,"The court said inquiry head Chris Hunt might be biased , since he privately told a newspaper he had turned up no major evidence of paedophile activity , even though he still had months ' of investigation before him .","DT NN VBD NN NN NNP NNP MD VB VBN , IN PRP RB VBD DT NN PRP VBD VBD RP DT JJ NN IN JJ NN , RB IN PRP RB VBD NNS POS IN NN IN PRP .",O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2213,""" Today we are left with a ruinous wreck beyond salvage and a continuing pall of doubt and suspicion hanging over our diplomatic service , "" opposition foreign affairs spokesman Laurie Brereton said .",""" NN PRP VBP VBN IN DT JJ NN IN NN CC DT VBG NN IN NN CC NN VBG IN PRP$ JJ NN , "" NN JJ NNS NN NNP NNP VBD .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O
+2214,"But the government responded by pressing ahead with the original inquiry , established in May , appointing a new head to lead it .","CC DT NN VBN IN VBG RB IN DT JJ NN , VBN IN NNP , VBG DT JJ NN TO VB PRP .",O O O O O O O O O O O O O O O O O O O O O O O O
+2218,A report is due in May next year .,DT NN VBZ JJ IN NNP JJ NN .,O O O O O O O O O
+2220,Police have investigated others .,NNS VBP VBN NNS .,O O O O O
+2225,"Paul Crofts , 33 , and an accomplice were contracted to shoot a man , identified only as Tony , in the leg to punish him for his misconduct with a female friend of the contractor , the New South Wales Supreme Court was told .","NNP NNPS , CD , CC DT NN VBD VBN TO VB DT NN , VBN RB IN NNP , IN DT NN TO VB PRP IN PRP$ NN IN DT JJ NN IN DT NN , DT NNP NNP NNP NNP NNP VBD VBN .",B-PER I-PER O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O
+2227,"The inference from all the material is that the marauders had come to the wrong house , "" Judge Michael Grove said .","DT NN IN PDT DT NN VBZ IN DT NNS VBD VBN TO DT JJ NN , "" NNP NNP NNP VBD .",O O O O O O O O O O O O O O O O O O O B-PER I-PER O O
+2228,"In sentencing Crofts , who pleaded guilty , Grove took into account his "" mildly retarded "" intellectual state , which placed him in the lowest two percent of the population .","IN VBG NNPS , WP VBD JJ , NNP VBD IN NN PRP$ "" RB JJ "" JJ NN , WDT VBD PRP IN DT JJS CD NNS IN DT NN .",O O B-PER O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O
+2237,New Zealand First leader Winston Peters on Friday said coalition talks with the National and Labour parties were at a similar level of completion .,NNP NNP NNP NN NNP NNP IN NNP VBD NN NNS IN DT NNP CC NNP NNS VBD IN DT JJ NN IN NN .,B-ORG I-ORG I-ORG O B-PER I-PER O O O O O O O B-ORG O B-ORG O O O O O O O O O
+2243,"Australian parliamentarian John Langmore has formally resigned from his lower house seat , the office of House of Representatives speaker Bob Halverson said on Friday .","JJ NN NNP NNP VBZ RB VBN IN PRP$ JJR NN NN , DT NN IN NNP IN NNPS NN NNP NNP VBD IN NNP .",B-MISC O B-PER I-PER O O O O O O O O O O O O B-ORG I-ORG I-ORG O B-PER I-PER O O O O
+2244,""" Halverson announced that he had received today from Mr John Vance Langmore , a letter resigning his place as member of the House of Representatives for the electoral division of Fraser in the Australian Capital Territory , "" his office said in a statement .",""" NNP VBD IN PRP VBD VBN NN IN NNP NNP NNP NNP , DT NN VBG PRP$ NN IN NN IN DT NNP IN NNPS IN DT JJ NN IN NNP IN DT NNP NNP NNP , "" PRP$ NN VBD IN DT NN .",O B-PER O O O O O O O O B-PER I-PER I-PER O O O O O O O O O O B-ORG I-ORG I-ORG O O O O O B-PER O O B-MISC I-MISC I-MISC O O O O O O O O O
+2245,"Halverson was considering possible dates for the by-election , his office said .","NN VBD VBG JJ NNS IN DT NN , PRP$ NN VBD .",B-PER O O O O O O O O O O O O
+2256,"On Monday and Tuesday , students from the YIT and the university launched street protests against what they called unfair handling by police of a brawl between some of their colleagues and restaurant owners in October .","IN NNP CC NNP , NNS IN DT NNP CC DT NN VBD NN NNS IN WP PRP VBD JJ VBG IN NN IN DT NN IN DT IN PRP$ NNS CC NN NNS IN NNP .",O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2260,They said they wanted to organise independent unions on university campuses and demanded that details of the punishment of policemen who allegedly manhandled some students at the October brawl be published in newspapers .,PRP VBD PRP VBD TO VB JJ NNS IN NN NNS CC VBD IN NNS IN DT NN IN NNS WP RB VBN DT NNS IN DT NNP NN VB VBN IN NNS .,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2261,Thai rice vessels loading and movements at Dec 06 .,NNP NN NNS NN CC NNS IN NNP CD .,B-MISC O O O O O O O O O
+2264,Vessel Date of Arrival Quantity Destination,NNP NNP IN NNP NNP NNP,O O O O O O
+2265,"Iran Sabr 19/11/96 9,000 Iran",NNP NNP CD CD NNP,B-MISC I-MISC O O B-LOC
+2277,-- Bangkok newsroom ( 662 ) 652-0642,: NNP NN ( CD ) CD,O B-MISC O O O O O
+2278,Chinese girl nearly dies from cigarette smoke .,JJ NN RB VBZ IN NN NN .,B-MISC O O O O O O O
+2280,"A five-year-old girl in the east China city of Tianjin choked and almost died from cigarette smoke at her grandfather 's birthday with relatives smoking for hours in a small room , the Wen Hui Bao newspaper said on Friday .","DT JJ NN IN DT JJ NNP NN IN NNP VBD CC RB VBN IN NN NN IN PRP$ NN POS NN IN NNS VBG IN NNS IN DT JJ NN , DT NNP NNP NNP NN VBD IN NNP .",O O O O O O B-LOC O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O O O O O
+2283,South Korean won closes down on import settlements .,JJ JJ VBD NNS RP IN NN NNS .,B-MISC I-MISC O O O O O O O
+2287,It ranged between 830.20 and 831.40 .,PRP VBD IN CD CC CD .,O O O O O O O
+2288,""" A sale of about $ 60 million by Hyundai Heavy pushed the dollar down earlier in the day , but Monday 's import needs helped it recover , "" said a Koram Bank dealer .",""" DT NN IN IN $ CD CD IN NNP NNP VBD DT NN RP RBR IN DT NN , CC NNP POS NN NNS VBD PRP VB , "" VBD DT NNP NNP NN .",O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O O
+2290,Foreign planes to land in China 's popular Guilin .,JJ NNS TO VB IN NNP POS JJ NNP .,O O O O O B-LOC O O B-LOC O
+2293,"An assessment group made up of the State Council 's Port Office , the Civil Aviation Administration of China , the General Administration of Customs and other authorities had granted the airport permission to handle foreign aircraft , Xinhua said .","DT NN NN VBD RP IN DT NNP NNP POS NNP NNP , DT NNP NNP NNP IN NNP , DT NNP NNP IN NNP CC JJ NNS VBD VBN DT NN NN TO VB JJ NN , NNP VBD .",O O O O O O O B-ORG I-ORG O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O B-ORG O O
+2294,""" The move is expected to give a shot in the arm to the economic expansion of Guangxi and southwest China as a whole , "" the agency said but gave no further details .",""" DT NN VBZ VBN TO VB DT NN IN DT NN TO DT JJ NN IN NNP CC NN NNP IN DT NN , "" DT NN VBD CC VBD DT JJ NNS .",O O O O O O O O O O O O O O O O O B-LOC O O B-LOC O O O O O O O O O O O O O O
+2298,"Japan 's Economic Planning Agency has not changed its view that the economy is gradually recovering , despite relatively weak gross domestic product figures released on Tuesday , EPA Vice Minister Shimpei Nukaya told reporters on Friday .","NNP POS NNP NNP NNP VBZ RB VBN PRP$ NN IN DT NN VBZ RB VBG , IN RB JJ JJ JJ NN NNS VBN IN NNP , NNP NNP NNP NNP NNP VBD NNS IN NNP .",B-LOC O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O B-PER I-PER O O O O O
+2300,"When asked about the outlook for the fiscal year beginning in April , Nukaya said the economy may slow down in the early part of the fiscal year due to a planned consumption tax hike , but that would be only temporary .","WRB VBN IN DT NN IN DT JJ NN VBG IN NNP , NNP VBD DT NN MD VB IN IN DT JJ NN IN DT JJ NN JJ TO DT VBN NN NN NN , CC DT MD VB RB JJ .",O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2301,The consumption tax will be raised to five percent from three percent from April 1 .,DT NN NN MD VB VBN TO CD NN IN CD NN IN NNP CD .,O O O O O O O O O O O O O O O O
+2304,"Year to March 31 , 1997","NN TO NNP CD , CD",O O O O O O
+2311,EPS 143.56 yen 127.64 yen,NNP CD NNS CD NNS,O O O O O
+2314,"Bre-X , Barrick said to continue Busang talks .","NNP , NNP VBD TO VB NNP NNS .",B-ORG O B-ORG O O O B-LOC O O
+2317,"Canada 's Bre-X Minerals Ltd and Barrick Gold Corp are to continue negotiations to hammer out a partnership agreement to develop the spectacular Busang gold find in Indonesia , sources close to the talks said on Friday .","NNP POS NNP NNPS NNP CC NNP NNP NNP VBP TO VB NNS TO VB RP DT NN NN TO VB DT JJ NNP NN VBP IN NNP , NNS RB TO DT NNS VBD IN NNP .",B-LOC O B-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O B-LOC O O O B-LOC O O O O O O O O O O
+2322,The richest parts of the property to the north and south of the central region have been estimated by Bre-X to contain 57 million ounces of gold .,DT JJS NNS IN DT NN TO DT NN CC RB IN DT JJ NN VBP VBN VBN IN NNP TO VB CD CD NNS IN NN .,O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O
+2324,"He said Bre-X would then formally seek the permission of the Indonesian government to begin construction to develop Busang 's central region , which might take up to two years .","PRP VBD NNP MD RB RB VB DT NN IN DT JJ NN TO VB NN TO VB NNP POS JJ NN , WDT MD VB IN TO CD NNS .",O O B-ORG O O O O O O O O B-MISC O O O O O O B-LOC O O O O O O O O O O O O
+2326,""" This is a huge project ...",""" DT VBZ DT JJ NN :",O O O O O O O
+2333,The government also wants 10 percent of the property .,DT NN RB VBZ CD NN IN DT NN .,O O O O O O O O O O
+2336,"Bre-X has a partnership deal with PT Panutan Duta of the Panutan Group run by President Suharto 's eldest son , Sigit Harjojudanto , under which Panutan would receive $ 40 million over 40 months plus a 10 percent stake Busang 's richest parts .","NNP VBZ DT NN NN IN NNP NNP NNP IN DT NNP NNP VBP IN NNP NNP POS JJS NN , NNP NNP , IN WDT NNP MD VB $ CD CD IN CD NNS CC DT CD NN NN NNP POS JJS NNS .",B-ORG O O O O O B-PER I-PER I-PER O O B-ORG I-ORG O O O B-PER O O O O B-PER I-PER O O O B-PER O O O O O O O O O O O O O B-ORG O O O O
+2338,Honda RV exceeds sales target .,NNP NN VBZ NNS NN .,B-MISC I-MISC O O O O
+2340,"Honda Motor Co Ltd said on Friday that it had received 15,000 domestic orders for its S-MX recreational vehicle in the first two weeks after its launch .",NNP NNP NNP NNP VBD IN NNP IN PRP VBD VBN CD JJ NNS IN PRP$ NNP JJ NN IN DT JJ CD NNS IN PRP$ NN .,B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O B-MISC O O O O O O O O O O O
+2341,"Honda launched the S-MX light minivan , featuring cubic body styling , on November 22 with a monthly sales target of 5,000 units .","NNP VBD DT FW NN NN , VBG JJ NN NN , IN NNP CD IN DT JJ NNS NN IN CD NNS .",B-ORG O O B-MISC O O O O O O O O O O O O O O O O O O O O
+2343,FEATURE - Singapore sees prestige in hosting WTO .,VB : NNP VBZ NN IN VBG NNP .,O O B-LOC O O O O B-ORG O
+2346,"Singapore 's winning campaign to host the World Trade Organisation ( WTO ) 's first ministerial meeting reflected its ambition to play a key role in shaping global free trade , the lifeblood of its economy , analysts said .","NNP POS NN NN TO VB DT NNP NNP NNP ( NN ) POS JJ JJ NN VBD PRP$ NN TO VB DT JJ NN IN VBG JJ JJ NN , DT NN IN PRP$ NN , NNS VBD .",B-LOC O O O O O O B-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2348,""" Singapore stands to benefit more than most from continued global trade liberalisation as trade is the engine of its growth , accounting for nearly three times its gross domestic product . """,""" NNP VBZ TO VB JJR IN RBS IN JJ JJ NN NN IN NN VBZ DT NN IN PRP$ NN , VBG IN RB CD NNS PRP$ JJ JJ NN . """,O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2349,"The city-state met U.S. opposition two years ago in its bid to host the meeting , expected to gather 4,000 officials from 160 countries from December 9 to 13 .","DT JJ VBD NNP NN CD NNS RB IN PRP$ NN TO VB DT NN , VBN TO VB CD NNS IN CD NNS IN NNP CD TO CD .",O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O
+2351,That would have meant Geneva .,DT MD VB VBD NNP .,O O O O B-LOC O
+2355,"At the ministerial meeting , trade ministers will review the work of the WTO and the implementation of the Uruguay Round free trade commitments under its predecessor the General Agreement on Tariffs and Trade ( GATT ) .","IN DT JJ NN , NN NNS MD VB DT NN IN DT NNP CC DT NN IN DT NNP NNP JJ NN NNS IN PRP$ NN DT NNP NNP IN NNP CC NNP ( NNP ) .",O O O O O O O O O O O O O B-ORG O O O O O B-LOC O O O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC O O
+2356,"In June , the WTO hailed Singapore for its open market policies but the European Union and other trading powers called on Singapore to speed up the opening of its services sector .","IN NNP , DT NNP VBD NNP IN PRP$ JJ NN NNS CC DT NNP NNP CC JJ NN NNS VBD IN NNP TO VB RP DT NN IN PRP$ NNS NN .",O O O O B-ORG O B-LOC O O O O O O O B-ORG I-ORG O O O O O O B-LOC O O O O O O O O O O
+2359,"Supple said hosting the meeting carried prestige for Singapore , "" however , this is quite intangible as the prestige factor may not necessarily lead to any additional investment and trade flows to this region . ""","NNS VBD VBG DT NN VBD NN IN NNP , "" RB , DT VBZ RB JJ IN DT NN NN MD RB RB VB TO DT JJ NN CC NN VBZ TO DT NN . """,B-PER O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2363,Supple said any political gains the Singapore government would get from the WTO meeting -- ahead of a general election due by April 1997 -- would depend on how successful it was in pushing its economic agenda .,NNS VBD DT JJ NNS DT NNP NN MD VB IN DT NNP NN : RB IN DT JJ NN JJ IN NNP CD : MD VB IN WRB JJ PRP VBD IN VBG PRP$ JJ NN .,B-PER O O O O O B-LOC O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O
+2364,""" If there are any movements toward freer trade , then Singapore 's economy and the electorate would gain , "" he said . """,""" IN EX VBP DT NNS IN JJR NN , RB NNP POS NN CC DT NN MD VB , "" PRP VBD . """,O O O O O O O O O O O B-LOC O O O O O O O O O O O O O
+2365,But I do n't think it would be wise to play up the political aspect of this .,CC PRP VBP RB VB PRP MD VB JJ TO VB RP DT JJ NN IN DT .,O O O O O O O O O O O O O O O O O O
+2367,Japan NTT says hopes to start int'l business soon .,NNP NNP VBZ NNS TO VB JJ NN RB .,B-LOC B-ORG O O O O O O O O
+2373,"One of the three new companies will be a long-distance operator and the other two will be local-call operators , Horinouchi said .","CD IN DT CD JJ NNS MD VB DT NN NN CC DT JJ CD MD VB JJ NNS , NNP VBD .",O O O O O O O O O O O O O O O O O O O O B-PER O O
+2375,"The long-distance operator will offer international services , Horinouchi said .","DT JJ NN MD VB JJ NNS , NNP VBD .",O O O O O O O O B-PER O O
+2382,""" In the coming five to ten years , Ahold plans to open many more stores of both formats , making TOPS and BILO household names in the region , "" Ahold said in a statement .",""" IN DT VBG CD TO CD NNS , NN NNS TO VB JJ JJR NNS IN DT NNS , VBG NNP CC NNP NN NNS IN DT NN , "" NNP VBD IN DT NN .",O O O O O O O O O B-ORG O O O O O O O O O O O B-MISC O B-MISC O O O O O O O B-ORG O O O O O
+2383,"As well as its activities in Asia , Dutch retail group Ahold has a strong presence in Europe , in the U.S. and the company recently announced a joint venture agreement in Brazil .","RB RB IN PRP$ NNS IN NNP , JJ JJ NN NNP VBZ DT JJ NN IN NNP , IN DT NNP CC DT NN RB VBD DT JJ NN NN IN NNP .",O O O O O O B-LOC O B-MISC O O B-ORG O O O O O B-LOC O O O B-LOC O O O O O O O O O O B-LOC O
+2384,"Ahold has annualised sales of approximately US$ 24 billion , and employs 180,000 people worldwide .","NNP VBZ VBN NNS IN RB $ CD CD , CC VBZ CD NNS JJ .",B-ORG O O O O O B-MISC O O O O O O O O O
+2385,"-- Amsterdam newsroom +31 20 504 5000 , Fax +31 20 504 504",": NN NN CD CD CD CD , NNP CD CD CD CD",O B-LOC O O O O O O O O O O O
+2388,Profile of the winner of Saturday 's women 's World Cup super G race :,NN IN DT NN IN NNP POS NNS POS NNP NNP JJ NNP NN :,O O O O O O O O O B-MISC I-MISC O O O O
+2393,Other Facts : Gladishiva won a silver medal in super G at the 1994 Lillehammer Winter Olympics and a bronze medal in downhill at the 1991 World Championships .,JJ NNS : NNP VBD DT JJ NN IN JJ NNP IN DT CD NNP NNP NNPS CC DT JJ NN IN RB IN DT CD NNP NNPS .,O O O B-PER O O O O O O O O O O B-LOC B-MISC I-MISC O O O O O O O O O B-MISC I-MISC O
+2404,7. Madlen Brigger-Summermatter ( Switzerland ) 1:18.23,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2405,8. Florence Masnada ( France ) 1:18.31,NNP NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2406,9. Katja Seizinger ( Germany ) 1:18.32,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2409,12. Bibiana Perez ( Italy ) 1:18.52,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2411,14. Sybille Brauner ( Germany ) 1:18.81,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2412,15. Katharina Gutensohn ( Germany ) 1:18.92,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2417,20. Spela Bracun ( Slovenia ) 1:19.07,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2422,25. Hilary Lindh ( U.S. ) 1:19.41,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2427,30. Monika Tschirky ( Switzerland ) 1:19.60,NNP NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2428,The results were declared official .,DT NNS VBD VBN NN .,O O O O O O
+2429,ALPINE SKIING-GLADISHIVA WINS WORLD CUP SUPER G .,NNP NNP VBZ NN RP NNP NNP .,O B-MISC O B-MISC I-MISC O O O
+2431,Svetlana Gladishiva of Russia won the women 's World Cup Super G race on Saturday .,NNP NNP IN NNP VBD DT NNS POS NNP NNP NNP NNP NN IN NNP .,B-PER I-PER O B-LOC O O O O B-MISC I-MISC O O O O O O
+2432,"Pernilla Wiberg of Sweden finished second and Carole Montillet of France came in third , according to provisional results .","NNP NNP IN NNP VBD NN CC NNP NNP IN NNP VBD IN JJ , VBG TO JJ NNS .",B-PER I-PER O B-LOC O O O B-PER I-PER O B-LOC O O O O O O O O O
+2433,GOLF - THIRD ROUND OF JCPENNEY CLASSIC WASHED OUT .,NN : NNP NNP IN NNP NNP VBD NNP .,O O O O O B-MISC I-MISC O O O
+2437,"The final round of the special event , which pairs players from the PGA and LPGA Tours , will be played in the alternate shot format on Sunday .","DT JJ NN IN DT JJ NN , WDT NNS NNS IN DT NNP CC NNP NNPS , MD VB VBN IN DT JJ NN NN IN NNP .",O O O O O O O O O O O O O B-ORG O B-ORG O O O O O O O O O O O O O
+2441,ALPINE SKIING-WOMEN 'S DOWNHILL WINNER PROFILE .,NNP JJ VBZ NNP NNP NNP .,O O O O O O O
+2454,1. Katja Seizinger ( Germany ) 180 points,CD NNP NNP ( NNP ) CD NNS,O B-PER I-PER O B-LOC O O O
+2456,3. Carole Montillet ( France ) 86,NNP NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2463,10= Megan Gerety ( U.S. ) 51,CD JJ NN ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2465,10= Florence Masnada ( France ) 51,CD NNP NNP ( NNP ) CD,O B-LOC B-PER O B-LOC O O
+2466,13= Picabo Street ( U.S. ) 50,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2469,16. Bibiana Perez ( Italy ) 45,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2472,19= Kate Pace Lindsay ( Canada ) 23,CD NNP NNP NNP ( NNP ) CD,O B-PER I-PER I-PER O B-LOC O O
+2473,19= Svetlana Gladishiva ( Russia ) 23,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2478,2. Pernilla Wiberg ( Sweden ) 353,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2484,8= Renate Goetschl ( Austria ) 146,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2490,14. Alexandra Meissnitzer ( Austria)118,CD NNP NNP ( NNP,O B-PER I-PER O O
+2502,5. Florence Masnada ( France ) 82,NNP NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2506,9. Martina Ertl ( Germany ) 58,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2507,10. Anita Wachter ( Austria ) 49,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2508,11. Heidi Zurbriggen ( Switzerland ) 43,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2512,15. Stefanie Schuster ( Austria ) 39,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2514,17. Bibiana Perez ( Italy ) 30,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2515,18= Miriam Vogt ( Germany ) 29,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2517,20. Alexandra Meissnitzer ( Austria ) 27,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2535,3. Isolde Kostner ( Italy ) 1:48.91,NNP FW NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2537,5. Megan Gerety ( U.S. ) 1:49.26,CD JJ NN ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2538,6. Miriam Vogt ( Germany ) 1:49.28,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2540,8. Ingeborg Helen Marken ( Norway ) 1:49.41,CD NNP NNP NNP ( NNP ) CD,O B-PER I-PER I-PER O B-LOC O O
+2543,11. Heidi Zurbriggen ( Switzerland ) 1:49.65,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2544,12. Warwara Zelenskaja ( Russia ) 1:49.66,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2549,17. Svetlana Gladishiva ( Russia ) 1:50.03,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2550,18. Anita Wachter ( Austria ) 1:50.10,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2553,21. Kate Pace Lindsay ( Canada ) 1:50.54,CD NNP NNP NNP ( NNP ) CD,O B-PER I-PER I-PER O B-LOC O O
+2555,23. Hilary Lindh ( United States ) 1:50.69,CD NNP NNP ( NNP NNP ) CD,O B-PER I-PER O B-LOC I-LOC O O
+2559,27. Sybille Brauner ( Germay ) 1:51.04,CD NNP NNP ( NNP ) CD,O B-PER I-PER O O O O
+2562,30. Alessandra Merlin ( Italy ) 1:51.16,NNP NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2569,1. Vadim Sashurin ( Belarus ) 26 minutes 17.2 seconds ( no penalty,CD NNP NNP ( NNP ) CD NNS CD NNS ( DT NN,O B-PER I-PER O B-LOC O O O O O O O O
+2571,2. Frode Andresen ( Norway ) 26:17.8 ( 2 ),CD NNP NNP ( NNP ) CD ( CD ),O B-PER I-PER O B-LOC O O O O O
+2572,3. Ole Einar Bjorndalen ( Norway ) 26:24.9 ( 2 ),NNP JJ NNP NNP ( NNP ) CD ( CD ),O B-PER I-PER I-PER O B-LOC O O O O O
+2576,1. Fischer ( Germany ) 82 points,CD NNP ( NNP ) CD NNS,O B-PER O B-LOC O O O
+2577,2. Pavel Muslimov ( Russia ) 82,NNP NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2581,2. Svetlana Paramygina ( Belorus ) 23:58.6 ( 0 ),CD NNP NNP ( NNP ) CD ( CD ),O B-PER I-PER O B-LOC O O O O O
+2584,5. Petra Behle ( Germany ) 24:15.4 ( 2 ),CD NNP NNP ( NNP ) CD ( CD ),O B-PER I-PER O B-LOC O O O O O
+2595,Brian Shimer piloted USA III to a surprise victory in a World Cup two-man bobsleigh race on Saturday .,NNP NNP VBD NNP NNP TO DT NN NN IN DT NNP NNP JJ JJ NN IN NNP .,B-PER I-PER O B-ORG I-ORG O O O O O O B-MISC I-MISC O O O O O O
+2597,First run leaders Guenther Huber and breakman Antonio Tartaglia in the Italy I sleigh finished second two-hundredths of a second behind the Americans .,RB VBP NNS NNP NNP CC NN NNP NNP IN DT NNP PRP JJ VBD JJ NNS IN DT JJ IN DT NNS .,O O O B-PER I-PER O O B-PER I-PER O O B-LOC O O O O O O O O O O B-MISC O
+2598,"Canada I , represented by Pierre Lueders and breakman Dave MacEachern , completed the third World cup event of the winter a further one-hundredth of a second behind the Italians .","NNP NNP , VBN IN NNP NNPS CC NN NNP NNP , VBD DT JJ NNP NN NN IN DT NN DT JJ NN IN DT JJ IN DT NNPS .",B-ORG I-ORG O O O B-PER I-PER O O B-PER I-PER O O O O B-MISC I-MISC O O O O O O O O O O O O B-MISC O
+2599,"The Canadians , winners of the opening two events in Altenberg , Germany , and La Plagne , France , increased their lead in the World Cup standings .","DT NNPS , NNS IN DT NN CD NNS IN NNP , NNP , CC NNP NNP , NNP , VBD PRP$ NN IN DT NNP NNP NNS .",O B-MISC O O O O O O O O B-LOC O B-LOC O O B-LOC I-LOC O B-LOC O O O O O O B-MISC I-MISC O O
+2604,"While the Chinese failed to gain a place in the men 's final , they had two in the top 10 of the women 's competition , Cuo Dan finishing a respectable seventh and Xu Nannan ninth .","IN DT JJ VBN TO NN DT NN IN DT NNS POS JJ , PRP VBD CD IN DT NN CD IN DT NNS POS NN , NNP NNP VBG DT JJ JJ CC NNP NNP NN .",O O B-MISC O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O B-PER I-PER O O
+2605,"But overall , it was France and Canada who dominated the day .","CC JJ , PRP VBD NNP CC NNP WP VBD DT NN .",O O O O O B-LOC O B-LOC O O O O O
+2607,"Blanc collected his seventh career World Cup win with a two jump combined score of 238.36 points , easily beating Foucras , the overall World Cup aerials champion , who was a distant second with 223.60 .","NNP VBD PRP$ JJ NN NNP NNP VB IN DT CD NN VBN NN IN CD NNS , RB VBG NNP , DT JJ NNP NNP VBZ NN , WP VBD DT JJ NN IN CD .",B-PER O O O O B-MISC I-MISC O O O O O O O O O O O O O B-PER O O O B-MISC I-MISC O O O O O O O O O O O
+2619,( 52.76 / 53.18 ),( CD SYM CD ),O O O O O
+2623,( 52.91 / 53.07 ),( CD SYM CD ),O O O O O
+2624,"6. Germany III ( Dirk Wiese , Jakobs Marco ) 1:46.02","NNP NNP NNP ( NNP NNP , NNP NNP ) CD",O B-ORG I-ORG O B-PER I-PER O B-PER I-PER O O
+2625,( 52.89 / 53.13 ),( CD SYM CD ),O O O O O
+2626,"7. Czech Republic I ( Jiri Dzmura , Pavel Polomsky )","CD NNP NNP PRP ( NNP NNP , NNP NNP )",O B-ORG I-ORG I-ORG O B-PER I-PER O B-PER I-PER O
+2627,1:46.06 ( 53.01 / 53.05 ),CD ( CD SYM CD ),O O O O O O
+2628,"8. Austria I ( Hubert Schoesser , Erwin Arnold ) 1:46.13","NNP NNP PRP ( NNP NNP , NNP NNP ) CD",O B-ORG I-ORG O B-PER I-PER O B-PER I-PER O O
+2634,Hines ) 1:46.34 ( 53.14 / 53.20 ) and Austria III,NNP ) CD ( CD SYM CD ) CC NNP NNP,B-PER O O O O O O O O B-ORG I-ORG
+2642,"A visit to India is always an intriguing experience , "" Woolmer , now the South African coach , said on Saturday .","DT NN TO NNP VBZ RB DT JJ NN , "" NNP , RB DT JJ JJ NN , VBD IN NNP .",O O O B-LOC O O O O O O O B-PER O O O B-MISC I-MISC O O O O O O
+2647,Woolmer 's memories of Kanpur are few and blurred .,NNP POS NNS IN NNP VBP JJ CC VBD .,B-PER O O O B-LOC O O O O O
+2650,""" But I do remember we had a cobra snake in the basement of our house .",""" CC PRP VBP VB PRP VBD DT NN NN IN DT NN IN PRP$ NN .",O O O O O O O O O O O O O O O O O
+2651,"Also that my father bought a bicycle and when we rode over a hose pipe it broke into two . ""","RB IN PRP$ NN VBD DT NN CC WRB PRP VBD IN DT NN NN PRP VBD IN CD . """,O O O O O O O O O O O O O O O O O O O O O
+2652,Woolmer said the hospital where he was born is close to the stadium where the India-South Africa test will be played .,NNP VBD DT NN WRB PRP VBD VBN VBZ VB TO DT NN WRB DT NNP NNP NN MD VB VBN .,B-PER O O O O O O O O O O O O O O B-MISC I-MISC O O O O O
+2653,FREESTYLE SKIING-WORLD CUP AERIALS RESULTS .,NNP NNP NNP NNP NNS .,O B-MISC I-MISC O O O
+2656,freestyle skiing aerials competition on Saturday :,JJ NN NNS NN IN NNP :,O O O O O O O
+2658,1. Alexis Blanc ( France ) 238.36 points,CD NNP NNP ( NNP ) CD NNS,O B-PER I-PER O B-LOC O O O
+2661,4. Eric Bergoust ( U.S ) 207.15,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2664,7. Ales Valenta ( Czech Republic ) 194.02,CD NNPS NNP ( NNP NNP ) CD,O B-PER I-PER O B-LOC I-LOC O O
+2667,10. Dmitri Dashinski Belarus ) 190.70,CD NNP NNP NNPS ) CD,O B-PER I-PER B-LOC O O
+2670,2. Karin Kuster ( Switzerland ) 160.55,NNP NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2671,3. Evelyne Leu ( Switzerland ) 160.36,NNP NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2672,4. Caroline Olivier ( Canada ) 157.10,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2677,9. Xu Nannan ( China ) 152.08,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2687,4. Dieter Thoma ( Germany ) 267 ( 141.6 / 124.4 ),CD NNP NNP ( NNP ) CD ( CD SYM CD ),O B-PER I-PER O B-LOC O O O O O O O
+2690,7. Noriaki Kasai ( Japan ) 242 ( 124.2 / 117.8 ),CD NNP NNP ( NNP ) CD ( CD SYM CD ),O B-PER I-PER O B-LOC O O O O O O O
+2704,10. Primoz Peterka ( Slovakia ) 76,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2705,BADMINTON - WORLD GRAND PRIX SEMIFINAL RESULTS .,NNP : NN NNP NNP NNP NNS .,O O B-MISC I-MISC I-MISC O O O
+2710,Fung Permadi ( Taiwan ) beat Indra Wijaya ( Indonesia ) 15-6 15-8,NNP NNP ( NNP ) VB NNP NNP ( NNP ) CD CD,B-PER I-PER O B-LOC O O B-PER I-PER O B-LOC O O O
+2715,Ye Zhaoying ( China ) beat Gong Zhichao ( China ) 11-8 11-3,NNP NNP ( NNP ) VB NNP NNP ( NNP ) CD CD,B-PER I-PER O B-LOC O O B-PER I-PER O B-LOC O O O
+2716,SPEED SKATING-RESULTS OF WORLD CUP SPEED SKATING RACES .,JJ NNS IN NN RP NNP NNP NNP .,O O O B-MISC I-MISC O O O O
+2717,"CHONJU , South Korea 1996-12-07","NNP , NNP NNP CD",B-LOC O B-LOC I-LOC O
+2718,Results on the first day of the World Cup speed skating races here on Saturday .,NNS IN DT JJ NN IN DT NNP NNP NN VBG NNS RB IN NNP .,O O O O O O O B-MISC I-MISC O O O O O O O
+2721,Jaegal Sung-Yeol ( South Korea ) 37.46 ; 3 .,NNP NNP ( NNP NNP ) CD : LS .,B-PER I-PER O B-LOC I-LOC O O O O O
+2722,Grunde Njos ( Norway ) 37.49 ; 4 .,NNP NNP ( NNP ) CD : LS .,B-PER I-PER O B-LOC O O O O O
+2724,Sergey Klevchenya ( Russia ) 37.86 ; 6 .,NNP NNP ( NNP ) CD : LS .,B-PER I-PER O B-LOC O O O O O
+2725,Yamakage Hiroaki ( Japan ) 37.93 ; 7 .,NN NNP ( NNP ) CD : LS .,B-PER I-PER O B-LOC O O O O O
+2726,Casey Fitzrandolph ( US ) 37.97 ; 8 .,NNP NNP ( NNP ) CD : LS .,B-PER I-PER O B-LOC O O O O O
+2727,Sylvain Bouchard ( Canada ) 38.00 ; 9 .,NNP NNP ( NNP ) CD : LS .,B-PER I-PER O B-LOC O O O O O
+2732,Svetlana Jhurova ( Russia ) 41.08 ; 3 .,NNP NNP ( NNP ) CD : LS .,B-PER I-PER O B-LOC O O O O O
+2738,Alena Koroleva ( Russia ) 41.64 ; 9 .,NNP NNP ( NNP ) CD : LS .,B-PER I-PER O B-LOC O O O O O
+2739,Chris Witty ( US ) 41.75 ; 10 .,NNP NNP ( NNP ) CD : LS .,B-PER I-PER O B-LOC O O O O O
+2741,"Men 's 1,000 metres first round :",NN POS CD NNS RB NN :,O O O O O O O
+2742,1. Sylvain Bouchard ( Canada ) 1 minute 16.24 seconds,CD NNP NNP ( NNP ) CD NN CD NNS,O B-PER I-PER O B-LOC O O O O O
+2743,2. Sergey Klevchenya ( Russia ) 1:16.31,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2744,3. Jan Bos ( Netherlands ) 1:16.38,NNP NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2746,5. Lee Kyou-hyuk ( South Korea ) 1:16.47,NNP NNP NNP ( NNP NNP ) CD,O B-PER I-PER O B-LOC I-LOC O O
+2747,6. Inoue Junichi ( Japan ) 1:16.61,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2756,4. Anka Baier ( Germany ) 1:25.16,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2759,7. Oksana Ravllova ( Russia ) 1:25.55,CD NNP NNP ( NNP ) CD,O B-PER I-PER O B-LOC O O
+2764,"WHISTLER , British Columbia 1996-12-06","NNP , NNP NNP CD",B-LOC O B-LOC I-LOC O
+2774,Scottish premier division after Saturday 's matches :,JJ JJ NN IN NNP POS NNS :,B-MISC I-MISC O O O O O O
+2777,"7 - Paul Wright ( Kilmarnock ) , Ally McCoist ( Rangers )","CD : NNP NNP ( NN ) , NNP NNP ( NNPS )",O O B-PER I-PER O B-ORG O O B-PER I-PER O B-ORG O
+2779,"Brian Laudrup ( Rangers ) , Darren Jackson","NNP NNP ( NNPS ) , NNP NNP",B-PER I-PER O B-ORG O O B-PER I-PER
+2781,"5 - Peter van Vossen ( Rangers ) , Gerry Britton","CD : NNP NNP NNP ( NNPS ) , NNP NNP",O O B-PER I-PER I-PER O B-ORG O O B-PER I-PER
+2783,"Winters ( Dundee United ) , Paolo Di Canio ( Celtic ) .","NNS ( NNP NNP ) , NNP NNP NNP ( NNP ) .",B-PER O B-ORG I-ORG O O B-PER I-PER I-PER O B-ORG O O
+2791,"8 - Matthew Le Tissier ( Southampton ) , Dwight Yorke ( Aston","CD : NNP NNP NNP ( NNP ) , NNP NNP ( NNP",O O B-PER I-PER I-PER O B-ORG O O B-PER I-PER O B-ORG
+2792,"Villa ) , Les Ferdinand ( Newcastle ) , Efan Ekoku ( Wimbledon ) ,","NNP ) , NNP NNP ( NNP ) , NNP NNP ( NNP ) ,",B-ORG O O B-PER I-PER O B-ORG O O B-PER I-PER O B-LOC O O
+2793,Gianluca Vialli ( Chelsea ),NNP NNP ( NNP ),B-PER I-PER O B-ORG O
+2798,4 - Peter Beardsley ( Newcastle ) .,CD : NNP NNP ( NNP ) .,O O B-PER I-PER O B-ORG O O
+2810,Linfield 10 4 3 3 13 10 15,RB CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2816,Cliftonville 9 1 4 4 5 12 7,VB CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2817,RUGBY UNION - BRITISH RESULTS .,NNP NN : JJ NNS .,B-ORG I-ORG O O O O
+2859,""" I 'd like to come over but there are a lot of things happening at home .",""" PRP MD VB TO VB IN CC EX VBP DT NN IN NNS VBG IN NN .",O O O O O O O O O O O O O O O O O O
+2863,SOCCER - ENGLISH PREMIER LEAGUE SUMMARIES .,NN : JJ NNPS NNP NNP .,O O B-MISC O O O O
+2871,"Chelsea 2 ( Zola 12 , Vialli 55 ) Everton 2 ( Branch 17 ,","NNP CD ( NNP CD , NNP CD ) NNP CD ( NNP CD ,",B-ORG O O B-PER O O B-PER O O B-ORG O O B-PER O O
+2875,"Coventry 1 ( Whelan 60 ) Tottenham 2 ( Sheringham 27 , Sinton 75 ) .","NNP CD ( NNP CD ) NN CD ( NNP CD , NNP CD ) .",B-ORG O O B-PER O O B-ORG O O B-PER O O B-PER O O O
+2878,Leicester 1 ( Marshall 78 ) Blackburn 1 ( Sutton 34 ) .,NNP CD ( NNP CD ) NNP CD ( NNP CD ) .,B-ORG O O B-PER O O B-ORG O O B-PER O O O
+2896,"Saturday 's matches ( tabulated - played , won , drawn , lost , goals","NNP POS NNS ( VBN : VBN , VBD , VBN , VBD , NNS",O O O O O O O O O O O O O O O
+2900,Celtic 14 8 3 3 32 15 27,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2903,Hibernian 15 5 3 7 16 25 18,NN CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2907,Raith 15 3 3 9 14 27 12,NNS CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2910,St Johnstone 17 12 2 3 36 8 38,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+2911,Falkirk 17 9 2 6 18 15 29,NN CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2913,Dundee 16 7 5 4 12 8 26,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2914,Partick 16 6 6 4 23 16 24,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2916,Greenock Morton 16 6 4 6 17 16 22,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+2923,Hamilton 15 9 4 2 31 11 31,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2927,Stranraer 15 5 2 8 13 21 17,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2929,Brechin 16 3 6 7 14 20 15,NN CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2932,Montrose 17 9 3 5 30 25 30,VB CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2936,Cowdenbeath 15 7 3 5 22 16 24,VB CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2937,Albion 16 6 6 4 21 17 24,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2939,Queen 's Park 16 3 5 8 20 30 14,NNP POS NNP CD CD CD CD CD CD CD,B-ORG I-ORG I-ORG O O O O O O O
+2942,SOCCER - ENGLISH LEAGUE STANDINGS .,NN : JJ NN NNS .,O O B-MISC O O O
+2950,Liverpool 16 9 4 3 26 14 31,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2951,Aston Villa 17 9 3 5 22 15 30,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+2955,Everton 16 6 6 4 25 20 24,NN CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2956,Sheffield Wednesday 16 6 6 4 17 18 24,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+2957,Tottenham 16 7 2 7 17 17 23,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2959,Leicester 17 6 3 8 17 22 21,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2962,West Ham 16 4 5 7 13 20 17,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+2963,Middlesbrough 17 3 6 8 20 28 15,JJ CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2966,Coventry 16 1 7 8 10 23 10,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2972,Crystal Palace 21 9 8 4 46 22 35,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+2975,Norwich 20 9 5 6 27 21 32,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2979,Swindon 22 9 2 11 32 28 29,NN CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2981,Huddersfield 22 7 7 8 25 28 28,VBN CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2985,Manchester City 22 8 2 12 26 35 26,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+2986,Portsmouth 22 7 5 10 25 29 26,NNP CD CD CD CD CD CD CD,B-LOC O O O O O O O
+2987,Reading 22 7 5 10 25 33 26,VBG CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2988,West Bromwich 20 5 9 6 26 31 24,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+2990,Grimsby 22 5 6 11 24 41 21,RB CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2992,Oldham 22 4 8 10 23 28 20,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+2997,Luton 21 11 4 6 34 25 37,NN CD CD CD CD CD CD CD,B-ORG O O O O O O O
+3000,Stockport 22 10 6 6 29 25 36,VB CD CD CD CD CD CD CD,B-ORG O O O O O O O
+3003,Crewe 21 11 1 9 29 21 34,VB CD CD CD CD CD CD CD,B-ORG O O O O O O O
+3004,Bristol City 21 9 6 6 36 23 33,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+3005,Bristol Rovers 22 7 7 8 22 23 28,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+3006,Shrewsbury 22 7 6 9 26 33 27,RB CD CD CD CD CD CD CD,B-ORG O O O O O O O
+3009,Walsall 21 7 4 10 21 25 25,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+3011,Preston 22 7 4 11 21 27 25,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+3014,Peterborough 22 4 8 10 32 41 20,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+3019,Fulham 22 15 3 4 36 16 48,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+3023,Cardiff 21 10 4 7 25 22 34,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+3026,Colchester 22 7 10 5 32 26 31,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+3030,Lincoln 22 8 6 8 28 33 30,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+3034,Rochdale 21 6 8 7 27 26 26,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+3035,Exeter 22 7 5 10 21 28 26,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+3040,Darlington 22 6 4 12 30 39 22,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+3046,The London club had been rocked by a two-goal burst from forwards Dean Sturridge and Darryl Powell in the 62nd and 71st minutes which overturned Arsenal 's 1-0 lead from a diving header by captain Tony Adams on the stroke of halftime .,DT NNP NN VBD VBN VBN IN DT JJ NN IN RB NNP NNP CC NNP NNP IN DT JJ CC JJ NNS WDT VBD NNP POS CD JJ IN DT JJ NN IN NN NNP NNP IN DT NN IN NN .,O B-LOC O O O O O O O O O O B-PER I-PER O B-PER I-PER O O O O O O O O B-ORG O O O O O O O O O B-PER I-PER O O O O O O
+3047,"Liverpool suffered an upset first home league defeat of the season , beaten 1-0 by a Guy Whittingham goal for Sheffield Wednesday .","JJ VBD DT NN RB NN NN NN IN DT NN , VBN JJ IN DT NNP NNP NN IN NNP NNP .",B-ORG O O O O O O O O O O O O O O O B-PER I-PER O O B-ORG I-ORG O
+3048,Wimbledon leap-frogged over Liverpool into second place by winning 3-1 at Sunderland to extend their unbeaten league and cup run to 18 games .,NNP VBD IN NNP IN JJ NN IN VBG CD IN NNP TO VB PRP$ JJ NN CC NN VB TO CD NNS .,B-ORG O O B-ORG O O O O O O O B-ORG O O O O O O O O O O O O
+3052,Results of Scottish league and cup,NNS IN JJ NN CC NN,O O B-MISC O O O
+3073,Elgin City 0 Whitehill 3,NNP NNP CD NNP CD,B-ORG I-ORG O B-ORG O
+3074,"Postponed : Albion v Forfar , Huntly v Clyde ( both now play on","VBN : NNP NNP NNP , NNP FW NNP ( DT RB VB IN",O O B-ORG O B-ORG O B-ORG O B-ORG O O O O O
+3078,Results of English league and cup,NNS IN JJ NN CC NN,O O B-MISC O O O
+3085,Liverpool 0 Sheffield Wednesday 1,NNP CD NNP NNP CD,B-ORG O B-ORG I-ORG O
+3093,Crystal Palace 2 Oxford 2,NNP NNP CD NNP CD,B-ORG I-ORG O B-ORG O
+3096,Manchester City 3 Bradford 2,NNP NNP CD NNP CD,B-ORG I-ORG O B-ORG O
+3099,Sheffield United 1 Portsmouth 0,NNP NNP CD NNP CD,B-ORG I-ORG O B-ORG O
+3102,F.A. Challenge Cup second round,NNP NNP NNP JJ NN,B-MISC I-MISC I-MISC O O
+3105,Bristol City 9 St Albans 2,NNP NNP CD NNP NNP CD,B-ORG I-ORG O B-ORG I-ORG O
+3106,Cambridge United 0 Woking 2,NNP NNP CD VBG CD,B-ORG I-ORG O B-ORG O
+3112,Leyton Orient 1 Stevenage 2,NNP NNP CD NNP CD,B-ORG I-ORG O B-ORG O
+3113,Luton 2 Boreham Wood 1,NN CD NNP NNP CD,B-ORG O B-ORG I-ORG O
+3122,RUGBY UNION - CAMPESE SIGNS OFF WITH TRY IN WALLABY ROMP .,NNP NN : NN NNS VBN IN NNP IN JJ NNS .,B-ORG I-ORG O B-PER O O O O O B-LOC O O
+3124,Australia bade farewell to David Campese in spectacular fashion by overwhelming the Barbarians 39-12 in the final match of their European tour at Twickenham on Saturday .,NNP VBD NN TO NNP NNP IN JJ NN IN VBG DT NNP CD IN DT JJ NN IN PRP$ JJ NN IN NNP IN NNP .,B-LOC O O O B-PER I-PER O O O O O O B-ORG O O O O O O O B-MISC O O B-LOC O O O
+3125,"The Wallabies ran in five tries with Campese , who has retired from test rugby after collecting 101 caps and a world record 64 tries , adding one last touchdown in a Wallaby jersey before departing the international game .","DT NNPS VBD IN CD VBZ IN NNP , WP VBZ VBN IN NN RB IN VBG CD NNS CC DT NN NN CD VBZ , VBG CD JJ NN IN DT NNP NN IN VBG DT JJ NN .",O B-ORG O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O
+3128,Full-back Matthew Burke finished with a personal haul of 24 points to take his tour aggregate to 136 .,NNP NNP NNP VBD IN DT JJ NN IN CD NNS TO VB PRP$ NN NN TO CD .,O B-PER I-PER O O O O O O O O O O O O O O O O
+3131,Australia beat the Barbarians 39-12 ( halftime 27-0 ) in the final match of their European tour on Saturday :,NNP VBD DT NNP CD ( NN CD ) IN DT JJ NN IN PRP$ JJ NN IN NNP :,B-LOC O O B-ORG O O O O O O O O O O O B-MISC O O O O
+3136,"Barbarians - Tries : Alan Bateman , Scott Quinnell .","NNP : NNS : NNP NNP , NNP NNP .",B-ORG O O O B-PER I-PER O B-PER I-PER O
+3140,Leading third round scores in the,JJ JJ JJ NNS IN DT,O O O O O O
+3146,"69 69 69 , Justin Hobday 71 65 71","CD CD CD , NNP NNP CD CD CD",O O O O B-PER I-PER O O O
+3147,209 Steve van Vuuren 65 69 75,CD NNP NNP NNP CD CD CD,O B-PER I-PER I-PER O O O
+3148,210 Brett Liddle 75 65 70,CD NNP NNP CD CD CD,O B-PER I-PER O O O
+3149,"211 Hugh Baiocchi 73 67 71 , Greg Reid 72 68 71 , Mark","CD NNP NNP CD CD CD , NNP NNP CD CD CD , NNP",O B-PER I-PER O O O O B-PER I-PER O O O O B-PER
+3152,"Merwe ( Namibia ) 67 73 72 , Hennie Swart 75 64 73 ,","RB ( NNP ) CD CD CD , NNP NNP CD CD CD ,",B-PER O B-LOC O O O O O B-PER I-PER O O O O
+3157,"214 Steven Waltman 72 70 72 , Bradford Vaughan 72 71","CD NNP NNP CD CD CD , NNP NNP CD CD",O B-PER I-PER O O O O B-PER I-PER O O
+3158,"71 , Andrew Park 72 67 75 , Desvonde Botes 72 68 74 .","CD , NNP NNP CD CD CD , NNP NNPS CD CD CD .",O O B-PER I-PER O O O O B-PER I-PER O O O O
+3163,FIFA had banned Albania indefinitely after its sports ministry had ordered the suspension of Albanian Football Association general secretary Eduard Dervishi and dissolved the executive committee .,NNP VBD VBN NNP RB IN PRP$ NNS NN VBD VBN DT NN IN NNP NNP NNP JJ NN NNP NNP CC VBN DT JJ NN .,B-ORG O O B-LOC O O O O O O O O O O B-ORG I-ORG I-ORG O O B-PER I-PER O O O O O O
+3164,""" We would be very happy with a draw in Belfast , "" said Hafizi . """,""" PRP MD VB RB JJ IN DT NN IN NNP , "" VBD NN . """,O O O O O O O O O O B-LOC O O O B-PER O O
+3168,"Goalkeepers - Blendi Nallbani , Armir Grima","NNS : NNP NNP , NNP NNP",O O B-PER I-PER O B-PER I-PER
+3171,"Forwards - Altin Rraklli , Viktor Paco , Fatmir Vata , Erjon Bogdani .","NNS : NNP NNP , NNP NNP , NNP NNP , NNP NNP .",O O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O
+3174,Former Australia test batsman Dean Jones hit an unbeaten 130 to lead Victoria 's fightback in their Sheffield Shield match against Tasmania on Saturday .,NNP NNP NN NN NNP NNP VBD DT JJ CD TO VB NNP POS RB IN PRP$ NNP NNP NN IN NNP IN NNP .,O B-LOC O O B-PER I-PER O O O O O O B-LOC O O O O B-MISC I-MISC O O B-ORG O O O
+3178,Harper was eventually dismissed for 77 after the pair joined forces with their side reeling on nine for two .,NNP VBD RB VBN IN CD IN DT NN VBD NNS IN PRP$ NN VBG IN CD IN CD .,B-PER O O O O O O O O O O O O O O O O O O O
+3180,The pair hammered 36 boundaries between them .,DT NN VBD CD NNS IN PRP .,O O O O O O O O
+3184,Close of play score on the second day of the four-day Sheffield Shield cricket match between Tasmania and Victoria at Bellerive Oval on Saturday :,JJ IN NN NN IN DT JJ NN IN DT JJ NNP NNP NN NN IN NNP CC NNP IN NNP JJ IN NNP :,O O O O O O O O O O O B-MISC I-MISC O O O B-ORG O B-ORG O B-LOC I-LOC O O O
+3185,"Tasmania 481 for eight declared ( Michael DiVenuto 119 , David Boon 118 , Shaun Young 113 ) ; Victoria 220 for three ( Dean Jones 130 not out ) .","NNP CD IN CD NNS ( NNP NNP CD , NNP NNP CD , NNP NNP CD ) : NNP CD IN CD ( NNP NNP CD RB RP ) .",B-ORG O O O O O B-PER I-PER O O B-PER I-PER O O B-PER I-PER O O O B-ORG O O O O B-PER I-PER O O O O O
+3188,South Korea made virtually certain of an Asian Cup quarter-final spot with a 4-2 win over Indonesia in a Group A match on Saturday .,NNP NNP VBD RB JJ IN DT NNP NNP JJ NN IN DT JJ NN IN NNP IN DT NNP NNP NN IN NNP .,B-LOC I-LOC O O O O O B-MISC I-MISC O O O O O O O B-LOC O O O O O O O O
+3192,"But they started the second half where they had left off and it was not long before they went four up , Ko Jeong Woon heading in from a free kick in the 55th minute .","CC PRP VBD DT JJ NN WRB PRP VBD VBN RB CC PRP VBD RB JJ IN PRP VBD CD RB , NNP NNP NNP VBG RB IN DT JJ NN IN DT JJ NN .",O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER I-PER O O O O O O O O O O O
+3194,Ronny Wabia scored for Indonesia three minutes later direct from a a corner kick that Korean goalkeeper Kim Byung reached with one hand but failed to keep out .,NNP NNP VBD IN NNP CD NNS RB VBP IN DT DT NN NN IN JJ NN NNP NNP VBD IN CD NN CC VBD TO VB IN .,B-PER I-PER O O B-LOC O O O O O O O O O O B-MISC O B-PER I-PER O O O O O O O O O O
+3195,"With 65 minutes gone Indonesia 's Widodo Putra , who scored a spectacular goal against Kuwait on Wednesday , was again on target , breaking through the Korean defence to beat the keeper with a low shot .","IN CD NNS VBN NNP POS NNP NNP , WP VBD DT JJ NN IN NNP IN NNP , VBD RB IN NN , VBG IN DT JJ NN TO VB DT NN IN DT JJ NN .",O O O O B-LOC O B-PER I-PER O O O O O O O B-LOC O O O O O O O O O O O B-MISC O O O O O O O O O O
+3199,South Korea : 1 - Kim Byung Ji ; 2 - Kim Pan Keun ; 5 - Huh Ki Tae ; 8 - Roh Sang Rae ( 7 - Sin Tae Yong 33 ) ; 9 - Kim Do Hoon ; 11 - Ko Jeong Woon ; 17 - Ha Seok Ju ; 18 - Hwang Sun Hong ; 22 - Lee Young Jin ; 23 - Yoo Sang Chul ; 24 - Kim Joo Sung .,NNP NNP : CD : NNP NNP NNP : CD : NNP NNP NNP : CD : NNP NNP NNP : CD : NNP NNP NNP ( CD : NNP NNP NNP CD ) : CD : NNP VBP NNP : CD : NNP NNP NNP : CD : NNP NNP NNP : CD : NNP NNP NNP : CD : NNP NNP NNP : CD : NNP NNP NNP : CD : NNP NNP NNP .,B-LOC I-LOC O O O B-PER I-PER I-PER O O O B-PER I-PER I-PER O O O B-PER I-PER I-PER O O O B-PER I-PER I-PER O O O B-PER I-PER I-PER O O O O O B-PER I-PER I-PER O O O B-PER I-PER I-PER O O O B-PER I-PER I-PER O O O B-PER I-PER I-PER O O O B-PER I-PER I-PER O O O B-PER I-PER I-PER O O O B-PER I-PER I-PER O
+3200,SOCCER - ISRAELI FIRST DIVISION RESULTS / STANDINGS .,NN : NNP NNP NNP NNS SYM NNS .,O O B-MISC O O O O O O
+3202,Results of first division soccer,NNS IN JJ NN NN,O O O O O
+3203,matches played over the weekend :,NNS VBN IN DT NN :,O O O O O O
+3204,Zafririm Holon 1 Hapoel Petah Tikva 1,NNP NNP CD NNP NNP NNP CD,B-ORG I-ORG O B-ORG I-ORG I-ORG O
+3206,Hapoel Kfar Sava 1 Bnei Yehuda 0,NNP NNP NNP CD NNP NNP CD,B-ORG I-ORG I-ORG O B-ORG I-ORG O
+3214,Betar Jerusalem 12 10 2 0 28 7 32,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+3219,Bnei Yehuda 12 6 2 4 15 15 20,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+3221,Maccabi Haifa 12 4 4 4 14 15 16,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+3222,Hapoel Kfar Sava 12 5 1 6 10 11 16,NNP NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG I-ORG O O O O O O O
+3224,Ironi Rishon Lezion 12 4 1 7 13 24 13,NNP NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O O
+3228,Hapoel Beit She'an 12 2 3 7 9 13 9,NNP NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG I-ORG O O O O O O O
+3245,"goals for , against , points ) :","NNS IN , RB , VBZ ) :",O O O O O O O O
+3247,UAE 2 1 1 0 4 3 4,NNP CD CD CD CD CD CD CD,B-LOC O O O O O O O
+3248,Kuwait 2 0 1 1 4 5 1,NNP CD CD CD CD CD CD CD,B-LOC O O O O O O O
+3249,Indonesia 2 0 1 1 4 6 1,NNP CD CD CD CD CD CD CD,B-LOC O O O O O O O
+3260,ORLANDO 8 7 .533 4,NNP CD CD CD CD,B-ORG O O O O
+3263,NEW JERSEY 4 10 .286 7 1/2,NNP NNP CD CD CD CD CD,B-ORG I-ORG O O O O O
+3264,BOSTON 4 13 .235 9,NNP CD CD CD CD,B-ORG O O O O
+3271,MILWAUKEE 8 8 .500 8,NNP CD CD CD CD,B-ORG O O O O
+3278,HOUSTON 16 2 .889 -,NNP CD CD CD :,B-ORG O O O O
+3282,DENVER 5 14 .263 11 1/2,NN CD CD CD CD CD,B-ORG O O O O O
+3283,SAN ANTONIO 3 14 .176 12 1/2,NNP NNP CD CD CD CD CD,B-ORG I-ORG O O O O O
+3291,GOLDEN STATE 6 13 .316 8 1/2,NNP NNP CD CD CD CD CD,B-ORG I-ORG O O O O O
+3304,NBA BASKETBALL - FRIDAY 'S RESULTS .,NNP NNP : NNP POS NNS .,B-ORG O O O O O O
+3310,New York 103 MIAMI 85,NNP NNP CD NNP CD,B-ORG I-ORG O B-ORG O
+3321,"lost , tied , goals for , goals against , points ) :","VBD , VBN , NNS IN , NNS IN , VBZ ) :",O O O O O O O O O O O O O
+3324,W L T GF GA PTS,NNP NNP NNP NNP NNP NNP,O O O O O O
+3328,BOSTON 10 11 4 74 84 24,NNP CD CD CD CD CD CD,B-ORG O O O O O O
+3334,PHILADELPHIA 15 12 2 81 78 32,NNP CD CD CD CD CD CD,B-ORG O O O O O O
+3335,NEW JERSEY 14 10 1 61 61 29,NNP NNP CD CD CD CD CD CD,B-ORG I-ORG O O O O O O
+3338,NY ISLANDERS 7 11 8 65 72 22,DT NNS CD CD CD CD CD CD,B-ORG I-ORG O O O O O O
+3339,TAMPA BAY 8 15 2 69 81 18,NNP NNP CD CD CD CD CD CD,B-ORG I-ORG O O O O O O
+3344,DALLAS 16 10 1 77 66 33,NNP CD CD CD CD CD CD,B-ORG O O O O O O
+3355,SAN JOSE 10 13 4 69 87 24,NNP NNP CD CD CD CD CD CD,B-ORG I-ORG O O O O O O
+3358,"SATURDAY , DECEMBER 7 SCHEDULE","NNP , NN CD NNP",O O O O O
+3367,TAMPA BAY AT SAN JOSE,NNP NNP NNP NNP NNP,B-ORG I-ORG O B-LOC I-LOC
+3374,BUFFALO 1 Anaheim 1 ( OT ),NNP CD NNP CD ( NNP ),B-ORG O B-ORG O O O O
+3380,NHL ICE HOCKEY - CANUCKS RW BURE SUSPENDED FOR ONE GAME .,NNP NNP NNP : NNS NNP NNP VBD IN NNP NNP .,B-ORG O O O B-ORG O B-PER O O O O O
+3385,""" Mr Bure left his feet to deliver a forearm blow to Mr Galley as he was about to be checked legally by his opponent , "" said NHL discipline chief Brian Burke in handing out the suspension .",""" NNP NNP VBD PRP$ NNS TO VB DT NN NN TO NNP NNP IN PRP VBD IN TO VB VBN RB IN PRP$ NN , "" VBD NNP NN NN NNP NNP IN VBG RP DT NN .",O O B-PER O O O O O O O O O O B-PER O O O O O O O O O O O O O O B-ORG O O B-PER I-PER O O O O O O
+3386,""" Although it is clear from the videotape that Mr Bure 's actions were a reaction to the impending hit and there was no intent to injure his opponent , there can be no excuse for this type of conduct , "" Burke said .",""" IN PRP VBZ JJ IN DT NN IN NNP NNP POS NNS VBD DT NN TO DT JJ NN CC EX VBD DT NN TO VB PRP$ NN , EX MD VB DT NN IN DT NN IN NN , "" NNP VBD .",O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O
+3393,Summary of Saturday 's Spanish first division match :,NNS IN NNP POS JJ JJ NN NN :,O O O O B-MISC O O O O
+3394,"Real Madrid 2 ( Davor Suker 24 , Predrag Mijatovic 48 ) Barcelona 0 .","JJ NNP CD ( NN NN CD , NNP NNP CD ) NNP CD .",B-ORG I-ORG O O B-PER I-PER O O B-PER I-PER O O B-ORG O O
+3399,Real Madrid 's Balkan strike force of Davor Suker and Predrag Mijatovic shot their side to a 2-0 win over Barcelona in Spain 's old firm game on Saturday .,JJ NNP POS NNP NN NN IN NNP NNP CC NNP NNP VBD PRP$ NN TO DT CD VBP RP NNP IN NNP POS JJ NN NN IN NNP .,B-ORG I-ORG O B-LOC O O O B-PER I-PER O B-PER I-PER O O O O O O O O B-ORG O B-LOC O O O O O O O
+3401,"With just one league match scheduled before the New Year break , Real are also assured of spending Christmas ahead of their arch-rivals .","IN RB CD NN NN VBN IN DT NNP NNP NN , JJ VBP RB VBN IN VBG NNP RB IN PRP$ NN .",O O O O O O O O O O O O B-ORG O O O O O O O O O O O
+3402,"A mix-up in the Barcelona defence let Croatian international Suker in midway through the first half , and Montenegrin striker Mijatovic made it 2-0 after fine work by Clarence Seedorf just after the break .","DT NN IN DT NNP VBP VBD NNP JJ NNP IN RB IN DT JJ NN , CC NNP NN NNP VBD PRP CD IN JJ NN IN NNP NNP RB IN DT NN .",O O O O B-ORG O O B-MISC O B-PER O O O O O O O O B-MISC O B-PER O O O O O O O B-PER I-PER O O O O O
+3404,SOCCER - PSV HIT VOLENDAM FOR SIX .,NN : NNP PRP$ NNP IN NNP .,O O B-ORG O B-ORG O O O
+3411,"The Doetinchem side , dubbed "" The Super Peasants "" , are one of the surprise packages of the season .","DT NNP NN , VBD "" DT NNP NNPS "" , VBP CD IN DT NN NNS IN DT NN .",O B-ORG O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O
+3412,They are fourth in the table .,PRP VBP JJ IN DT NN .,O O O O O O O
+3413,SOCCER - SPANISH FIRST DIVISION RESULT / STANDINGS .,NN : NNP NNP NNP NNP SYM NNS .,O O B-MISC O O O O O O
+3417,Real Madrid 2 Barcelona 0,JJ NNP CD NNP CD,B-ORG I-ORG O B-ORG O
+3423,Real Betis 15 8 5 2 28 13 29,JJ NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+3425,Athletic Bilbao 15 7 4 4 28 22 25,NNP NNP CD CD CD CD CD CD CD,B-ORG I-ORG O O O O O O O
+3432,Tenerife 15 5 4 6 23 17 19,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+3438,Sevilla 15 4 2 9 13 20 14,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+3441,Extremadura 15 1 3 11 8 30 6,NNP CD CD CD CD CD CD CD,B-ORG O O O O O O O
+3444,Jack Charlton 's relationship with the people of Ireland was cemented on Saturday when the Englishman was officially declared one of their own .,NNP NNP POS NN IN DT NNS IN NNP VBD VBN IN NNP WRB DT NNP VBD RB VBD CD IN PRP$ JJ .,B-PER I-PER O O O O O O B-LOC O O O O O O B-MISC O O O O O O O O
+3448,"That is why this is so emotional a night for me , "" Charlton said .","DT VBZ WRB DT VBZ RB JJ DT NN IN PRP , "" NNP VBD .",O O O O O O O O O O O O O B-PER O O
+3449,""" It was the joy that we all had over the period , that I shared with people that I grew to love , that I treasure most , "" he added .",""" PRP VBD DT NN IN PRP DT VBD IN DT NN , IN PRP VBD IN NNS IN PRP VBD TO VB , IN PRP NN JJS , "" PRP VBD .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3452,"The lanky former Leeds United defender did not make his England debut until the age of 30 but eventually won 35 caps and was a key member of the 1966 World Cup winning team with his younger brother , Bobby .","DT JJ JJ NNP NNP NN VBD RB VB PRP$ NNP NN IN DT NN IN CD CC RB VBN CD NNS CC VBD DT JJ NN IN DT CD NNP NNP JJ NN IN PRP$ JJR NN , NNP .",O O O B-ORG I-ORG O O O O O B-LOC O O O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC O O O O O O O B-PER O
